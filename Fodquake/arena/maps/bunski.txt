@@ -1,0 +1,61 @@
+Filename                : bunski.bsp
+File size		: 168Kb
+Author                  : Tika
+Email Address           : tika@leland.stanford.edu
+Description             : 
+
+A small rocket arena map set on a ski slope. The entire map is slanted at 10 degrees
+to the horizontal. Combat terrain consists of 2 fairly large "bumps", and 2 ledges
+(access provided by 2 nearby teleporters).
+
+Playing on a map slanted at an angle is an entirely new experience. :)
+
+New textures used are from the Axl texture wads (by @xl Kawa).
+
+This is a level for Expert Quake.  http://www.planetquake.com/expert/
+
+* Play Information *
+
+Single Player           : For viewing
+Arena			: Yes, for 2 players
+Cooperative             : No
+Deathmatch              : No
+Capture The Flag        : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+QuakeC Patches          : No
+Compile			: Extra light sampling, level 4 vis
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : QuArK 4.03
+Known Bugs              : None
+
+* THIS LEVEL IS NOT MADE BY OR SUPPORTED BY id Software *
+REQUIRES REGISTERED VERSION OF QUAKE 1.01 or higher
+
+Copyright Notice: Copyright  ©1997 by Mabelene Ng  All rights reserved.	
+
+This file (bunski.zip containing bunski.bsp and bunski.txt), or any derivative works thereof,
+may not be sold or redistributed for profit in any way without express written permission
+of the author.  This includes, but is not limited to, mass archival as on a CD_ROM and 
+inclusion in commercially published compilations (books). You are free to copy this file
+(bunski.zip containing bunski.bsp and bunski.txt) for personal use, or to make it available for
+redistribution in its electronic format, provided that: (1) it remains wholly unedited
+and unmodified, (2) no fee or compensation is charged for copies of or access to this
+file (bunski.zip containing bunski.bsp and bunski.txt) and (3) this copyright notice and the
+following disclaimer remain attached.
+
+Disclaimer: This file is provided by the author "as is", and any express or implied
+warranties, including, but not limited to, the implied warranties of merchantability 
+and fitness for a particular purpose are disclaimed.  In absolutely no event shall the
+authors be liable for any direct, indirect, incidental, special, exemplary, or 
+consequential damages (including, but not limited to, procurement of substitute goods 
+or services; loss of use, data, or profits; or business interruption) however caused 
+and on any theory of liability, whether in contract, strict liability, or tort (including
+negligence or otherwise) arising in any way out of the use of the information herein
+contained, even if advised of the possibility of such damage. 

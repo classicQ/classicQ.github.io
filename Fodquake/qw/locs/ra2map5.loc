@@ -1,0 +1,26 @@
+1753 -4673 -263 down MainRoom
+535 -4164 1426 upper MainRoom
+4612 -2222 1521 upper CampRoom1
+-3702 -6838 1463 upper CampRoom2
+2660 930 186 before MainRoom
+-5395 -2807 -417 before MainRoom
+5611 1173 -2032 long Hall
+6281 -4817 -1823 under CampRoom1
+5286 -12499 -196 RedLift
+435 -11919 -1910 before RedLift
+-7007 -6819 -5991 down Ladders
+-7262 -6926 -1697 middle Ladders
+-7701 -6662 1864 upper ladders
+10928 -5170 -120 Upper Circulation
+11403 -8719 -267 On Circulation
+13818 -13583 102 CampArea at Circulation
+8182 -9340 -164 Upper Circulation
+11535 -7344 -3559 WaterCirculation
+6523 -9373 -7780 TunnelWasser
+2489 -4436 -5806 Down WaterRoom
+1768 -7979 -2777 Upper WaterRoom
+3524 -565 -3053 under LongHall
+1628 4769 -1407 Sqiusch
+-2107 1545 413 CampRamp
+-247 132 63 WiredThing
+-2457 944 -1876 LongHall

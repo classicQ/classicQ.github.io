@@ -1,0 +1,45 @@
+=========================================================
+
+Title                       : Twin Towers Arena
+Filename                    : 2towers.bsp
+Author                      : Scooby (Brian Glines)
+Email Address               : bglines@apeleon.net
+Other Maps                  : i have a bunch, here goes:
+                              dc3 qw32dm5 ukooldm8 cathedrl (this one is kinda missing,
+                              a long story) pitarena, ctf1bsp8... probably a few others
+                              i am forgetting
+
+Description                 : A Rocket Arena Map, has 2 castle type things on either end 
+                              of a wide open courtyard.  There is a small lake type thing
+                              in the middle of the courtyard, and on either end of that
+                              there are little cave things with teleports that lead to
+                              the towers.  There are bridges on either side that will take
+                              you from base to base.  There is some little sniping platforms 
+                              in the middle too.
+
+Additional Credits          : ID, for Quake and some other people i am forgetting, hehe
+
+=========================================================
+
+* Play Information *
+
+Single Player               : sure, if you like to be bored
+Cooperative                 : sure, be bored with friends
+DeathMatch                  : yeah, Rocket Arena actually, it would be a fragfest in the
+                              observer boxes otherwise :)
+New Textures                : No
+
+* Construction *
+
+Base                        : None
+Editor Used                 : qED lite
+Known Bugs                  : Uhm...
+
+* Copyright / Permissions *
+
+Authors can use this map as a base to build other levels
+ask me for the source if you want to...
+
+Distribute this all you want, just keep the .txt file 
+along with it,  Don't put it on some CD collection 
+thing with out emailing me about it first.   

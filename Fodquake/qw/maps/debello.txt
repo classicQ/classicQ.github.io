@@ -1,0 +1,95 @@
+First Release: 08/20/97
+
+==================================================
+Title                   : De Bello Quakero
+
+Filename                : DeBello.bsp
+
+Author                  : Adriano Lorenzini (aka Escher)
+Email Address           : bib2002@iperbole.bologna.it
+Description             : Medium size map based on a roman theme, it should look like a sort of
+                          temple carved in the rock. Very suitable for 4-8 players.
+                          Well, that's all, go and enjoy it now!
+                          
+
+Additional Credits to   : Yahn Bernier for BSP, definately the best quake level editor out there
+                          *THIS MAP IS DEDICATED TO YOU, YAHN*
+                          Thanx to Manfred Huber (mampfi@magnet.at) for being always my
+                          harshest fault finder :)
+                          My friend Ed Smith for all he did, thanx!
+                          Steve Polge for the incredible ReaperBot
+                          Tom "Woofer" Grandgent (tgrand@ultra.net) for the enhanced QBSP
+                          Paolo Petrini, check out his site (http://quake.shiny.it/) 
+                          Rogue and Ritual for textures
+                          iD Software of course
+                          Finally thanx to all of you who spent some time for dropping me
+                          a line, i really appreciated that
+
+===================================================
+* Play Information *
+
+Game                    : Quake Registered 1.01 or higher
+Map Name                : De Bello Quakero
+Single Player           : NO
+Co-op                   : NO
+Deathmatch 2-8          : 9 Deathmatch Starts
+Difficulty Settings     : NO
+Additional Info         : No exit, No escape. Anyway setting a time limit
+                          quake will try to load my other map "Razzi Amari"
+                          so get it soon! (read below where to get it)
+==================================================
+* Construction *
+
+Base                    : New level from scratch.
+Editor used             : BSP 0.82  (http://www.planetquake.com/bsp/index.shtm)
+Construction time       : 2 week + testing
+Known bugs              : None
+
+==================================================
+
+* How to speed up the game *
+
+Though this map runs pretty fast (the max number of surfaces that quake
+has to display from the *worst* point of view is about 460 and the
+average one is about 250/300) i added a quite big amount of torches
+which tend to slow down the game especially for those who are stucked with
+a poor P100 with 16 megs as i'm. Torches look good but don't add
+anything to the gameplay so if you like you can remove them all in this way:
+i) get a copy of QBSP
+ii) Put QBSP, debello.bsp and debello.map under the same dir
+iii) Run a dos-prompt and type: qbsp -onlyents debello
+That's all
+
+* Other Works (avalaible on the CDROM site, thanx Joost) *
+
+"The Blue Death"
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/a-c/bdeath.zip
+It's a small level made for those who love the good old SSG
+
+"UltraViolence"
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/s-u/ultrav.zip
+Another small deadly map made for a very intensive DM.
+It's a sort of heaven if you like to rocket-jump on your buddy's head.
+
+"Razzi Amari"
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/p-r/razzi.zip
+Medium size map suitable for 6-8 players. It's a "metal"
+DM level very interconnected for allowing a very fast gameplay.
+If you love classics then give it a run through.
+
+Comments, suggestions and/or REQs are welcome.
+Any feedback will be greatly appreciated.
+Email to: Adriano Lorenzini <bib2002@iperbole.bologna.it>
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. And it must not be sold, without permission from the author.
+
+You MAY distribute this BSP, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Greetings from Venice

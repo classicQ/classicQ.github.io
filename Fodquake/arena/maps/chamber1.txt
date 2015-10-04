@@ -1,0 +1,95 @@
+================================================================
+Title                   : The Chamber of Pain
+Filename                : Chamber1.bsp
+Release Date            : 11/10/1997 (Ver 1.1 final release!)
+
+Author                  : Shadow [iC/JL/N]
+URL                     : None :(
+Email Addresses         : SHADOW@CYBERZONE.CO.UK
+ICQ UIN                 : 3258545
+
+Description             : This is my first attempt at a rocket arena map.  It is 
+                          modelled on a tomb/pyramid and was designed with speed and 
+                          gameplay in mind.
+                          (BTW this may just be entered into the current Rocket 
+			  Arena level compo that is going on)
+			  After some serious :) playtesting I decided to replace
+			  the cage with glass (Thanx to Rorshach for showing me how
+			  bloody simple glass is (and makin me kick myself!))
+
+Additional Credits to   : [OCR]Slop (#Quake.ger on IRCnet Demon) for putting it on a RA server
+			  Catfood for keeping mine (& every1 else's) mothers happy :)
+			  Gumby for being a fat bastard
+			  Claire (AKA Mad Moose) for wingin my fucking head off
+			  Rorshach for inspiring me into this mush in the first place
+			  My bloody PC that terminated my TF project so I could do this
+			  Gunhed for GLQuake testing it at short notice
+			  Lukas.buck[iC] for havin a peep at it		
+			  GuruMauve for giving me a LPB beating on it :(			  
+			  [GOC]Joker for speaking anal english while testing the map with me
+
+Whats to come next	: I have 4 more maps planed
+			  They r as follows
+				Hells basin (A hellish theme)
+				Outta this world (A low G arena set in space)
+				The crypt (A medievel sorta slant) (May be canned)
+				Nature's Way (Set in a forest)  
+			  
+			  I have also started work on a taster level for a new conversion I have
+			  planned called Sole survivor.  It is already looking quite nice and 
+			  will probably be released during the middle of next month.
+			  Give me some views and if the response is good enough then I will do
+			  A conversion around it :)			  
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yes if you like chasing your tail
+Cooperative             : Give it up
+Deathmatch              : May make a 1 on 1 version with guns & ammo
+Team Fortress		: No
+Rocket Arena            : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft v1.5 (The best, get it now!)
+Known Bugs              : I DARE you to find an unaligned texture!
+Build Time              : 5 hours so far
+
+Texture Wad used        : Texture.wad
+                          (Hand crafted by maketex) :)
+
+Compile machine         : P166/32mb
+QBSP Time               : 14 seconds
+Light (-extra) Time     : 26 seconds
+VIS (level 4) Time     	: 255 seconds (Makes a change from 44,000 odd!)
+
+* Where to get this level *
+
+Me of course
+(will be uploaded to CDROM.COM once fully completed
+Hopefully the latest Rocket arena ZIP
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Shadow[iC/JL/N].  All rights reserved.
+This level may be electronically distributed only at no charge to
+the recipient, and may not be modified in any way.  This text file
+must be included with the level.
+
+This level may not be distributed on any CD-ROM without the prior,
+explicit consent of Shadow[iC/JL/N].
+
+This level may be used on a FREE Multi-player server as long as
+I am notified
+
+Commercial Servers must get my consent before the useage of this map
+is allowed
+

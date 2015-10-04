@@ -1,0 +1,112 @@
+Title    : Clan PhosGene Skin
+Filename : psgskin.zip
+Version  : 6.8
+Date     : 96/12/16
+Author   : Matt Axt (Axeman)
+Email    : axeman@ct1.nai.net
+Credit   : Russell Bon (Stick) for forcing me to keep the
+	     helmet on the skin.  
+           Craig Pishock (Methos) for extensive frag-testing.
+           Jim Walsh (sQinner) for extensive reputation creating.
+
+           Brian Martin for MeDdLe v1.7!
+	     Everyone at ID Software for designing Quake!
+	     Everyone at JASC Software for designing Paint Shop Pro!
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : yes
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+Source (bmp)
+Included      : no
+
+Procedures
+----------
+Build
+Time     : About 22+ hours.
+Software : Paint Shop Pro v4.0
+	   : Meddle v1.7
+         : QuakeMe v2.3
+
+Description of the Modification
+-------------------------------
+This is the Clan PhosGene skin for the player.mdl
+I did quite an overhaul to the old skin.  I touched
+up the arms so the colors are better, I added the
+camoflauge pants, I increased the size of the logo
+and added the letters, and I changed the pads a bit.
+The arms, one color of the pants camo and 
+logo change to the quake pants color,
+The pads change to the quake shirt color.
+The boots and gloves were made black, and spikes
+were added to the outside of the gloves.
+I drew the axe almost from scratch.  I used a texture
+I found on another mdl from Quake for the axeblade,
+and modified it a bit, but the rest is new. I added a
+few highlights to the gun, made a green "window"
+like area on both sides, and added the green bore.
+
+
+
+How to Install the Modification
+-------------------------------
+
+Create a directory in your Quake directory (eg:phosgene) and unzip 
+the archive in it.  Run quake with the -game parameter, eg:
+
+quake -game phosgene
+
+
+Technical Details
+-----------------
+
+Umm, no!
+
+
+Author Information
+------------------
+
+My first official release of a Quake player model skin.
+
+Matt Axt
+axeman@ct1.nai.net
+http://q.continuum.net/~axeman
+
+I am currently working on skins for other Clans, and
+if you are interested in my work, check the Clan PhosGene
+homepage.
+http://q.continuum.net/~axeman/phosgene
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY NOT use these modifications as a basis for other
+publically available work.
+
+Contact me if you have a problem.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+The Clan PhosGene Homepage
+http://q.continuum.net/~axeman/phosgene
+
+I haven't uploaded yet - but probably ftp.cdrom.com

@@ -1,0 +1,67 @@
+____________________________________
+
+Title				: She Has Leaks 
+Game				: Quake I DM 
+
+Author			: 
+			Speedy
+			speeds@softhome.net
+			www.planetquake.com/speedy
+			www.cr8.da.ru
+			icq 68154481
+			
+Release Date            : 3 Sept 2002
+Files                   : leaks.bsp 
+
+____________________________________
+
+Description / Play Information 
+
+
+Attrium based fast deathmatch map for 4 ffa/1-1 (both deathmatch 1 and 3)
+Plays very good with omicron bots, they are highly suggested over reapers.
+
+___________________________________
+
+Textures: Q1, Rorshach, Ogro, Kingpin
+some modified/mixed by Speedy
+
+
+____________________________________
+
+Instructions / INSTALLATION 
+
+Unzip .bsp to quake/id1/maps directory
+
+To start, in quake`s console type: map leaks
+
+then go to qmap.org forum and say what you think of it
+____________________________________
+
+Testing/Help
+
+Big thanks for the good and usefull feedback to:
+(in order of appereance) Scampie, Jaj, Snaga, Asriel, Paul
+Other testers: Blitz, zzjzz
+
+greetings to #tf/qmap folks
+____________________________________
+
+Soft Used              
+
+GtkRadiant
+BSP map editor by Yahn W. Bernier
+compilers by Tyrann and Bengt Jardrup
+TexMex by Mickey
+PS by someone
+Win.com by Bill G8s' gimps
+____________________________________
+
+-- Copyright / Permissions --
+
+
+NON-commercial use only. In other case you have to obtain my permission.
+
+You MAY distribute this file through any electronic network (internet,
+local BBS etc.), provided you include txt and all files unmodified and leave the zip archive intact.
+

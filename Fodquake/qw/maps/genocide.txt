@@ -1,0 +1,57 @@
+Title 			: XL Genocide Crush
+File Name 		: genocide.bsp
+
+Author 			: Graeme "ProdigyXL" Timmins
+
+E-Mail  		: pault@modempool.com
+Homepage		: http://www.planetquake.com/xl
+Describtion 		: Quake I Deathmatch level
+
+Author work		: You can find my other work at my homepage.			
+
+Additional Credits	: Id software, of course of course
+			  Tyran for his Trylite
+			  The guys behind Worldcraft
+			  Shambler for pishing me to finish it
+			  Paul for taking a nice look at it and making some suggestions
+			  All the #terrafusion folk for name ideas
+			  Kaiser again for taking some time out and checking it over
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch		: YES
+CTF			: No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+
+Players 		: 4 Player FFAs
+Base                    : New level from scratch
+Editor(s) used          : WorldCraft 1.6
+Known Bugs              : None		  
+Build Time              : About a month and a half I think.
+Texture Wad used        : Q3A Texture set
+Compile machine         : Pentium2 266
+			  64 RAM
+
+Place this map in your drive:\quake\id1\maps directory.
+
+As you may of noticed this isn't xl1dm5.  This is Genocide.bsp.  Although its my
+5th Quake I map, its not part of the XL1DM series on the simple fact this was an
+expirement in level design in a sense.  Useing a open layout, and bright textures,
+its a different map.  This map was never intended to be released, that was until
+some people looked at it and told me to finish it.  This map was released to have fun
+on, so please enjoy the map, and not be overly critical of it. :)
+  
+* Copyright / Permissions *
+
+Copyright Notice: 
+
+If you want to slap this on a CD, e-mail me first and let me know so I can give a
+yes or a no.  If you had to pay to get this level, you are getting ripped off.
+Thats it :)

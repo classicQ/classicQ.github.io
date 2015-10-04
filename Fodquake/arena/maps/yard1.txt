@@ -1,0 +1,47 @@
+Released: 24th/September/97 (Final Version)
+==================================================
+Title                   : The Backyard
+
+Filename                : yard1.bsp
+
+Author                  : Espen Solberg (KillerBee)
+Email Address           : esso@powertech.no
+Description             : Level designed for the Rocket Arena patch
+                        
+                      
+===================================================
+* Play Information *
+
+Game                    : Quake Registered 1.01 or higher
+Map Name                : The Backyard
+Single Player           : no
+Co-op                   : no
+Deathmatch 2-16         : Yes, custom made for 1on1, Rocket Arena style
+Difficulty Settings     : no
+
+==================================================
+* Construction *
+
+Base                    : New level from scratch.
+Editor used             : WorldCraft v1.5
+Construction time       : 1 week including playtesting
+Known bugs              : none
+
+==================================================
+* Thanks to *
+
+HellRaiser for helping me with bugfixes
+[SC]Avenger, [CaC]HumbleGar, DigiX and [I]Guts for helping with 
+betatesting and ideas
+All the other betatesters
+
+==================================================
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. And it must not be sold, without permission from the author.
+
+You MAY distribute this BSP, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.

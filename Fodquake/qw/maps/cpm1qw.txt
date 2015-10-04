@@ -1,0 +1,72 @@
+
+
+====================================================================
+
+
+Title			: Wicked
+BSP Name		: cpm1qw.bsp
+Release Date		: 27.11.2004
+Original Author	        : FxR|Jude
+Textures Author         : Decker
+Remake Author           : Bartosz "SamoN" Rak
+E-mail Address		: samon@go2.pl
+Website			: http://www.samon.c0m.pl/
+Bsp File Size		: 950kB
+
+Thanks to               : FxR|Jude for original version
+                          Decker for amazing textures
+
+=====================================================================
+PLAY INFORMATION
+=====================================================================
+
+
+Game			: Quake
+Single Player		: No
+Deathmatch		: Best for 2 players
+Dm Spawns		: 6
+
+
+=====================================================================
+CONSTRUCTION
+=====================================================================
+
+
+Base			: faithful cpm1a remake from q3
+Construction Time	: few days
+Bsp/Light/Vis		: 0,5s/0,4s/27s
+Textures used		: 37
+Editor used		: QuArk 6.3
+
+
+=====================================================================
+MY OTHER / OLD MAPS
+=====================================================================
+
+
+01. - br1m.bsp	   "Abbyss"
+02. - br2m.bsp     "Deathmatch Arena"
+03. - br3m.bsp	   "Arahnophobis"
+04. - br4m.bsp	   "The edge" - Q2DM1 REMAKE (QUAKE2)
+05. - br5m.bsp	   "Masta Campa"
+06. - br6m.bsp	   "Blacktrip"
+07. - br7m.bsp	   "Exodus"
+08. - br8m.bsp	   "sIn"
+09. - br9m.bsp	   "Something"
+10. - br10m.bsp	   "666"
+11. - br11m.bsp	   "Wildhoney"
+12. - br12m.bsp	   "Almost Fury" - FURY REMAKE (QUAKE2)
+13. - br13m.bsp	   "Passage"
+14. - br14m.bsp	   "Lost Hallways"
+15. - br15m.bsp	   "Turbine" - TURBINE REMAKE (UNREAL TOURNAMENT)
+16. - br16m.bsp	   "The Mortuary"
+17. - br17m.bsp	   "The Shattered Dream" (new dm2 vision)
+18. - br18m.bsp	   "The Obscure Base"
+19. - br19m.bsp	   "The Temple Of Death"
+20. - br20m.bsp	   "The Rage" - Q2DUEL8 REMAKE (QUAKE2)
+21. - br21m.bsp    "Mortail Coil" - Q2DUEL5 REMAKE (QUAKE2)
+22. - q3dm6qw.bsp  "The Campgrounds" - Q3DM6 REMAKE (QUAKE3ARENA)
+
+ 
+=====================================================================
+

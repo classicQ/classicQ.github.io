@@ -1,0 +1,131 @@
+-8405 -11757 -1055 [CP1]-B Warehouse
+-10111 -19327 -1599 [CP1]-B Warehouse
+-2688 -19327 -319 [CP1]-B Warehouse
+-2688 -9856 192 [CP1]-B Warehouse
+-7551 -9856 192 [CP1]-B Warehouse
+-4224 -9856 -2111 [CP1]-B Warehouse
+-9599 -9856 -2111 [CP1]-B Warehouse
+-2688 -18832 -2111 [CP1]-B Warehouse
+2674 -15811 -287 B Base
+2432 -11136 -319 B Base
+4388 -11136 -319 B Base
+5808 -11136 -831 B Base
+9087 -14720 -319 B Base
+5248 -16512 -319 B Base
+5324 -19327 -319 B Base
+10367 -19326 -319 B Base
+10367 -16512 -319 B Base
+6936 -12785 -1087 B Base
+7204 -15975 -2111 B Base
+9076 -14720 -2111 B Base
+10367 -19327 -2111 B Base
+5248 -19327 -2111 B Base
+7893 -10898 -191 B Base
+10631 -11000 -63 B Base
+10530 -14637 -63 B Base
+-13054 -3577 224 [CP2]-Arch Room
+-13439 -6271 192 [CP2]-Arch Room
+-8064 -6245 192 [CP2]-Arch Room
+-7461 -3011 192 [CP2]-Arch Room
+-9087 -2176 192 [CP2]-Arch Room
+-13294 106 320 [CP2]-Arch Room
+-11537 3843 192 [CP2]-Arch Room
+-12159 1408 192 [CP2]-Arch Room
+-8064 504 192 [CP2]-Arch Room
+-13439 895 -1087 [CP2]-Arch Room
+-13439 -6267 -1087 [CP2]-Arch Room
+-9600 -6159 -1087 [CP2]-Arch Room
+-9600 -2048 -2111 [CP2]-Arch Room
+-12287 -2048 -2111 [CP2]-Arch Room
+-11846 -5119 -2111 [CP2]-Arch Room
+-13166 -3036 -1087 [CP2]-Arch Room
+2256 1221 224 [CP3]-Library
+7295 3455 192 [CP3]-Library
+3712 3455 192 [CP3]-Library
+895 3327 192 [CP3]-Library
+-4223 3327 192 [CP3]-Library
+-5126 1515 192 [CP3]-Library
+-4223 -767 192 [CP3]-Library
+-872 -767 192 [CP3]-Library
+2604 -846 192 [CP3]-Library
+6015 897 192 [CP3]-Library
+1408 -895 -1983 Secret-Library
+1408 3455 -1983 Secret-Library
+4479 3455 -1983 Secret-Library
+4854 -174 -1855 Secret-Library
+849 2674 1728 Library-Top
+848 -192 1728 Library-Top
+4235 -118 1728 Library-Top
+4446 2205 1728 Library-Top
+2155 1250 1728 Library-Top
+9298 -2640 -2079 [CP4]-Small Warehouse
+13951 -1464 -2111 [CP4]-Small Warehouse
+14463 -4735 -2111 [CP4]-Small Warehouse
+11656 -4223 -2111 [CP4]-Small Warehouse
+11136 -1414 -2111 [CP4]-Small Warehouse
+8420 -5173 -2111 [CP4]-Small Warehouse
+8064 -5247 -575 [CP4]-Small Warehouse
+11114 -5247 -575 [CP4]-Small Warehouse
+14395 -5217 -575 [CP4]-Small Warehouse
+10753 -2814 -63 [CP4]-Small Warehouse
+9220 -1408 -575 [CP4]-Small Warehouse
+11802 2954 -1887 [CP5]-Fountain
+14207 5267 -2111 [CP5]-Fountain
+8656 5234 -2111 [CP5]-Fountain
+7808 3048 -1703 [CP5]-Fountain
+8127 -353 -1087 [CP5]-Fountain
+10557 -895 -1171 [CP5]-Fountain
+14207 -895 -2111 [CP5]-Fountain
+4342 7948 224 [CP6]-Balcony
+5691 5988 192 [CP6]-Balcony
+4991 10080 192 [CP6]-Balcony
+547 5892 -959 [CP6]-Balcony
+-3962 6341 -959 [CP6]-Balcony
+-639 10111 -959 [CP6]-Balcony
+3199 10110 -1983 [CP6]-Balcony
+3199 5760 -1983 [CP6]-Balcony
+1612 8778 -1983 [CP6]-Balcony
+-9055 12664 -543 [CP7]-Boathouse
+-8064 14207 -575 [CP7]-Boathouse
+-8064 8064 -1599 [CP7]-Boathouse
+-11545 8183 -2111 [CP7]-Boathouse
+-15487 8064 -1599 [CP7]-Boathouse
+-15383 11138 -575 [CP7]-Boathouse
+-15487 15487 -575 [CP7]-Boathouse
+-13111 15487 -2111 [CP7]-Boathouse
+-10624 15487 -2111 [CP7]-Boathouse
+-8064 14207 -1983 [CP7]-Boathouse
+-8064 11568 -1983 [CP7]-Boathouse
+-8432 16312 -1055 [CP8]-R Warehouse
+-9599 14720 -2111 [CP8]-R Warehouse
+-4224 14720 -2111 [CP8]-R Warehouse
+-2688 16740 -2111 [CP8]-R Warehouse
+-2688 19071 -2111 [CP8]-R Warehouse
+-2688 22394 -2111 [CP8]-R Warehouse
+-3159 23600 -2111 [CP8]-R Warehouse
+-7044 24191 -2111 [CP8]-R Warehouse
+-10111 24191 -1599 [CP8]-R Warehouse
+-10111 20095 -2111 [CP8]-R Warehouse
+-10111 22060 -319 [CP8]-R Warehouse
+-2888 23240 -319 [CP8]-R Warehouse
+-2688 19175 -319 [CP8]-R Warehouse
+-2690 14720 192 [CP8]-R Warehouse
+-7551 14747 192 [CP8]-R Warehouse
+7680 15783 -191 R Base
+10636 15697 -63 R Base
+10659 19537 -63 R Base
+9087 19071 -703 R Base
+5549 20863 -1855 R Base
+5248 24191 -2111 R Base
+10367 24191 -2111 R Base
+9087 20863 -2111 R Base
+3739 16000 -319 R Base
+2432 17669 -319 R Base
+2432 20863 -287 R Base
+6125 20135 -319 R Base
+9087 20316 -319 R Base
+1938 4630 192 SecretDoor-Library
+5248 24191 -319 R Base
+10367 24191 -319 R Base
+10367 21376 -319 R Base
+7116 21440 -319 R Base

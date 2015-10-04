@@ -1,0 +1,5 @@
+Leader: none
+Clan: Clan Nimbus
+Email: nimbus@mindspring.com
+Web site: http://www.mindspring.com/~jamesloe/nimbus/
+Skin: nimbus.pcx 

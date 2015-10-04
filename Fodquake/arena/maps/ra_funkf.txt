@@ -1,0 +1,65 @@
+Final Arena Release Edition: November 29, 1997
+
+==================================================
+Title                   : Funkadooda's Revenge 
+
+Filename                : ra_funkf.bsp (Final GL version)
+
+Author                  : Steve Fukuda - The QuakeLab
+                          http://www.planetquake.com/QuakeLab
+                          
+Email Address           : stevefu@unixg.ubc.ca
+
+Description             : Designed for the hectic 1v1 DM variant
+                          called "Rocket Arena." Best played under GLQuake.
+                          R_SPEEDS under GLQuake are not as good due to
+                          the transparent water compilation, but framerates
+                          are excellent - your card will take up the slack.
+                          Non GL version is not compiled for transparent
+                          water and has typically acceptable R_SPEEDS around
+                          450 max. 
+                          
+Additional Credits to   : Yahn Bernier for the BSP Quake Map Editor and for
+                          his modified YAHNQBSP.EXE
+                          NiOXiN for Rocket Arena
+                          David "crt" Wright, Rocket Arena programmer
+                          Neal White III for LIGHTDLX
+                          Zoid for the latest GLQuake
+                          id Software, for Quake and all the great stuff that
+                          goes with it.
+
+===================================================
+* Play Information *
+
+Game                    : Quake (Full Registered Version) GLQuake advised.
+Map Name                : Funkadooda's Revenge
+Single Player           : YES, for looking around
+Co-op                   : NO
+Deathmatch 2-8          : 8 Observer, 8 Arena starts
+Difficulty Settings     : NO
+Additional Info         : No exit.
+==================================================
+* Construction *
+
+Base                    : New level from scratch.
+Editor used             : BSP 0.75  (http://bsphq.telefragged.com)
+Construction time       : About 10 hours from concepts to completion.
+Known bugs              : Minor texture conflict on diagonals of TECH
+                          textured trim surrounding main observer gallery but
+                          not obvious, also, extremely rare stoppage of
+                          movement in wind tunnel due to partition, but easy
+                          to get out of. You can fire through the CLIP
+                          brushes into the observer areas.
+
+==================================================
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. And it must not be sold, without permission from the author.
+
+You MAY distribute this BSP, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+

@@ -1,0 +1,91 @@
+===============================================================================
+Title                   : Reduced Gravity
+Filename                : LowGrav.BSP
+Version                 : 12/1/97
+
+Note: THIS MAP WAS DESIGNED TO BE PLAYED WITH SV_GRAVITY SET TO 150,
+it can be played with the default 800, but it's not as fun.
+
+Author                  : Lance "CornJob" Kett
+Contact info            : before 12/12/97 - kett@cts.com
+			  after 12/12/97 - kett@home.com (i hope =] )
+			  the above accounts are prefered... however, 
+			  kett@rohan.sdsu can be used, but it may take a 
+			  couple of days to be seen.
+			  I can also be found on Efnet #quake as
+                          CornJob
+
+Misc. Author Info       : This is my Second Rocket Arena map, The first was 
+			  Dark.bsp, "The Dark Arena".
+			  Other past things include MSTQuake, found on 
+			  ftp.cdrom.com/pub/quake/sounds/mstquake.zip.
+			  Also the founding member of Clan apathy (or not,
+                          whatever, I don't care) www.users.cts.com/sd/k/kett/
+
+			  
+Description             : This a slight departure from most other RA maps,
+			  It's a medium sized round room with platforms at
+			  various hieghts around the sides. It was meant to
+			  be played with a low SV_GRAVITY, I think 150 is
+			  probably the best value I have found.
+
+Additional Credits to   : id for quake (soon to be Quake2);
+			  crt for Rocket Arena, on of the best mods ever;
+			  Pastry God, Darx, FunkyT and friends, for play testing
+			  Efnet #quake for being Efnet #quake (Wouldn't want to
+			  waste long periods of time anywhere else)
+
+===============================================================================
+
+* Play Information *
+
+Game                    : Quake
+Single Player           : No
+Cooperative             : No 
+Deathmatch              : Rocket Arena mod (http://planetquake.com/servers/rocket)
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : new map
+Brushes			: 104
+Entities		: 22, 10 lights
+
+YwQBSP			: 10.0 secs 
+Arghlite -extra		: 25.0 secs
+RVis -Level 4		: 1282.0 secs or 21min 21secs
+
+Build machine		: K6 233 w/ 32megs ram, win95
+
+Editor(s) used          : BSP v.85b
+Known Bugs              : If compiled using TreeBSP then there are a lot of "Point off
+			  plane" errors, but if I use Ywqbsp then I don't, i'm not sure
+			  if it's a map bug or a bug in TreeBSP or Ywqbsp. 
+
+* How to use this level *
+
+In your Quake/Arena directory create a directory called "maps" and copy the
+level into it. Join a rocket arena server that runs this level, or start a
+server with this map, And make sure you have "sv_gravity 150" set.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic format that is sold for money without my explicit 
+permission, with the sole exception of CDROM.COM, they, of course can do the
+normal thing with this, because they rock.
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.
+
+* Where to get this map *
+
+um, duh,
+ftp.cdrom.com and mirror sites.

@@ -1,0 +1,50 @@
+Released: 18th/June/97 (Final Version)
+==================================================
+Title                   : Fragstar Deathmatch One
+                        : Official QuakeCon97 deathmatch level
+
+Filename                : qcon1.bsp
+
+Author                  : Dennis Kaltwasser (headshot of Clan Fragstar)
+Email Address           : dennis.m.kaltwasser@germanistik.uni-giessen.de
+Home page               : http://www.geocities.com/Area51/Vault/4851
+Description             : DM level modified for QuakeCon97
+                       
+Additional Credits to   : American McGee for designing the coolest level ever
+                      
+===================================================
+* Play Information *
+
+Game                    : Quake Registered 1.01 or higher
+Map Name                : Fragstar Deathmatch One
+Single Player           : no
+Co-op                   : no
+Deathmatch 2-16         : Yes
+Difficulty Settings     : no
+
+==================================================
+* Construction *
+
+Base                    : New level from scratch.
+Editor used             : WorldCraft
+Other Programs		: Adquedit 1.25
+Construction time       : around 4 weeks 
+Known bugs              : none
+
+==================================================
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. And it must not be sold, without permission from the author.
+
+You MAY distribute this BSP, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this BSP *
+
+http://www.quakecon.com/
+http://www.quakemania.com/
+http://www.geocities.com/Area51/Vault/4851  (in the maps section)

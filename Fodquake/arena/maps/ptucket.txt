@@ -1,0 +1,112 @@
+8th November 1997
+================================================================
+Title                   : Pawtucket (pronounced P'tucket) Palladium
+Filename                : ptucket.bsp
+Version                 : 1.00
+Author                  : Andy Alberg (Greblaja)
+Email Address           : greblaja@ids.net
+Description             : Map designed to be used with
+                          Rocket Arena.
+Additional Credits to   : id Software, for Quake
+                          The Rocket Arena Team 
+			  (http://www.planetquake.com/servers/arena/)
+                          Ludlow at RIGamer (http://indy.ids.net/quake)
+                           for hosting the beta testing
+                          All those who helped play test (thanks)
+             
+================================================================
+Play Information
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : No
+Capture The Flag        : No
+Rocket Arena		: You Betcha!
+Difficulty Settings     : N/A
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+Construction
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft: (commercial) version 1.5 
+Known Bugs              : None
+Build Time              : Approximately 7 hours
+Texture Wad used        : combination of id and Threewave
+                           textures
+                          Uses 11 textures in the map
+Compile machine         : PPro 200, 64megs Ram.
+QBSP Time               :  15.0 secs (using qbsp)
+Light Time              :  20.0 secs (using arghlite)
+VIS (-level 4) Time     :  81.0 secs (using rvis -level 4)
+
+Brushes                 : 197
+Entities                :  47
+
+================================================================
+Other Info
+
+Map Making history      : This is my second Rocket Arena map.  
+                          I have started a ton of maps, and am
+                          currently making some sets for an
+                          upcomming Phantasm movie.
+
+Worst known R_SPEEDS    : 771  :o  That sucks, but there is not much
+                          that I can do, given the desired design.
+                          Alot of the map is in the 500s-600s, which is
+                          pretty bad in its own right.
+
+About the name          : It is named for a local area (my hometown, actually)
+                          here in Rhode Island, which is also an Indian 
+                          word probably in the tongue of the Naragansetts.
+                          Pawtucket is home of the AAA Red Sox, the first
+                          mill in the new world (Slater Mill), and the most
+                          hideous s-curves you will ever see on an interstate
+                          anywhere in the country.  As far as I know, there
+                          is no current Pawtucket Palladium: it just 
+                          sounded good to me.
+
+Lessons Learned         : I've been wrestling with octagonal shapes for a
+                          while now and I think I've finally gotten it
+                          under control.  The trick is to make sure every
+                          single vertex sits on on the grid.  This means that
+                          you cannot make a "true" hexagon, as an integer number
+                          of units in one dimmension leads you too a decimal
+                          number of units in another.  My advice: use the
+                          old 13-12-5 triangle as a guide.  It is close enough.
+                          I used it at some "radius" distance, but then chose
+                          to extend from there using 2-to-1 unit lines (slopes
+                          of 2 or 0.5), which isn't even the 12-5 that I just 
+                          suggested, let alone not being true to octagonal types
+                          of lines, but is good enough for short spans.  I
+                          extended these lines too far towards the middle, which
+                          resulted in the very non-octagonal shape of the roof
+                          opening.  I decided, though, that I liked the way it
+                          had turned out anyway, and kept it as is.  
+
+                          God bless vertex manipulation.  :-)
+
+Additional Credits      : I just wanted to tip my hat again to the RA team,
+                          as well as the authors of the first sets of maps.
+                          As it happened with CTF, I'm sure that the all of the 
+                          next generation of RA maps will be inspired by one
+                          or more of the original RA maps.  I was inspired by the
+                          set as a whole - trying to make a good stadium type of
+                          arena, as most in the original set are, as opposed to 
+                          more of a mini-dm-level type, of which there are a few.
+
+Web page(s)             : http://www3.edgenet.net/~aalberg/quake.html
+
+================================================================
+Copyright / Permissions
+
+Authors MAY use this level as a base to build additional
+levels, provided that credit is given to me for the original map.
+Mail me for a copy of the .map.  :-)
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

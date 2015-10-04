@@ -1,0 +1,45 @@
+================================================================
+Title                   : The Wicked Empty Base
+Author                  : Ralph Gustavsen a.k.a. tesh[BoB]
+URL                     : http://www.coastlinegraphics.com/
+                        : http://www.coastlinegraphics.com/quake
+Email Addresses         : clg@coastlinegraphics.com
+Description             : Rocket Arena Map
+
+================================================================
+
+* Play Information *
+
+Single Player           : Nope
+Cooperative             : Nope
+Deathmatch              : Designed for Rocket Arena
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+* Construction *
+
+Base                    : New Level from Scratch, based on DM3
+Editor(s) used          : Worldcraft v1.5
+Known Bugs              : My Netscape locks up on Java Script
+Build Time              : 10 hours
+
+Texture Wad used        : quake.wad (a custom wad grab your own copy at
+                        : http://www.coastlinegraphics.com/quake/files/quake_wad.zip
+                        : its a combo of all the ID, Hipnotic, Rogue, and CTF textures, with
+                        : redundant textures removed)
+Compile machine         : Intel Pentium 133/64mb
+QBSP Time               : 15 seconds
+Light (-extra) Time     : 68 seconds
+VIS (-level 4) Time     : 3 minutes
+
+
+Copyright (c) 1997 Coastline Graphics.  All rights reserved.
+This level may be electronically distributed only at no charge to
+the recipient, and may not be modified in any way.  This text file
+must be included with the level.
+
+This level may not be distributed on any CD-ROM without the prior,
+explicit consent of Coastline Graphics. 
+have a nice day ;)

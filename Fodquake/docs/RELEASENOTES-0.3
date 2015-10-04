@@ -1,0 +1,247 @@
+
+Hunk/zone system removed:
+Quake's MSDOS memory handler, which was responsible for a lot of internal limitations and code that was hard to maintain, has been removed. With it dies a lot of command line arguments that are no longer necessary as memory is dynamically allocated.
+
+New console:
+The console code has been completely rewritten and now supports various mark-ups, including Ezquake-style colours, as well as proper layout of the console text when mark-ups are involved, and relayout instead of destruction of console text when the console gets resized.
+
+The console has also gotten much more memory efficient, which enables a much bigger scrollback buffer at the same memory usage.
+
+Note: Mvdsv/KTX will strip colour information from chat for all clients that are not Ezquake. If you wish to see other players' coloured chat on such servers, you must set the cl_imitate_client cvar to "ezquake-1.8.2".
+
+Ports to new platforms:
+We always work on making the Fodquake code cleaner and more portable. This has now paid off with a couple of ports to new platforms compared to Fodquake 0.2. The newly supported platforms are AROS, FreeBSD, Mac OS X and Windows, with the latter two being OpenGL only. The complete list of supported platforms is now:
+ - AROS
+ - FreeBSD
+ - Linux
+ - Mac OS X
+ - MorphOS
+ - Windows
+
+Updated rendering code:
+Fodquake is in the process of being transitioned out of the 20th century, which also means updating the rendering code to better match reality and expectations of the 21st century. This has resulted in a number of speed improvements to the OpenGL renderer, as well as modernisation of the software renderer, allowing it to scale text and HUD elements in the same way the OpenGL renderer does.
+
+Fodquake now also supports flat rendering of maps, in both OpenGL and software rendering, with the user being able to either choose distinct colours for walls, floors/ceilings and slopes, or choosing to colour each surface on the entire map according to their wish.
+
+Improved Linux sound support:
+The ALSA support code has been rewritten and now works much better than before. Pulse Audio support has also been added.
+
+Filesystem changes:
+For new Fodquake installations, Fodquake will now keep user data in the home directory (or similar mechanism) as provided by the operating system. This allows Fodquake to blend in better with most modern operating systems, as well as making it easier for the user to move the data and upgrade Fodquake. If Fodquake detects an old style installation, it will continue to work as it did in the past.
+
+Server browser:
+The already great server browser has been improved even more.
+
+It is now possible to make the server browser look for your friends for you. Simply add the names of your friends and use the friends tab in the server browser to see where they are playing.
+
+Are you looking for a specific map being played or a specific server name? Just hit '/' and start typing!
+
+=============================================================================
+
+Removed command line arguments:
+ - -condebug
+ - -conbufsize
+   o Disappeared with the new console implementation.
+
+ - -heapsize
+ - -mem
+ - -minmemory
+   o Disappeared with the removal of the Quake zone/hunk system.
+
+ - -nolibpng
+ - -nolibjpeg
+   o Fodquake now simply continues working without libpng/libjpeg if they are
+     not found.
+
+ - -zone
+   o Disappeared with the removal of the Quake zone/hunk system.
+
+Removed cvars:
+ - auth_validate
+ - auth_viewcrc
+ - auth_warninvalid
+   o Removed the last remnants of the obscurity module system.
+
+ - cl_pitchspeed
+ - cl_yawspeed
+   o Removed as using the keyboard to manipulate the view is no longer
+     supported.
+
+ - con_wordwrap
+   o The console now always word wraps, which was also the default before.
+
+ - gl_affinemodels
+   o Obsoleted by technology 15 years ago
+
+ - m_forward
+ - m_side
+   o Removed as using the mouse to control movement is no longer supported.
+
+ - r_shadows
+
+ - sys_extrasleep [Linux only]
+   o Obsoleted in 0.2 in favour of actual working code.
+
+New cvars:
+ - cl_weaponfire
+   o Selects if the +weapon command should automatically fire the selected
+     weapon when used. If set to 1, the chosen weapon is fired right away. If
+     set to 0, the chosen weapon is preselected in the client, and the client
+     shows the preselected weapon without changing weapon on the server. The
+     client then automatically changes weapon to the preselected weapon next
+     time +attack is used.
+
+ - cl_weaponswitch
+   o Selects which weapon Fodquake should switch to after using +weapon. The
+     cvar value is a list of weapons it should attempt to use, with the
+     highest priority first. Defaults to "2 1".
+
+ - con_parsecolors
+   o Enables/disables parsing of colour commands (&cxxx) in the console.
+     Defaults to 1.
+
+ - context_sensitive_tab_completion
+   o If set to 1, the new context sensitive tab completion system is enabled.
+     Defaults to 1.
+
+ - context_sensitive_tab_completion_close_on_tab
+   o If set to 1, pressing tab with context sensitive tab completion active
+     will close it. If set to 0, tab will cycle through the list of possible
+     matches. Defaults to 1.
+
+ - context_sensitive_tab_completion_ignore_alt_tab
+   o If set to 1, the tab key is ignored if alt is also pressed. Defaults to 1.
+
+ - context_sensitive_tab_completion_show_results
+   o If set to 1, information will be printed about the number of matches for
+     context sensitive tab completion. Defaults to 1.
+
+ - context_sensitive_tab_completion_sorting_method
+   o If set to 1, tab completion results are sorted by frequency of use.
+     If set to 0, results are sorted by name. Defaults to 1.
+
+ - net_lag
+   o Artificially increases network latency by the number of milliseconds
+     set in this cvar. Defaults to 0.
+
+ - net_lag_ezcheat
+   o Makes artificial network lag broken the same way it is in Ezquake. When
+     enabled, the entire latency is added to outgoing packets only. When
+     disabled, half of the latency is added to incoming packets and half is
+     added to outgoing packets. Defaults to 0.
+
+ - net_maxfps
+   o Sets an upper limit on how many network frames (packets) Fodquake is
+     allowed to send per second. 0 means as many as is allowed by the server.
+     Defaults to 0.
+
+ - r_drawflat_enable
+   o Enables flat drawing of the world if set to 1, disbles it if set to 0.
+     Defaults to 0.
+
+ - r_drawflat_floors_ceilings
+ - r_drawflat_slopes
+ - r_drawflat_walls
+   o Sets the colour for floors/ceilings, slopes and walls respectively.
+     Accepts either a normalised RGB colour triplet or the value 'off'.
+     As an example, setting r_drawflat_walls to "1 0 0" would give solid red
+     walls. Defaults to "off".
+
+ - sb_color_bg
+ - sb_color_bg_empty
+ - sb_color_bg_free
+ - sb_color_bg_full
+ - sb_color_bg_specable
+   o Specifies which colour to use as the background colour for different
+     entries in the server browser.
+
+ - sb_highlight_sort_column
+   o If set to 1, the column used for sorting server browser results will be
+     highlighted according to sb_hightligh_sort_column_alpha and
+     sb_highlight_sort_column_color. Defaults to 1.
+
+ - sb_highlight_sort_column_alpha
+   o Selects the transparency factor for the sorting column highlighting. Valid
+     values are from 0 to 1. Defaults to 0.5.
+
+ - sb_highlight_sort_column_color
+
+ - sb_qtv_connect_timeout
+   o Specifies how long in seconds Fodquake should wait for a reply from the
+     Eztv look-up server. Defaults to 2.
+
+ - sb_qtv_lookup
+   o Selects the server Fodquake should use to look up where to find an Eztv
+     server for a given Quakeworld server. Defaults to
+     "qtv.fodquake.net:12000".
+
+ - sb_qtv_proxy
+   o Selects which QTV proxy to use to connect to Eztv. Defaults to
+     "qtv.fodquake.net:27599".
+
+ - s_driver
+   o Tells Fodquake which sound output driver to use. If set to "auto",
+     Fodquake tries every driver until it finds one that works, otherwise it
+     tries only the driver set in this cvar and continues without sound if it
+     cannot be used. Defaults to "auto".
+
+ - snd_alsa_latency
+ - snd_pulseaudio_latency
+   o Sets the audio buffer size in milliseconds for ALSA and Pulse Audio
+     respectively. Setting this value too low can cause audio stuttering.
+     Defaults to 40.
+
+Removed commands:
+ - flush
+   o Disappeared with the removal of the Quake zone/hunk system.
+
+ - force_centerview
+ - +left
+ - +lookdown
+ - +lookup
+ - +right
+   o Removed as using the keyboard to manipulate the view is no longer
+     supported.
+
+ - validate_clients
+   o Removed the last remnants of the obscurity module system.
+
+New commands:
+ - r_drawflat
+   o Sets the colour of all surfaces sloping a specified amount.
+
+ - r_drawflat_set
+   o Sets a specific surface to the specified colour.
+
+ - r_drawflat_shoot
+   o Sets the colour of the surface currently aimed at.
+
+ - r_drawflat_shoot_unset
+   o Removes the colour of the surface currently aimed at.
+
+ - r_drawflat_unset
+   o Removes the colour of a specific surface.
+
+ - r_drawflat_writeconfig
+   o Saves the current flat drawing layout for the current map.
+
+ - sb_add_friend
+   o Adds a named friend from the server browser.
+
+ - sb_remove_friend
+   o Removes a named friend from the server browser.
+
+ - sb_tablayout
+   o Changes the layout of the columns in the specified server browser tab.
+
+ - +weapon
+   o Selects/fires a weapon depending on the cl_weaponfire cvar. Takes a list
+     of preferred weapons descending order. Negative values specify what
+     weapons to attempt to switch to when done firing. See also the
+     cl_weaponswitch cvar.
+
+ - weight_disable
+ - weight_enable
+ - weight_set
+   o For internal use by the new tab completion system.
+

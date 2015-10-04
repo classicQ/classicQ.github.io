@@ -1,0 +1,576 @@
+7295 -9600 192 Red Main Resupply
+7295 -12160 192 Red Main Resupply
+7295 -13439 192 Red Main Resupply
+4224 -13439 192 Red Main Resupply
+4224 -9600 192 Red Main Resupply
+5507 -11627 192 Red Main Resupply
+19839 -12218 192 Red Small Resupply
+19309 -13166 192 Red Small Resupply
+18275 -13336 192 Red Small Resupply
+17324 -12368 192 Red Small Resupply
+18105 -11633 192 Red Small Resupply
+16205 -12433 192 Red Ramp Room
+15310 -12375 192 Red Ramp Room
+14228 -13690 192 Red Ramp Room
+9349 -13441 192 Red Ramp Room
+10347 -13690 192 Red Ramp Room
+10509 -11392 192 Red Ramp Room
+12583 -11392 192 Red Ramp Room
+14455 -11392 192 Red Ramp Room
+11850 -12448 192 Red Ramp Room
+12362 -13877 192 Red Ramp Room
+9443 -13464 1024 Red Ramp Room
+9344 -11161 1024 Red Ramp Room
+11828 -11008 1024 Red Ramp Room
+14545 -11008 1024 Red Ramp Room
+14839 -11016 1024 Red Ramp Room
+15197 -13448 1024 Red Ramp Room
+10752 -13791 607 Red Ramp Room
+13991 -13749 716 Red Ramp Room
+12288 -14481 192 Red Tunnel To Well
+10929 -14482 192 Red Tunnel To Well
+10287 -14578 192 Red Tunnel To Well
+9122 -14941 192 Red Tunnel To Well
+9126 -15844 192 Red Tunnel To Well
+13357 -14439 192 Red Tunnel To Well
+14094 -14549 192 Red Tunnel To Well
+15311 -14799 192 Red Tunnel To Well
+9375 -17502 192 Red Well Low
+9394 -16588 192 Red Well Low
+11778 -17675 192 Red Well Low
+14866 -16883 192 Red Well Low
+15232 -15970 192 Red Tunnel To Well
+12293 -22260 192 Red Cap
+12209 -23192 192 Red Cap
+15331 -17534 192 Red Well Low
+14237 -16017 -831 Red Well Water
+13000 -15744 -831 Red Well Water
+12399 -15744 -831 Red Well Water
+11579 -15753 -831 Red Well Water
+10568 -16228 -831 Red Well Water
+11958 -17281 -831 Red Well Water
+11090 -17770 -831 Red Well Water
+10192 -18496 -831 Red Well Water
+9936 -19784 -831 Red Well Water
+9981 -20920 -831 Red Well Water
+9862 -22580 -831 Red Well Water
+10044 -23798 -831 Red Well Water
+10255 -25131 -831 Red Well Water
+12141 -20888 -831 Red Well Water
+12791 -20774 -831 Red Well Water
+14117 -20622 -831 Red Well Water
+14493 -22056 -831 Red Well Water
+14404 -23444 -831 Red Well Water
+14284 -25058 -831 Red Well Water
+12488 -20161 192 Red Well Low
+9285 -19072 4160 Red Well High
+10974 -18724 4160 Red Well High
+12379 -17810 4160 Red Well High
+13353 -18569 4160 Red Well High
+15421 -19795 4160 Red Well High
+14991 -22108 4201 Red Well High
+14450 -23921 4276 Red Well High
+13962 -25549 4288 Red Well High
+12319 -25687 4288 Red Well High
+10709 -25613 4288 Red Well High
+10120 -23577 4262 Red Well High
+9439 -21240 4165 Red Well High
+9595 -19266 4160 Red Well High
+12437 -14470 4288 Red Well High
+12268 -13112 2368 Red 4Bags
+9231 -11673 2368 Red 4Bags
+12187 -11138 2368 Red 4Bags
+14236 -11127 2368 Red 4Bags
+16255 -12208 1984 Red 4Bags
+12017 -21887 4288 Red Well High
+10823 -21888 4288 Red Well High
+12336 -23269 4288 Red Flag Room
+13567 -22865 4288 Red Well High
+11647 -24591 4288 Red Flag Room
+11632 -24190 4288 Red Flag Room
+11632 -22919 4288 Red Flag Room
+12608 -22576 4288 Red Flag Room
+12943 -22819 4288 Red Flag Room
+12943 -23984 4288 Red Flag Room
+12943 -24591 4288 Red Flag Room
+11125 -25213 4288 Red Well High
+11008 -24732 4288 Red Well High
+11005 -24592 4288 Red Well High
+11003 -24175 4288 Red Well High
+10995 -23031 4288 Red Well High
+13568 -24173 4288 Red Well High
+15012 -19147 -2879 Red Water Tunnel [Short]
+16534 -19270 -2733 Red Water Tunnel [Short]
+17688 -19291 -2788 Red Water Tunnel [Short]
+17939 -18019 -2879 Red Water Tunnel [Long]
+17794 -18448 -2849 Red Water Tunnel [Long]
+17919 -17374 -2879 Red Water Tunnel [Long]
+17906 -16218 -2879 Red Water Tunnel [Long]
+17996 -15219 -2879 Red Water Tunnel [Long]
+17894 -14554 -2879 Red Water Tunnel [Long]
+17966 -13719 -2879 Red Water Tunnel [Long]
+18005 -12333 -2831 Red Water Tunnel [Long]
+18000 -8802 -2879 Red Water Tunnel [Long]
+18001 -9578 -2629 Red Water Tunnel [Long]
+17999 -8403 -2879 Red Water Tunnel [Long]
+17997 -7043 -2879 Red Water Tunnel [Long]
+17082 -6041 -2821 Red Water Tunnel [Long]
+15778 -5851 -2879 Red Water Tunnel [Long]
+15133 -5634 -1655 Red Water Tunnel [Long]
+5864 -12436 -2743 Red Resupply Water Tunnel
+5479 -12218 -560 Red Resupply Water Tunnel
+5532 -12391 -1406 Red Resupply Water Tunnel
+5377 -14512 -2721 Red Resupply Water Tunnel
+5334 -15016 -2678 Red Resupply Water Tunnel
+5320 -16581 -2663 Red Resupply Water Tunnel
+5320 -17425 -2664 Red Resupply Water Tunnel
+5325 -19273 -2668 Red Resupply Water Tunnel
+5543 -19295 -2279 Red Resupply Water Tunnel
+15679 -10189 192 Red Main Entrance
+14616 -10102 192 Red Main Entrance
+13177 -9984 192 Red Main Entrance
+10254 -10618 192 Red Main Entrance
+11569 -10623 192 Red Main Entrance
+12401 -10623 192 Red Main Entrance
+13351 -10623 192 Red Main Entrance
+14313 -10623 192 Red Main Entrance
+15210 -10623 192 Red Main Entrance
+12168 -9260 192 Red Main Entrance
+10542 -9687 192 Red Main Entrance
+9034 -9842 192 Red Main Entrance
+9483 -10533 192 Red Main Entrance
+16255 -9535 192 Red Yard
+14666 -9405 192 Red Yard
+13038 -9238 192 Red Yard
+10900 -9303 192 Red Yard
+9832 -9383 192 Red Yard
+8320 -9535 192 Red Yard
+8320 -6817 192 Red Yard
+10484 -6841 192 Red Yard
+11263 -6861 192 Red Yard
+13369 -6914 192 Red Yard
+14484 -6927 192 Red Yard
+15970 -6944 192 Red Yard
+16255 -6947 192 Red Yard
+16255 -8359 192 Red Yard
+14650 -8256 192 Red Yard
+9846 -8047 192 Red Yard
+12329 -6865 384 Red Bridge
+12395 -5913 384 Red Bridge
+12458 -5006 384 Red Bridge
+16255 -1806 192 Red Yard
+16255 -2163 192 Red Yard
+16255 -3540 192 Red Yard
+16255 -4191 192 Red Yard
+15265 -4912 192 Red Yard
+13866 -5010 192 Red Yard
+13312 -5050 192 Red Yard
+11159 -4994 192 Red Yard
+10018 -5073 192 Red Yard
+8625 -4822 192 Red Yard
+8534 -1838 192 Red Yard
+8320 -3123 192 Red Yard
+12448 -1824 192 Red Yard
+12183 -3567 256 Red Yard
+16039 -5749 -831 Red Yard Water
+15737 -5808 -823 Red Yard Water
+14946 -5762 -88 Red Yard Water
+13770 -5693 -549 Red Yard Water
+12538 -5824 -831 Red Yard Water
+10960 -5847 -831 Red Yard Water
+9937 -5788 -831 Red Yard Water
+8740 -5805 -88 Red Yard Water
+16255 -5842 -94 Red Yard Water
+15186 -6083 -80 Red Yard Water
+16255 -895 256 Red Bunker
+14972 -895 256 Red Bunker
+13376 -895 256 Red Bunker
+11971 -895 256 Red Bunker
+10426 -895 256 Red Bunker
+8320 -895 256 Red Bunker
+9546 -192 256 Red Bunker
+11115 -192 256 Red Bunker
+12646 -192 256 Red Bunker
+14482 -192 256 Red Bunker
+15928 -192 256 Red Bunker
+14726 192 256 Blue Bunker
+13429 192 256 Blue Bunker
+12102 192 256 Blue Bunker
+10767 192 256 Blue Bunker
+10101 192 256 Blue Bunker
+9176 192 256 Blue Bunker
+17764 589 256 Blue Bunker
+17244 -639 256 Red Bunker
+12761 895 256 Blue Bunker
+12715 192 256 Blue Bunker
+8320 895 256 Blue Bunker
+7184 639 256 Blue Bunker
+7277 -639 256 Red Bunker
+16142 895 256 Blue Bunker
+14534 -1922 256 Red Yard
+15578 -2017 192 Red Yard
+10752 -1792 192 Red Yard
+7808 -10680 1024 Red Sniper Ledge Elevator
+7824 -9939 1856 Red Sniper Ledge Elevator
+8735 -10273 1856 Red Sniper Ledge
+10335 -9792 1856 Red Sniper Ledge
+11841 -9610 1856 Red Sniper Ledge
+13053 -9637 1856 Red Sniper Ledge
+14153 -9729 1856 Red Sniper Ledge
+14847 -9786 1856 Red Sniper Ledge
+15887 -10216 1856 Red Sniper Ledge
+13166 -10623 1856 Red Sniper Ledge
+14197 -10623 1856 Red Sniper Ledge
+12379 -9858 1856 Red Sniper Ledge
+11647 -10623 1856 Red Sniper Ledge
+10041 -10623 1856 Red Sniper Ledge
+8679 -10623 1856 Red Sniper Ledge
+16632 -9867 1856 Red Sniper Ledge Elevator
+16475 -10571 1024 Red Sniper Ledge Elevator
+9513 -5794 -2545 Red Water Tunnel To Bunker
+8108 -5750 -2837 Red Water Tunnel To Bunker
+7466 -4786 -2677 Red Water Tunnel To Bunker
+7452 -2860 -2603 Red Water Tunnel To Bunker
+7227 -1638 -2464 Red Water Tunnel To Bunker
+6835 -61 -471 Red Water Tunnel To Bunker
+6835 -61 -999 Red Water Tunnel To Bunker
+6835 -61 -1678 Red Water Tunnel To Bunker
+17055 48 -2090 Blue Water Tunnel To Bunker
+17480 -110 -465 Blue Water Tunnel To Bunker
+17321 -206 -1830 Blue Water Tunnel To Bunker
+17159 -197 -2727 Blue Water Tunnel To Bunker
+17367 1148 -2879 Blue Water Tunnel To Bunker
+17450 2185 -2879 Blue Water Tunnel To Bunker
+17532 3493 -2850 Blue Water Tunnel To Bunker
+17365 4761 -2879 Blue Water Tunnel To Bunker
+17123 5658 -2846 Blue Water Tunnel To Bunker
+16423 5579 -2667 Blue Water Tunnel To Bunker
+15367 5504 -2577 Blue Water Tunnel To Bunker
+15041 6084 -783 Blue Water Tunnel To Bunker
+8320 1818 192 Blue Yard
+9471 1803 192 Blue Yard
+10106 1883 256 Blue Yard
+11263 1942 192 Blue Yard
+12318 1824 192 Blue Yard
+13500 1824 192 Blue Yard
+13823 1792 192 Blue Yard
+14373 1708 256 Blue Yard
+16255 1802 192 Blue Yard
+16007 5097 192 Blue Yard
+15545 5098 192 Blue Yard
+14551 5099 192 Blue Yard
+13769 5100 192 Blue Yard
+13312 5101 192 Blue Yard
+11263 5090 192 Blue Yard
+10441 5013 192 Blue Yard
+9665 5215 192 Blue Yard
+8448 5064 192 Blue Yard
+8320 3356 192 Blue Yard
+12924 2872 192 Blue Yard
+11735 2987 256 Blue Yard
+16255 2878 192 Blue Yard
+12260 4639 359 Blue Bridge
+12244 5615 384 Blue Bridge
+12225 6739 384 Blue Bridge
+15759 6113 -831 Blue Yard Water
+15172 5925 -96 Blue Yard Water
+14456 5910 -94 Blue Yard Water
+13447 5888 -84 Blue Yard Water
+12836 5874 -479 Blue Yard Water
+11568 5847 -831 Blue Yard Water
+11080 5836 -84 Blue Yard Water
+10393 5822 -87 Blue Yard Water
+9941 5812 -71 Blue Yard Water
+9195 5796 -88 Blue Yard Water
+8320 5776 -86 Blue Yard Water
+8320 9535 192 Blue Yard
+9559 9441 192 Blue Yard
+10560 9338 192 Blue Yard
+11006 9293 192 Blue Yard
+11684 9124 192 Blue Yard
+12347 8960 192 Blue Yard
+13693 9305 192 Blue Yard
+14961 9435 192 Blue Yard
+16138 9535 192 Blue Yard
+16255 6804 192 Blue Yard
+15388 6825 192 Blue Yard
+14508 6846 192 Blue Yard
+13385 6873 192 Blue Yard
+11194 6633 192 Blue Yard
+9718 6786 192 Blue Yard
+8753 6809 192 Blue Yard
+8320 6819 192 Blue Yard
+12376 10623 192 Blue Main Entrance
+12338 10189 192 Blue Main Entrance
+13519 9634 192 Blue Main Entrance
+14544 9739 192 Blue Main Entrance
+15572 9845 192 Blue Main Entrance
+15679 9856 192 Blue Main Entrance
+15679 10682 192 Blue Main Entrance
+14370 10623 192 Blue Main Entrance
+13805 10617 192 Blue Main Entrance
+13305 10623 192 Blue Main Entrance
+12281 10595 192 Blue Main Entrance
+11466 10623 192 Blue Main Entrance
+10889 10618 192 Blue Main Entrance
+10178 10618 192 Blue Main Entrance
+9461 10599 192 Blue Main Entrance
+8896 10582 192 Blue Main Entrance
+8896 9856 192 Blue Main Entrance
+9898 9753 192 Blue Main Entrance
+10564 9684 192 Blue Main Entrance
+11209 9618 192 Blue Main Entrance
+15517 9492 192 Blue Yard
+9228 12400 192 Blue Ramp Room
+9344 13359 192 Blue Ramp Room
+10347 13690 192 Blue Ramp Room
+10676 11392 192 Blue Ramp Room
+11808 11392 192 Blue Ramp Room
+12855 11392 192 Blue Ramp Room
+13777 11392 192 Blue Ramp Room
+14077 11392 192 Blue Ramp Room
+15219 11114 192 Blue Ramp Room
+15231 13320 192 Blue Ramp Room
+14228 13690 192 Blue Ramp Room
+15216 13443 1024 Blue Ramp Room
+14892 13463 1024 Blue Ramp Room
+14632 13466 1024 Blue Ramp Room
+14141 13612 814 Blue Ramp Room
+13203 13946 204 Blue Ramp Room
+13984 13751 712 Blue Ramp Room
+11602 13951 192 Blue Ramp Room
+11085 13875 391 Blue Ramp Room
+10710 13781 635 Blue Ramp Room
+10083 13624 1024 Blue Ramp Room
+9344 13431 1024 Blue Ramp Room
+9344 12484 1024 Blue Ramp Room
+9344 11797 1024 Blue Ramp Room
+9344 11075 1024 Blue Ramp Room
+10839 11008 1024 Blue Ramp Room
+11509 11008 1024 Blue Ramp Room
+12431 11008 1024 Blue Ramp Room
+13025 11008 1024 Blue Ramp Room
+13854 11008 1024 Blue Ramp Room
+14419 11008 1024 Blue Ramp Room
+15248 11008 1024 Blue Ramp Room
+15231 12096 1024 Blue Ramp Room
+12253 12233 192 Blue Ramp Room
+12321 14719 192 Blue Tunnel To Well
+11732 14361 192 Blue Tunnel To Well
+11242 14435 192 Blue Tunnel To Well
+10331 14572 192 Blue Tunnel To Well
+9439 14705 192 Blue Tunnel To Well
+9088 15812 192 Blue Tunnel To Well
+9088 16242 192 Blue Tunnel To Well
+13043 14392 192 Blue Tunnel To Well
+13812 14507 192 Blue Tunnel To Well
+14788 14653 192 Blue Tunnel To Well
+15487 15053 192 Blue Tunnel To Well
+15450 15504 192 Blue Tunnel To Well
+14456 14961 192 Blue Tunnel To Well
+14242 14949 192 Blue Tunnel To Well
+13346 14899 192 Blue Tunnel To Well
+12758 14866 192 Blue Tunnel To Well
+11461 14847 192 Blue Tunnel To Well
+10330 14949 192 Blue Tunnel To Well
+16324 10595 1024 Blue Sni .Ledge Elevator
+16761 9882 1856 Blue Sni .Ledge Elevator
+15540 10272 1856 Blue Sniper Ledge
+14781 9792 1856 Blue Sniper Ledge
+13387 9666 1856 Blue Sniper Ledge
+12188 9600 1856 Blue Sniper Ledge
+10823 9695 1856 Blue Sniper Ledge
+9728 9787 1856 Blue Sniper Ledge
+8808 9863 1856 Blue Sniper Ledge
+9081 10623 1856 Blue Sniper Ledge
+10566 10623 1856 Blue Sniper Ledge
+11647 10623 1856 Blue Sniper Ledge
+12928 10623 1856 Blue Sniper Ledge
+14350 10623 1856 Blue Sniper Ledge
+15365 10623 1856 Blue Sniper Ledge
+15892 10623 1856 Blue Sniper Ledge
+12304 10623 2368 Blue 4Bags
+12321 11206 2368 Blue 4Bags
+8320 11008 1984 Blue 4Bags
+8320 12415 1984 Blue 4Bags
+10152 11757 2368 Blue 4Bags
+12586 12709 2368 Blue 4Bags
+14955 12484 2368 Blue 4Bags
+16255 12415 1984 Blue 4Bags
+16255 11008 1984 Blue 4Bags
+12209 14147 4288 Blue Well High
+12250 15179 4288 Blue Well High
+12247 16648 4288 Blue Well High
+12301 17983 4160 Blue Well High
+10739 18827 4160 Blue Well High
+9088 19935 4160 Blue Well High
+9728 21892 4192 Blue Well High
+10138 24142 4286 Blue Well High
+10524 25490 4288 Blue Well High
+11007 24769 4288 Blue Well High
+11003 24268 4288 Blue Well High
+11004 23730 4288 Blue Well High
+11004 23200 4288 Blue Well High
+11006 21907 4288 Blue Well High
+11753 21885 4288 Blue Well High
+12597 21883 4288 Blue Well High
+13479 21882 4288 Blue Well High
+13592 23381 4288 Blue Well High
+13597 23907 4288 Blue Well High
+13605 24694 4288 Blue Well High
+13613 25515 4288 Blue Well High
+13615 25727 4288 Blue Well High
+14432 25236 4288 Blue Well High
+14655 24272 4288 Blue Well High
+14990 22961 4236 Blue Well High
+15362 21619 4181 Blue Well High
+15004 20247 4160 Blue Well High
+15027 19072 4160 Blue Well High
+13627 18740 4160 Blue Well High
+12932 25088 4288 Blue Well High
+11740 25088 4288 Blue Well High
+12266 24366 4288 Blue Flag Room
+12943 24591 4288 Blue Flag Room
+11632 24591 4288 Blue Flag Room
+11632 22576 4288 Blue Flag Room
+12943 22576 4288 Blue Flag Room
+12267 22839 4288 Blue Flag Room
+12393 22048 192 Blue Cap
+12381 22657 192 Blue Cap
+12361 23722 256 Blue Cap
+12338 24847 192 Blue Cap
+12465 25600 -318 Blue Well Water
+13978 25435 -652 Blue Well Water
+14301 24204 -831 Blue Well Water
+14288 22489 -831 Blue Well Water
+14275 22009 -831 Blue Well Water
+14260 21416 -831 Blue Well Water
+14247 20905 -831 Blue Well Water
+14230 20276 -831 Blue Well Water
+14215 19704 -831 Blue Well Water
+14196 18973 -831 Blue Well Water
+14181 18398 -831 Blue Well Water
+14164 17739 -831 Blue Well Water
+14050 17318 -831 Blue Well Water
+13935 16381 -831 Blue Well Water
+13868 15921 -831 Blue Well Water
+11958 16682 -831 Blue Well Water
+11797 17235 -831 Blue Well Water
+11636 17785 -831 Blue Well Water
+11515 18203 -831 Blue Well Water
+11366 18715 -831 Blue Well Water
+11222 19207 -831 Blue Well Water
+11101 19624 -831 Blue Well Water
+10967 20084 -831 Blue Well Water
+10832 20547 -831 Blue Well Water
+10712 20957 -831 Blue Well Water
+10595 21361 -816 Blue Well Water
+10465 21806 -831 Blue Well Water
+10333 22258 -831 Blue Well Water
+10204 22702 -831 Blue Well Water
+10939 19385 -831 Blue Well Water
+11395 19381 -831 Blue Well Water
+11858 19377 -831 Blue Well Water
+12304 19373 -831 Blue Well Water
+12729 19369 -831 Blue Well Water
+13143 19366 -831 Blue Well Water
+13614 19361 -831 Blue Well Water
+14020 19358 -831 Blue Well Water
+14434 19354 -831 Blue Well Water
+15466 20850 -831 Blue Well Water
+12233 17481 192 Blue Well Low
+11028 17362 192 Blue Well Low
+9639 16941 192 Blue Well Low
+9317 17634 192 Blue Well Low
+13667 17746 192 Blue Well Low
+14730 16736 192 Blue Well Low
+15487 17655 192 Blue Well Low
+14604 16112 192 Blue Well Low
+12252 18415 192 Blue Well Low
+12314 19283 192 Blue Well Low
+12368 20036 192 Blue Well Low
+12417 20735 192 Blue Well Low
+12465 21404 192 Blue Well Low
+9574 19308 -2867 Blue Water Tunnel [Short]
+9991 19326 -1638 Blue Water Tunnel [Short]
+9991 19326 -1887 Blue Water Tunnel [Short]
+9991 19326 -2263 Blue Water Tunnel [Short]
+8893 19249 -2879 Blue Water Tunnel [Short]
+8139 19229 -2879 Blue Water Tunnel [Short]
+7434 19210 -2879 Blue Water Tunnel [Short]
+6800 19193 -2879 Blue Water Tunnel [Short]
+6667 18464 -2879 Blue Water Tunnel [Long]
+6639 17241 -2879 Blue Water Tunnel [Long]
+6623 16542 -2879 Blue Water Tunnel [Long]
+6608 15849 -2879 Blue Water Tunnel [Long]
+6591 15107 -2879 Blue Water Tunnel [Long]
+6575 14427 -2879 Blue Water Tunnel [Long]
+6559 13706 -2878 Blue Water Tunnel [Long]
+6541 12919 -2861 Blue Water Tunnel [Long]
+6524 12176 -2844 Blue Water Tunnel [Long]
+6507 11406 -2826 Blue Water Tunnel [Long]
+6489 10629 -2809 Blue Water Tunnel [Long]
+6471 9828 -2790 Blue Water Tunnel [Long]
+6452 9024 -2772 Blue Water Tunnel [Long]
+6433 8147 -2752 Blue Water Tunnel [Long]
+6416 7434 -2736 Blue Water Tunnel [Long]
+6397 6578 -2716 Blue Water Tunnel [Long]
+6381 5880 -2701 Blue Water Tunnel [Long]
+6359 5504 -2591 Blue Water Tunnel [Long]
+17956 -8443 -2879 Blue Water Tunnel [Long]
+17929 -7485 -2879 Blue Water Tunnel [Long]
+17883 -5866 -2879 Blue Water Tunnel [Long]
+17167 -6192 -2670 Blue Water Tunnel [Long]
+15900 -5839 -2879 Blue Water Tunnel [Long]
+15223 -5556 -2644 Blue Water Tunnel [Long]
+14976 -5819 -1887 Blue Water Tunnel [Long]
+14976 -5792 -1344 Blue Water Tunnel [Long]
+15209 19351 -2400 Blue Resupply Water Tunnel
+15918 19366 -2809 Blue Resupply Water Tunnel
+16765 19400 -2775 Blue Resupply Water Tunnel
+17585 19411 -2763 Blue Resupply Water Tunnel
+18496 19342 -2832 Blue Resupply Water Tunnel
+19092 18704 -2827 Blue Resupply Water Tunnel
+19043 17746 -2876 Blue Resupply Water Tunnel
+19015 16794 -2851 Blue Resupply Water Tunnel
+18993 15846 -2638 Blue Resupply Water Tunnel
+18978 14915 -2522 Blue Resupply Water Tunnel
+18973 14138 -2599 Blue Resupply Water Tunnel
+14814 19482 -1715 Blue Resupply Water Tunnel
+18935 13699 -2814 Blue Resupply Water Tunnel
+18900 12470 -2745 Blue Resupply Water Tunnel
+18848 12160 -1690 Blue Resupply Water Tunnel
+18982 12160 -824 Blue Resupply Water Tunnel
+11641 -25574 -218 Red Well Water
+10700 -22806 -369 Red Well Water
+10700 -22806 -169 Red Well Water
+10711 -23564 -150 Red Well Water
+10705 -24281 -155 Red Well Water
+10685 -24940 -149 Red Well Water
+10733 21446 -175 Blue Well Water
+10721 21711 -243 Blue Well Water
+10711 22386 -305 Blue Well Water
+10714 23397 -289 Blue Well Water
+10710 24648 -310 Blue Well Water
+8175 10470 1024 Blue Sniper Ledge Elevator
+8230 9856 1856 Blue Sniper Ledge Elevator
+4736 12125 192 Blue Small Resupply
+7368 12342 192 Blue Small Resupply
+6230 11438 192 Blue Small Resupply
+4861 12116 192 Blue Small Resupply
+5832 13567 192 Blue Small Resupply
+17468 12281 192 Blue Main Resupply
+17488 13439 192 Blue Main Resupply
+20351 13439 192 Blue Main Resupply
+20342 11324 192 Blue Main Resupply
+19917 9600 192 Blue Main Resupply
+17964 9600 192 Blue Main Resupply
+17280 9613 192 Blue Main Resupply
+18791 11396 192 Blue Main Resupply
+14910 11023 2368 Blue 4Bags
+14142 11008 2368 Blue 4Bags
+12743 11008 2368 Blue 4Bags
+11097 11008 2368 Blue 4Bags
+9292 11008 2368 Blue 4Bags
+15452 -11008 2368 Red 4Bags
+10231 -11008 2368 Red 4Bags

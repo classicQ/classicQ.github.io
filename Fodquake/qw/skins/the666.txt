@@ -1,0 +1,110 @@
+Title    : Clan 666! Skin
+Filename : 666skin.zip
+Version  : 2.0
+Date     : 96/12/16
+Author   : Matt Axt (Axeman)
+Email    : axeman@ct1.nai.net
+Credit   : Richard Rader (Samhain) for motivational email and ideas.
+           Ed Mercure (Sandman) for more ideas.
+           Gregory Scott (Kesrith) for Quake testing.
+
+           Brian Martin for MeDdLe v1.7!
+	     Everyone at ID Software for designing Quake!
+	     Everyone at JASC Software for designing Paint Shop Pro!
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : yes
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+Source (bmp)
+Included      : no
+
+Procedures
+----------
+Build
+Time     : About 7.5+ hours.
+Software : Paint Shop Pro v4.0
+	   : Meddle v1.7
+         : QuakeMe v2.3		
+
+Description of the Modification
+-------------------------------
+This is the Clan 666! skin for the player.mdl
+I basically altered the Quake player model skin
+to get this.  After I changed the pad and body
+colors, I added the pentagram to the chest in full
+bright red colors.  The numbers were added to the gun
+and back in full bright yellow.  The arm textures
+came from some strange furry-looking texture I made
+with Photoshop, and I just slapped them on to see
+what they would look like, and the 666! liked it.
+The face was turned to stone, and the helmet was fixed a bit,
+I randomly came up with the evil grin by messing with the
+full bright reds.  The gun had the numbers added and the
+axe was electroplated with a little gold.
+
+
+How to Install the Modification
+-------------------------------
+
+Create a directory in your Quake directory (eg:666) and unzip 
+the archive in it.  Run quake with the -game parameter, eg:
+
+quake -game 666
+
+
+Technical Details
+-----------------
+
+Umm, no!
+
+
+Author Information
+------------------
+
+My second official release of a Quake player model skin.
+
+Matt Axt
+axeman@ct1.nai.net
+http://nw3.nai.net/~axeman
+
+I am currently working on skins for other Clans, and
+if you are interested in my work, check the Clan PhosGene
+homepage.
+http://nw3.nai.net/~axeman/phosgene
+
+The666! Cult Homepage
+http://www.tiac.net/users/emercure/the666!.htm
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY NOT use these modifications as a basis for other
+publically available work.
+
+Contact me if you have a problem.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+The Clan PhosGene Homepage
+http://nw3.nai.net/~axeman/phosgene
+
+I haven't uploaded yet - but probably ftp.cdrom.com

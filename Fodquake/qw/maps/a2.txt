@@ -1,0 +1,116 @@
+				Return to Atlantis
+				[================]
+				     
+
+Reason for Living
+[===============]
+
+Everyone seems to like the texture set I used for dayDream, so decided to use it for
+a fully fledged 'grown up' map.  This one's designed for 2v2, but also provides a damn
+fine duel as well.
+
+So, go look around.  As this is probably my last Q1 level I've tried to show off as
+much as I possibly can, by also push the old Q engine as far as it will go.  With 
+FOV set at 110 the polys pop up to 700 here and there, but are usually below 600.
+If you play in higher than FOV 110 then you also probably in software with it looking
+like lego on speed, so the extra 50 polys won't matter to you.... I hope #8¬)
+
+Other levels
+[===========]
+Quite a few now, all Q1 ;
+
+BCDM1 - The Spiral
+BCDM2 - The Ledge
+BCDM3 - Long Walk
+BCDM4 - Homeless house
+
+The place from Atlantis
+Space Station
+Pingu's Castle
+
+insomnia
+nightmare
+dayDream
+
+UKpak7 - Secluded Store
+
+Grab them all from my web site - http://www.planetquake.com/pingu
+
+Thanks to
+[=======]
+Okay, there's a few people here...
+
+The Green Nuns of the Revolution - http://nuns.ownz.com
+The Tyrlite blokey..
+The Worldcraft blokey..
+Those id blokeys
+Aardappel of DTX
+My mummy and daddy
+Multiplayer Quake - www.planetquake.com/mpq
+
+Statistics
+[========]
+
+Map name  - a2.bsp
+File size - 864kb
+Zip size  - 362b
+Author    - Pingu
+Real Name - Alex Moore
+E-Mail    - A.J.Moore-96@student.lboro.ac.uk
+Build time- 5 weeks, on and off... lots of hours here
+Editors   - Worldcraft 1.6b, Tyrlite
+
+Play Information
+[==============]
+Single Player - Just to look around
+Co-Op         - No
+DM            - Duel, 2v2, 4-6FFA
+# of DM starts- 6
+
+Weaponry
+[=======]
+
+Lightning Gun    - One
+Rocket Launchers - Two
+Grenade Launchers- One
+Super Nail Guns  - None
+Nail Guns        - None
+Super Shot Guns  - None
+
+Armoury
+[=====]
+Red Armour   - One
+Yellow Armour- One
+Green Armour - None
+
+Special Items
+[===========]
+Pentagram of Protection - None
+Quad Damage	       	- One
+Ring of Shadows         - None
+Mega Health   	        - None
+
+Textures Used
+[===========]
+
+Not quite sure where all of these textures are from, but several
+are definitely from the original Arena pak, some from quake itself,
+one from Rubicon, a top single player pak by John Fitzgibbons
+(I've used his textures before and forgot to mention him so hope
+this makes up for it - johnfitz@u.washington.edu).
+
+Also the long picture in the main room is from the artworks.wad,
+created by Sonya Roberts - sonya_roberts@geocities.com.
+
+The rest... gawd knows; If you spot your texture then I thank you
+for letting me use it..
+
+Enjoy.. Pingu MCMXCIX
+
+Nasty Legal Bit
+[=============]
+This work is entirely mine, do not use it in part or in whole as your
+own work.  If you wish to modify it, contact me and we'll talk further.
+All copyrights of original software (quake - id software, worldcraft - 
+ben morris, tyrlite - kevin shanahan) are acknowledged, and I respect
+the original creators of any textures used here.

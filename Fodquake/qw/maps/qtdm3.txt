@@ -1,0 +1,76 @@
+============================
+Title		: Uberskank
+Filename	: qtdm3
+Author		: distrans
+Email Address	: distrans <at> gmail fullstop com
+Description	: This is one of the DM levels to be "boxed up" with the Travail
+SP mission. It features a combination of textures from DKT3, Unreal and Knave that
+feature in episode two of the mission. This DM level is based on the SP level "Usher
+Recompiled" by the same author.
+Additional Credits to : Jack "Scragbait" Meacher for keeping the dream alive.
+		- biff_debris for initial suggestions about spawning and weps.
+		- metlslime for stepping in when Qmap went belly-up!
+		- UWF for running the Coagula2 contest
+		- Kell for the skyboxes from hell & the Knave texture set
+		- Yellow_No.5 for finally getting some bodies onto this thing
+		- Id, Ben, inertia, Bill, indigo, bl1tz...
+Authors statement : Descartes wasn't as weird as most people think, and yes...
+		  pushing at least one of the skull buttons will possibly modify 
+		  gameplay, pushing ALL 4 skull buttons will definitely modify 
+		  gamepley.  
+
+OTHER LEVELS BY AUTHOR: 
+
+Start: One Hundred Brush Brutality - The controversial start 
+map for the original Quake 100 brush competition run by 
+Aardappel (as palldjon).
+
+abab: Abject Abcess - 8th placed entry for the original Quake 
+100 brush competition run by Aardappel (as palldjon).
+
+pdbq_sp1: Recurrent Rumours - Eclectic old skool medieval SP 
+level that was lauded for its interesting gameplay (as palldjon).
+
+dis_cr8z: Dismembered Crates - Winner of the third 100 brush
+competition run by metlslime, XeN and Fern. Ogro inspired other 
+worldly base. Yes, this was made with only 100 brushes!!!
+
+discoag2: Usher Recompiled - Small "Keep" themed SP/DM Level 
+for Quake. Produced for the Coagula2 Comp run by UnderWorldFan. 
+
+sm82: Rubicondom - Pretty much everything past the silver key door! 
+
+============================
+
+Also keep an eye out for the Quake.Travail mission site, UP SOON!!!
+
+At or around July 22nd 2006 scragbait, distrans et al will release 
+Travail: a two episode, twelve level mission pack with three associated 
+DM levels (including this one). The SP pack will re-introduce a beloved 
+weapon mod, as well as some old and very new/ancient enemies. 
+
+Be alert AND alarmed!
+
+============================
+
+* Play Information *
+
+Single Player	: No, play Usher Recompiled for SP version
+Cooperative	: No
+Deathmatch	: yes, 2v2 (optimal) or 3-5 FFA
+New Sounds	: No
+New Graphics	: Not new "per se"
+New Music	: No
+
+* Construction *
+
+Base		: Usher Recompiled by the same author
+Known Bugs	: None
+Build Time	: Who cares!
+
+============================
+
+Unless you are Id, an owner of the textures used or me, don't pretend that
+you have any commercial hold on this level.
+
+</distrans>

@@ -1,0 +1,27 @@
+===================================================
+Data                    : 31.08.2007
+Title                   : Frobodm2
+Filename                : frobodm2.bsp
+Author                  : ParboiL  
+E-mail                  : parboil@quakeworld.ru
+URL                     : http://www.parboil.quakeworld.ru
+===================================================
+* Play Information *
+
+Game                    : Quake 
+Single Player           : No
+Cooperative             : No  
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Textures            : No
+
+==================================================
+* Construction *
+
+Base                    : From scratch 
+Editor used             : QuArK
+==================================================
+* Copyright / Permissions *
+
+You MAY distribute this BSP over the internet, provided you include
+this file, with no modifications and do NOT exploit it commercially.

@@ -1,0 +1,87 @@
+
+
+====================================================================
+
+
+Title			: Hatebreeder 
+BSP Name		: hate.bsp
+Release Date		: 07.01.02
+Author			: Kornel [QurneL] Paszkowski
+Email Address		: qurnel@poland.com or qurnel@gracz.net
+Website			: http://quakeworld.gracz.net/qurnel
+ICQ number		: 76576985
+Bsp File Size		: 826 kb
+
+
+Thanks to		: Degradator, MisYu, Tyrann
+
+
+Thanks for suggestions	: MisYu
+
+
+Thanks for testing	: MisYu 
+
+
+=====================================================================
+	PLAY INFORMATION
+=====================================================================
+
+
+Game			: Quake
+Single Player		: No
+Deathmatch		: Best for 2 players
+Dm Spawns		: 6
+
+
+=====================================================================
+	CONSTRUCTION
+=====================================================================
+
+
+Base			: From scratch
+Construction Time	: one week
+Build Time		: 1 minute
+Editor used		: Worldcraft
+
+
+=====================================================================
+	MY OTHER / OLD MAPS
+=====================================================================
+
+
+01. - castle.bsp	"Castle"
+02. - place.bsp		"Place"
+03. - gateway.bsp	"Gateway"
+04. - vertigo.bsp	"Vertigo"
+05. - house.bsp		"Slaughter-House"
+06. - house2.bsp	"Slaughter-House 2"
+07. - kingdom.bsp	"Kingdom"
+08. - slimy.bsp		"Slimy Place"
+09. - mine.bsp		"Mine"
+10. - frag.bsp		"Frag"
+11. - tbase.bsp		"Tiny Base"
+12. - omf.bsp		"One Must Fall"
+13. - fcastle.bsp	"Forgotten Castle"
+14. - mcore.bsp		"Main Core"
+15. - north.bsp		"Somewhere in the north"
+16. - ika.bsp		"Ika"
+17. - rfactory.bsp	"Rusted Factory"
+18. - territory.bsp	"War for territory"
+19. - fmc.bsp		"Full Metal Contact"
+
+======================================================================
+	COPYRIGHT / PERMISSIONS
+======================================================================
+
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this BSP, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+=======================================================================
+

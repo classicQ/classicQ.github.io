@@ -1,0 +1,13 @@
+
+CC=gcc
+AR=ar
+CFLAGS=-O3 -Wall
+
+OBJS = adler32.o compress.o crc32.o deflate.o infback.o inffast.o inflate.o inftrees.o trees.o uncompr.o zutil.o
+
+libz.a: $(OBJS)
+	rm -rf $@
+	$(AR) rcs $@ $(OBJS)
+
+clean:
+	rm -f libz.a $(OBJS)

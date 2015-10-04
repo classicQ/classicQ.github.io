@@ -1,0 +1,88 @@
+
+----------------------- Rocket Arena Map -----------------------
+
+================================================================
+Title                   : Doom2 Map01 - Entryway - for Rocket Arena
+Filename                : dom2_1ra.bsp
+Release Date            : December 1st 1997
+
+Author                  : Peter Lomax 
+                          aka PCL
+                          aka Hawkmoon
+Email Address           : pcl@provider.co.uk (You can email me y`know)
+Web Address             : http://www.provider.co.uk/users/pcl/hawkmoon.html
+                          (the place for my map news)
+
+Description             : This map is for Rocket Arena
+                          Doom 2 Map01 - Entryway 
+                          Full Doom2 textures converted to the Quake pallette
+                          Added some steps and a wall to make arena more interesting
+                          (Not as interesting as the waiting room tho` :-)
+                          - NB This map has been vis`d for glquake -
+                         
+Credits                 : id software for the "Neverending Game" 
+                          Yahn Bernier for "Best Map Making Tool"
+                          The Rocket Arena team - http://www.planetquake.com/servers/arena
+
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes - Using Rocket Arena patch 
+Difficulty Settings     : No
+New Sounds              : No 
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : None
+
+
+* Construction *
+
+Base                    : Original Doom2 Map01
+                          My Quake conversion of it (doom2_01.zip)
+Editor(s) used          : BSP v0.82b (the best of the best) - http://bsphq.telefragged.com/                          
+                          Textures converted with Doomtex by Michael Stokes
+                                                             mike@stokfam.psinet.net.au
+                          Map converted with the aid of QuakeDM by Michael Stokes
+Known Bugs              : In DosQuake and WinQuake 
+                          outside walls lose texture slightly at extreme distance
+Build Time              : about 7 hours
+Texture Wad used        : Doomtex.wad (see above)
+                          sparkle texture from liquids.wad By Tom Cleghorn aka Murgatroyd  
+                          (and the clip and sky textures from quake.wad)
+
+Compile machine         : Pentium 200MMX/48MB
+QBSP Time               : 33.0 seconds (used QBSP Version 1.65
+                                        by Ken Alverson (KenA@TSO.Cin.IX.Net)
+Light (-extra) Time     : 155.0 seconds
+VIS (-level 4) Time     :  58.0 seconds 
+
+
+================================================================
+
+* Where to get this level *
+
+If you can read this you have already found a place
+or http://www.provider.co.uk/users/pcl/hawkmoon.html following the Quake link
+or E-Mail me at pcl@provider.co.uk and ask for it 
+
+* Copyright / Permissions *
+
+Copyright (c) 1997 Peter Lomax.  All rights reserved.
+This level may be distributed freely on any electronic format
+provided that it is not modified in any way and this text file is included.
+**The Rocket Arena team may use this map as they see fit**
+Otherwise:
+If you wish to use this map in a level pak, you must first obtain my permission.  
+If you wish to distribute this level commercially (including, but not
+limited to, magazine cover CD`s) you must first obtain my permission.
+Also bear in mind that the textures used belong to id
+
+Special thanks to:
+David `crt` Wright (THE Rocket Arena main man) for feedback
+Angie,Michael,Mat and Brod for the LAN testing
+ACME UK clan for letting me play CTF sometimes
+
+==================================================================

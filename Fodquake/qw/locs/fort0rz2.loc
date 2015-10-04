@@ -1,0 +1,552 @@
+13733 15960 -3647 basement
+13575 18795 -3647 basement
+14094 20998 -3647 basement
+14295 22625 -3647 basement
+12979 21078 -3647 basement
+11513 21258 -3647 basement
+10007 20917 -3647 basement
+15471 24335 -3647 basement
+18453 28034 -3647 basement near spawn
+19697 28065 -3647 basement near spawn
+21040 28207 -3647 basement near spawn
+22326 27836 -3647 basement near spawn
+22332 27020 -3647 basement near lift
+22382 26323 -3647 basement near lift
+22450 25384 -3647 basement near lift
+22530 24271 -3647 basement near lift
+23595 24348 -3647 basement near lift
+23701 22881 -3647 basement near lift
+22021 22743 -3493 basement near lift
+20823 22665 -3647 basement near lift
+22429 21680 960 basement top lift
+22883 20040 960 basement top lift
+21890 19862 960 basement top lift
+21570 22315 960 basement top lift
+23295 23733 960 basement top lift
+-5850 -25687 -831 pipe spawn room
+-6022 -27093 -831 pipe spawn room
+-6148 -28122 -831 pipe spawn room
+-5125 -29291 -831 pipe spawn room
+-3984 -29823 -716 pipe spawn room
+-2469 -29312 -831 pipe spawn room
+-6113 -29079 -831 pipe spawn room
+-6360 -27149 -831 pipe spawn room
+-6558 -25602 -831 pipe spawn room
+-8087 -24461 -831 pipe spawn room
+-8389 -25725 -831 pipe spawn room
+-5344 -25158 -831 pipe spawn room
+-2849 -24095 -831 pipe spawn room
+-2681 -24959 -831 pipe spawn room
+-5182 -27310 -831 pipe spawn room
+-4920 -28716 -831 pipe spawn room
+192 -25678 -639 pipe spawn room
+5611 -25584 -639 pipe spawn room
+6927 -29130 -831 blue base
+6962 -27911 -831 blue base
+6995 -26765 -831 blue base
+7027 -25643 -831 blue base
+7074 -23983 -831 blue base
+7074 -23133 -831 blue base
+8418 -23226 -831 blue base
+9965 -23333 -831 blue base
+10711 -23385 -831 blue base
+10819 -21838 -831 blue base
+10911 -20508 -831 blue base
+11015 -19011 -831 blue base
+11056 -18429 -831 blue base
+12319 -18516 -831 blue base
+13904 -18626 -831 blue base
+14135 -20767 -831 blue base
+14243 -22174 -831 blue base
+14318 -23138 -831 blue base
+15931 -25920 -831 blue base - health section
+16012 -26979 -831 blue base - health section
+16099 -28110 -831 blue base - health section
+15488 -28915 -831 blue base - health section
+14976 -28965 -831 blue base - health section
+16241 -26290 -831 blue base - health section
+15372 -25321 -831 blue base - health section
+15282 -24151 -831 blue base - health section
+11399 -25359 -831 blue base - cap room
+12283 -25291 -831 blue base - cap room
+12376 -26497 -831 blue base - cap room
+12458 -27566 -767 blue base - cap room
+11901 -29086 -831 blue base - cap room
+10260 -29216 -831 blue base - cap room
+9033 -29311 -831 blue base - cap room
+8895 -28032 -831 blue base - cap room
+9599 -27974 -831 blue base - cap room
+11151 -27072 -831 blue base - cap room
+10624 -27120 -831 blue base - cap room
+9565 -25609 -831 blue base - cap room
+9630 -26450 -831 blue base - cap room
+10985 -25281 -831 blue base - cap room
+12159 -25165 -831 blue base - cap room
+13161 -25472 -831 blue base - cap room
+10440 -24202 -831 blue base - cap room
+8617 -19832 -831 blue base - ammo spawn
+8604 -20619 -831 blue base - ammo spawn
+8587 -21685 -831 blue base - ammo spawn
+7936 -21674 -831 blue base - ammo spawn
+7953 -20651 -831 blue base - ammo spawn
+7968 -19708 -831 blue base - ammo spawn
+8761 -19721 -831 blue base - ammo spawn
+14366 -21317 -831 blue base - ammo spawn
+13816 -21308 -831 blue base - ammo spawn
+13830 -20460 -831 blue base - ammo spawn
+14363 -19656 -831 blue base - ammo spawn
+13949 -18965 -831 blue base - ammo spawn
+14316 -18156 -831 blue base - ammo spawn
+15878 -20702 960 blue base - top spawn area
+15922 -19748 960 blue base - top spawn area
+15450 -18838 960 blue base - top spawn area
+14358 -18511 960 blue base - top spawn area
+13224 -18327 960 blue base - top spawn area
+12127 -18218 960 blue base - top spawn area
+10763 -18172 960 blue base - top spawn area
+9490 -18072 960 blue base - top spawn area
+8298 -17875 960 blue base - top spawn area
+7157 -18517 960 blue base - top spawn area
+6942 -19328 960 blue base - top spawn area
+6850 -20390 960 blue base - top spawn area
+6528 -21605 1489 blue base - top spawn area
+6885 -20260 960 blue base - top spawn area
+7488 -21401 960 blue base - top spawn area
+8518 -21387 960 blue base - top spawn area
+9651 -21371 960 blue base - top spawn area
+10798 -21355 960 blue base - top spawn area
+11582 -21345 960 blue base - top spawn area
+12618 -21330 960 blue base - top spawn area
+13657 -21316 960 blue base - top spawn area
+14806 -21300 960 blue base - top spawn area
+11597 -15734 -831 blue base - entrance
+12374 -15829 -831 blue base - entrance
+13236 -15935 -831 blue base - entrance
+14087 -16039 -831 blue base - entrance
+15316 -15728 -831 blue base - entrance
+15885 -14798 -831 blue base - entrance
+15906 -13947 -831 blue base - entrance
+15926 -13000 -831 blue base - entrance
+11490 -15281 -831 blue base - entrance
+10888 -14053 -831 blue base - entrance
+10168 -13573 -831 blue base - entrance
+9240 -13489 -831 blue base - entrance
+8416 -14788 -831 blue base - entrance
+7752 -15936 -831 blue base - entrance
+6907 -15325 -831 blue base - entrance
+6327 -16363 -831 blue base - entrance
+6272 -15090 -831 blue base - entrance
+6766 -13910 -831 blue base - entrance
+6892 -12647 -831 blue base - entrance
+7351 -11257 -831 blue base - entrance
+6785 -10306 -831 blue base - entrance
+7379 -9664 -831 blue base - entrance
+8900 -11226 -831 blue base - entrance
+9599 -10884 -831 blue base - outside
+9452 -10078 -831 blue base - outside
+10618 -9884 -831 blue base - outside
+11600 -9282 -831 blue base - outside
+12548 -9087 -831 blue base - outside
+13631 -9084 -831 blue base - outside
+14351 -7987 -831 blue base - outside
+15446 -7757 -831 blue base - outside
+14230 -8022 -831 blue base - outside
+13017 -8286 -831 blue base - outside
+13383 -9077 -831 blue base - outside
+14505 -10658 -831 blued base - outside
+15572 -11880 -831 blue base - outside
+14217 -11949 -831 blue base - outside
+13190 -12002 -831 blue base - outside
+11761 -11888 -831 blue base - outside
+10294 -11805 -831 blue base - outside
+8946 -11874 -831 blue base - outside
+11270 -6991 -831 bridge
+10421 -6469 -831 bridge
+10425 -5695 -831 bridge
+11504 -5699 -831 bridge
+12094 -5702 -831 bridge
+12098 -4779 -831 bridge
+11245 -4207 -831 bridge
+10411 -3732 -831 bridge
+11438 -3737 -831 bridge
+12212 -3741 -831 bridge
+11431 -4375 -831 bridge
+9775 -14775 -2623 blue base - above water
+10895 -14883 -2623 blue base - above water
+12258 -15016 -2623 blue base - above water
+13458 -16192 -2623 blue base - above water
+13373 -17160 -2623 blue base - above water
+11478 -14675 -2623 blue base - above water
+10548 -15762 -2623 blue base - above water
+9920 -17396 -2656 blue base - above water
+8965 -17600 -2623 blue base - above water
+13342 -15710 -2623 blue base - above water
+13892 19554 -3647 basement
+13575 18629 -3647 basement
+13066 17145 -3647 basement
+11872 16367 -3640 basement
+12751 15080 -3647 basement
+12286 16872 -3647 basement - near spiral
+11464 16376 -3550 basement - near spiral
+13012 18254 -3647 basement - near spiral
+13105 16453 -3647 basement - near spiral
+12783 14976 -3647 basement - near spiral
+12053 15764 -3647 basement - near spiral
+10330 16466 -3298 low spiral
+9281 16394 -3064 low spiral
+8323 16328 -2852 low spiral
+7025 16238 -2623 low spiral
+10223 16728 -3244 low spiral
+10363 16000 -3305 low spiral
+6884 17185 -2390 low spiral
+6289 17551 -2231 low spiral
+7039 17904 -2055 low spiral
+7039 17904 -2055 mid spiral
+6272 19407 -1303 mid spiral
+7039 19408 -1303 mid spiral
+7039 20157 -1087 mid spiral
+6276 20863 -1087 mid spiral
+7442 20839 -1012 mid spiral
+8620 20096 -791 mid spiral
+9643 20863 -599 mid spiral
+10384 20156 -460 mid spiral
+11024 20863 -340 mid spiral
+11725 20111 -209 mid spiral
+12711 20863 -24 mid spiral
+13610 20171 144 mid spiral
+14156 20863 246 mid spiral
+15095 20134 422 mid spiral
+15930 20863 448 mid spiral
+15978 19752 486 top spiral
+15488 18828 589 top spiral
+16255 17963 685 top spiral
+15488 17114 779 top spiral
+16255 16153 886 top spiral
+15497 15823 922 top spiral
+15694 14563 960 top spiral
+13756 15039 960 top spiral
+15267 14187 960 top spiral
+16255 13440 960 top spiral
+13548 13766 960 top spiral
+14355 14743 960 top spiral
+14790 12635 960 second level
+15640 11561 960 second level
+14343 10083 960 second level
+14520 11018 960 second level
+15249 10881 960 second level
+16249 12018 960 second level
+16469 10392 960 second level
+17412 10214 960 second level
+18069 10090 960 second level
+18339 12381 960 second level
+18417 13295 960 top ramps room
+18506 14323 960 top ramps room
+18595 15368 960 top ramps room
+18672 16269 960 top ramps room
+18764 17338 960 top ramps room
+18810 17882 960 top ramps room
+20051 15764 960 top ramps room
+21092 15900 960 top ramps room
+21509 15603 960 top ramps room
+22671 15754 960 top ramps room
+22777 16946 960 top ramps room
+22847 18005 960 top ramps room
+22911 18962 960 top ramps room
+22041 19792 960 top lift
+22108 20804 960 top lift
+21888 21084 960 top lift
+21504 21724 960 top lift
+23295 22342 960 top lift
+23295 23464 960 top lift
+23295 23464 960 top lift
+22427 20416 960 top lift
+23105 20527 960 top lift
+22486 19597 960 top lift
+20784 16644 -575 ramps room floor
+21559 17554 -575 ramps room floor
+20170 15922 -575 ramps room floor
+19131 14702 -575 ramps room floor
+19600 12933 -575 ramps room floor
+22111 13579 -575 ramps room floor
+22716 13066 -575 ramps room floor
+20423 18303 -575 ramps room floor
+21991 18303 -575 ramps room floor
+20420 16457 -575 ramps room floor
+20084 14935 -575 ramps room floor
+18806 13433 -575 ramps room floor
+21157 13143 16 ramps room
+20676 13195 304 ramps room
+20253 12969 558 ramps room
+19858 13012 795 ramps room
+21254 12982 -41 ramps room
+21897 12933 -427 ramps room
+22775 16503 -290 ramps room
+22874 17480 75 ramps room
+22911 18303 192 ramps room
+22053 18303 192 ramps room
+21487 18303 246 ramps room
+21487 18303 246 ramps room
+20608 18303 575 ramps room
+19765 18303 892 ramps room
+20991 11668 960 main spawn room
+20009 11693 960 main spawn room
+19455 10286 960 main spawn room
+17961 8653 960 tunnel to balcony
+17958 8127 960 tunnel to balcony
+17953 7247 960 tunnel to balcony
+17951 6952 960 tunnel to balcony
+17943 5481 576 tunnel to balcony
+17094 4737 576 tunnel to balcony
+17096 5151 576 tunnel to balcony
+16326 5156 576 tunnel to balcony
+15410 5161 576 sniper balcony
+15404 4212 576 sniper balcony
+16070 3639 576 sniper balcony
+14776 3647 576 sniper balcony
+13918 3652 576 sniper balcony
+12928 3657 576 sniper balcony
+13962 2325 704 sniper balcony
+13976 4779 576 sniper balcony
+12928 4787 576 sniper balcony
+11946 6015 576 sniper balcony
+11937 4490 576 sniper balcony
+10965 3200 576 sniper balcony
+10371 4169 576 sniper balcony
+9262 5884 576 sniper balcony
+9253 4291 576 sniper balcony
+8718 3409 576 sniper balcony
+6618 3419 576 sniper balcony
+6272 3422 576 sniper balcony
+6735 5678 576 sniper balcony
+7406 4727 576 sniper balcony
+8296 4188 576 sniper balcony
+5209 4881 448 sniper balcony
+4072 4888 448 sniper balcony
+2351 4897 448 sniper balcony
+1152 4905 448 sniper balcony
+3072 5286 448 sniper balcony
+4449 5564 448 sniper balcony
+6588 5125 576 sniper balcony
+8132 3290 -575 red base - entrance
+9309 4355 -575 red base - entrance
+10726 4099 -575 red base - entrance
+11947 3879 -575 red base - entrance
+13247 5174 -575 red base - entrance
+14820 4899 -575 red base - entrance
+14600 3585 -575 red base - entrance
+14394 2439 -575 red base - entrance
+8647 2932 -575 red base - entrance
+8214 5275 -575 red base - entrance
+8332 5930 -575 red base - entrance
+11431 5800 -575 red base - entrance
+13052 5508 -575 red base - entrance
+11185 7037 -575 below grate
+12088 7367 -575 below grate
+11877 8801 -575 below grate
+10621 8341 -575 below grate
+11650 9086 -575 below grate
+11464 9866 -575 below grate
+10221 9570 -575 below grate
+12192 10040 -575 below grate
+12012 10852 -575 below grate
+10417 10472 -575 below grate
+5994 10273 -575 water stairs
+4769 10613 -575 water stairs
+3712 11571 -575 water stairs
+3712 10016 -996 water stairs
+3712 9364 -1215 water stairs
+2176 9344 -1471 water stairs
+2176 10132 -1599 water stairs
+2176 11350 -2118 water stairs
+2176 11826 -2367 water stairs
+3440 11894 -2495 water stairs
+3852 11913 -2751 water stairs
+5258 11978 -3263 water stairs
+5330 11981 -3263 water stairs
+5286 10743 -3520 water stairs
+5271 10301 -3775 water stairs
+5239 9401 -4159 water stairs
+2759 9109 -4980 water stairs
+3616 9219 -4671 water stairs
+2968 11520 -5951 water stairs
+2176 10537 -5439 water stairs
+2943 10413 -5311 water stairs
+2437 12175 -5951 water stairs
+4815 12287 -6847 water stairs
+3714 12060 -6335 water stairs
+5467 9706 -7487 water stairs
+3440 9313 -7487 water stairs
+3275 9727 -7487 water stairs
+6499 11726 -7487 water stairs
+6395 9888 -7487 water stairs
+8305 10357 -8767 water - red side
+8307 9774 -8767 water - red side
+9658 9385 -8767 water - red side
+10421 10447 -8889 water - red side
+11227 11579 -9471 water - red side
+12159 10975 -10193 water - red side
+12159 9165 -9817 water - red side
+12159 7653 -9285 water - red side
+12159 5780 -9888 water - red side
+12159 4374 -10559 water - red side
+12159 2811 -10535 water - red side
+12159 1276 -10123 water - red side
+12159 -254 -9512 water - red side
+12063 -1594 -9035 water - red side
+11319 -2869 -9184 water - red side
+10815 -3019 -10514 water - red side
+11120 -1883 -10522 water - red side
+11435 -827 -9745 water - red side
+11570 -165 -8664 water - red side
+11580 977 -7975 water - red side
+11387 2311 -8406 water - red side
+11153 3478 -9076 water - red side
+11020 4815 -9853 water - red side
+11231 6509 -10282 water - red side
+11524 8210 -10255 water - red side
+11637 9588 -9971 water - red side
+10816 10288 -8784 water - red side
+10641 9057 -8192 water - red side
+10683 7744 -8192 water - red side
+10798 5800 -7958 water - red side
+10885 4663 -8072 water - red side
+11011 3262 -8184 water - red side
+11133 1682 -8355 water - red side
+11184 232 -8479 water - red side
+11256 -1082 -8618 water - red side
+11374 -2861 -8710 water - red side
+11517 -3711 -7328 water - red side
+11431 -3711 -5836 water - red side
+10978 -3980 -3916 water
+10117 -4338 -2941 water
+8448 -4399 -2723 water
+7559 -5202 -3199 water
+7572 -6555 -3507 water
+9148 -7115 -3686 water
+10372 -6988 -3776 water
+11914 -6717 -3822 water
+13690 -6746 -2925 water
+15127 -6512 -2453 water
+15723 -5355 -3527 water
+14352 -4786 -4272 water
+12926 -5104 -4598 water
+11594 -5915 -4802 water
+10273 -6440 -4749 water
+8282 -6444 -4532 water
+7101 -5036 -4681 water
+7591 -3725 -4805 water
+8834 -3454 -4786 water
+10705 -3236 -4455 water
+12113 -3194 -3843 water
+13352 -3504 -3174 water
+14185 -4532 -2533 water
+12373 -6785 -4664 water - blue side
+11280 -7534 -5242 water - blue side
+11021 -8895 -4720 water - blue side
+11008 -9983 -3884 water - blue side
+10881 -11494 -3358 water - blue side
+10843 -12829 -3591 water - blue side
+11180 -12553 -4159 water - blue side
+10473 -11386 -4943 water - blue side
+11823 -11179 -5695 water - blue side
+11938 -12159 -4968 water - blue side
+11432 -14222 -4159 water - blue side
+11357 -15108 -4159 water - blue side
+11308 -16268 -4082 water - blue side
+11222 -17347 -3369 water - blue side
+11253 -17783 -2863 water - blue side
+11204 -16796 -4129 water - blue side
+11164 -15653 -4103 water - blue side
+11216 -14700 -3819 water - blue side
+11250 -12985 -3441 water - blue side
+11228 -11628 -3306 water - blue side
+11239 -9057 -3328 water - blue side
+11280 -8083 -3328 water - blue side
+11337 -7003 -3306 water - blue side
+11469 -6070 -2971 water - blue side
+11607 -5337 -2498 water - blue side
+11719 -4686 -2555 water - blue side
+11646 -3626 -3313 water - blue side
+11180 -7988 -5065 water - red side
+11380 -9378 -5168 water - red side
+14454 9633 -575 short way to ramps
+15471 10576 -575 short way to ramps
+14532 11589 -575 short way to ramps
+13606 10730 -575 short way to ramps
+16424 9558 -575 short way to ramps
+18452 9579 -575 short way to ramps
+18541 11626 -575 short way to ramps
+17582 12220 -575 short way to ramps
+18828 12369 -575 short way to ramps
+14069 10683 -575 short way to ramps
+6453 12822 -575 long way to ramps
+6362 13968 -575 long way to ramps
+6274 15075 -575 long way to ramps
+7052 16414 -575 long way to ramps
+7563 15488 -575 long way to ramps
+8942 15956 -575 long way to ramps
+10075 16048 -575 long way to ramps
+10535 15488 -575 long way to ramps
+11958 16342 -575 long way to ramps
+12032 15488 -575 long way to ramps
+13598 15613 -575 long way to ramps
+13534 16418 -575 long way to ramps
+15303 16126 -575 long way to ramps
+16227 16199 -575 long way to ramps
+17222 16279 -575 long way to ramps
+18167 16354 -575 long way to ramps
+16059 16357 -575 long way to ramps
+-4937 15264 448 sniper spawn room
+-4291 14826 448 sniper spawn room
+-4299 14140 448 sniper spawn room
+-3072 14751 448 sniper spawn room
+-2418 14743 448 sniper spawn room
+-1909 15357 448 sniper spawn room
+-1176 16000 448 sniper spawn room
+-246 15988 448 sniper spawn room
+-261 14769 448 sniper spawn room
+-271 13912 448 sniper spawn room
+-860 13148 448 sniper spawn room
+-1516 14039 448 sniper spawn room
+1627 13870 448 way to balcony
+1796 13192 448 way to balcony
+2003 12356 448 way to balcony
+2621 12507 448 way to balcony
+1252 12167 448 way to balcony
+1173 10979 448 way to balcony
+2513 11180 448 way to balcony
+1302 9923 448 way to balcony
+2682 9485 448 way to balcony
+2212 8482 448 way to balcony
+2394 7750 448 way to balcony
+2384 7219 448 way to balcony
+1307 7504 448 way to balcony
+1152 8712 448 way to balcony
+1155 9724 448 way to balcony
+1159 10691 448 way to balcony
+1162 11656 448 way to balcony
+1165 12509 448 way to balcony
+793 16149 448 sniper spawn room
+1407 16139 448 sniper spawn room
+2115 16306 448 sniper spawn room
+3005 16515 448 sniper spawn room
+4094 15941 448 sniper spawn room
+3826 15488 448 sniper spawn room
+4363 16578 448 sniper spawn room
+5269 15834 448 sniper spawn room
+4868 15488 448 sniper spawn room
+23261 11106 960 top spawn room
+23012 10254 960 top spawn room
+22303 9894 960 top spawn room
+22712 9088 960 top spawn room
+24047 8976 960 top spawn room
+24447 8668 960 top spawn room
+22990 9856 960 top spawn room
+23040 10921 960 top spawn room
+22856 12039 960 top spawn room
+23719 11648 960 top spawn room
+22907 10326 960 top spawn room
+26765 9998 960 top spawn room
+27206 9987 960 top spawn room
+27181 9033 960 top spawn room
+27230 10931 960 top spawn room

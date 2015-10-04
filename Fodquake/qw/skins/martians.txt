@@ -1,0 +1,6 @@
+Clan Leader:         Parfilm_Martian
+Full Clan name:      The Martians
+Clan Email Address:  rrclark@artsci.wustl.edu
+Clan Web Site:       http://www.artsci.wustl.edu/~ghpatel/martians.html
+
+Name of Skin:        martians.pcx

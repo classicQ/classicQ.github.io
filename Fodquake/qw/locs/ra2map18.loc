@@ -1,0 +1,17 @@
+6834 25360 1985 Leiter WasserfallRaum
+10751 20680 1985 Wasserfall oben
+10873 10966 -319 Wasserfall Mitte
+6508 14845 -1599 Wasserfall unten
+-1716 15219 -2111 Ebene1 HauptRaum
+-6220 11566 -1087 HauptRaum Gang
+-10110 15005 321 Ebene2 HauptRaum
+-9267 13266 -4159 HauptRaum Teleporter
+-8665 24653 193 HauptRaum TeleAusgang
+-8992 19330 -235 Tele->Hauptraum Gang
+-3432 23630 193 Ebene2 BoxenRaum
+-3412 23791 -1855 Ebene1 BoxenRaum
+5742 25203 193 Leiter WasserfallRaum unten
+1276 22119 193 Ebene2 Flur
+-3448 18225 193 PillenRaum Ausguck
+4324 19044 -2831 Aufzug1
+-7818 28076 -1167 Aufzug2

@@ -1,0 +1,60 @@
+================================================================
+
+Title                   : DMM4 Skeet Shoot
+Filename                : pushdmm4.bsp
+Author(s)               : Povo-Hat
+Email Address           : pov@drok.net.au
+Description             : A DMM4 arena where newly spawned players are fired into the air
+Additional Credits to   : Mike and Ven for playtesting and suggestions
+
+================================================================
+
+* Play Information *
+
+
+Level Name              : DMM4 Skeet Shoot
+
+Single Player           : x
+Cooperative 1-32 Player : x
+Deathmatch 2-32 Player  : YES
+Difficulty Settings     : x
+
+New Sounds              : x
+New Graphics            : x
+Sound Track             : x
+Demos Replaced          : x
+.map   Included         : YES
+ezQuake levelshot	: YES  (place pushdmm4.jpg into ezquake/textures/levelshots)
+
+Software needed to play : Quake
+(ctf, normal quake etc.)
+
+
+Comments                : This map is designed for RL play only.
+
+
+* Construction *
+
+Base            :  a blank map
+Build Time      :  a few hours total work, including rebuilding due to losing the .map
+
+Times & stats   :System Used      : do              
+                 Qbsp             : you
+                 Vis (-level 4)   : really
+                 Light (-extra)   : care
+                 Brushes          : about
+                 entities         : this
+                 miptex           : shit?
+
+Texture WAD used: textures.wad (generated from worldcraft's maketex utility)
+Editor(s) used  : GtkRadiant 1.5.0
+Known Bugs      : None known.
+
+* Legal Stuff *
+--------------------------
+
+The .map is included. Do what you please.
+
+
+(Template level description provided by Kyle 'ObserveR' Lemke of
+ http://www.planetquake.com/future/)

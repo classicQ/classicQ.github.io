@@ -1,0 +1,166 @@
+                  ·· I N F O R M A T I O N ··
+
+Title                  : Hook In Mouth
+
+Date of release        : 1st October 1999
+
+Filename               : hook   .bsp - original
+                         hookse .bsp - special edition
+                         hooksew.bsp - special edition with
+                                       built-in OmicronBot 
+                                       waypoints
+                         
+Author                 : Vondur
+
+Email address          : von@vondur.net
+
+Homepage               : Vondur's War Supply
+                         http://vondur.net
+
+Description            : Quake 1 Military Style Deathmatch Level
+
+Other maps by author   : Q1dm - dokkur1-6, ferrum, zed
+                         Q1sp - solfall
+                         Q1ra - sannur
+                         Q2dm - svartur1-3, compass
+                         HLsp - sigur
+                         HLdm - scoff
+
+Single Player          : Yes yes yes yes !
+			 See [SP Part] in NOTES
+
+Cooperative            : Well...
+
+Deathmatch             : Yes. Designed for one-versus-one game.
+                        
+Difficulty Settings    : Nah.
+
+Base                   : New level inspired by the fading nature
+                         and by the dark and evil music
+
+Editors used           : Worldcraft 1.6 
+                         Wally 1.4x
+                         Photoshop 5.0
+                         EditPad 3.5.0
+
+Textures               : All texes has been either modified from
+                         quake1[2].wad or mine.
+                         Bloody water - zerstorer.wad
+                         Some decorations - quake2.wad
+                         NOTE: if you'll use some of my texes
+                         [all texes beginning at h_*] just give
+                         me credits in your .txt file.
+
+Known Bugs             : Nothing found
+
+Build Time             : Started July 1999
+
+Compile machine        : PII 400 / 128 Mb 
+
+Additional utils used  : WQbsp
+                         Rvis+
+                         Tyrlite
+                         TexMex 2.8
+                        				
+
+                  ·· I N S T R U C T I O N S ··
+
+You have to:
+1. Unzip hook[se,sew].bsp into ../quake/id1/maps directory.
+2. Run Quake. [GLQuake is preferrable]
+3. In Quake, at the console type "map hook[se;sew]".
+4. Play the map.
+5. Enjoy it or hate it.
+6. Exit the game.
+7. Launch your mail program.
+8. Write love/hate mail to vondur@planetquake.com.
+Just eight points. Easy, huh?
+
+
+                         ·· N O T E S ··
+
+[DM PART]
+This level designed for 1-on-1 game. 4ffa must work too. But, as 
+for 6ffa...I just don't know, sorry.
+
+              !!! ATTENTION, OMICRON BOT LOVERS !!!
+
+I've made separate version of this map for omis because of:
+1. They can't reach hanging rocketlauncher or do it silly
+2. They scared a bit by the air lifts
+Besides,  some  human  players might be unhappy with this things 
+too.
+
+Therefore,  if  you  want  to  try another way to kill, just use
+either  hookse.bsp  or hooksew.bsp [with built-in waypoints] map
+instead of original hook.bsp.
+
+Changes in hookse.bsp:
+1. Hanging RL placed on special bridge
+2. Air lifts changed to mechanic ones
+3. Secret door health decreased from 200 to 20
+
+CAUTION: If you'll try  to launch hooksew.bsp in original  Quake 
+you'll  receive  bunch of error messages, but map will run after
+this though. 
+
+                    ··· END OF ATTENTION ···
+
+
+[SP PART]
+By  entering  into  the level type at the console "notarget". It 
+requires for Enforcer, guide dude, who walks on the base useless.
+If you will not type "notarget" he will very annoyed and conflict
+will be inevitable. "Notarget" is just ticket. He will guide you
+through the base and will show you all the rooms. Don't forget to 
+say him thanks. He works for free....
+
+
+                    ·· C R E D I T S   T O: ··
+
+Ben Morris for the 1.6
+
+id software for the Vaults Of Zin and other cool  places  because 
+of interesting excursions [www.idsoftware.com]
+
+Neal White III and Ty Matthews for awesome Wally
+[www.planetquake.com/wally]
+
+Mickey J for useful TexMex [www.planetquake.com/texmex]
+
+Tyrann for the great improvements of vis and lite compilers
+[www.planetquake.com/tyrann]
+
+Mr.Fribbles    [www.planetquake.com/frib];
+Fat Controller [www.planetquake.com/fatty];
+Vigilante      [www.clanworld.dk/team-cotv/reviews/index_review.htm]
+for playtesting and notes
+
+Musicians who inspired me during level making. At this time:
+MEGADETH [www.megadeth.com]  for  the  map  title  from the song 
+of  their  coolest  album  "So far, so good...So what!" [p]1988;
+THE MOON LAY HIDDEN BENEATH A CLOUD [last album r0xx];
+N.O.I.S.E. [www.noisemusic.org] - Pinku Vaaty and Elysis;
+THE LEGENDARY PINK DOTS [brainwashed.com/lpd];  Kari Rueslatten;
+SOULFLY; TYPE O NEGATIVE; DEAD CAN DANCE; LoK; Doom midi
+
+Purusa  for the great modz [members.xoom.com/purusa] - Damn cool
+last .vqf album of "Unknown"
+
+September the Month and Autumn Twilights for inspiration.
+
+
+                   ·· L E G A L  S T U F F ··
+
+This  BSP  may  be  distributed ONLY via the Internet and/or BBS 
+systems. You are NOT authorized to put this BSP  on  any  CD  or 
+distribute it in any way without my permission. And don't remove 
+this .txt file from the .zip archive!
+
+
+            Quake is for life. Not just for lanparty.
+
+                         [ v o n d u r ]
+
+                       VONDUR'S WAR SUPPLY
+                http://www.planetquake.com/vondur

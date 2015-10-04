@@ -1,0 +1,210 @@
+
+                 
+}---------->(((º>----------<  Powder Keg!  >----------<º)))<----------{
+
+			Date: 22nd of December, 1999
+		       Title: Powder Keg
+		   Filenames: pkeg1.bsp
+			      pkeg2.bsp
+	                      pkeg3.bsp
+		        Game: Quake 1
+		      Author: Mr Fribbles (Van Ricketts)
+		       Email: fribbles@planetquake.com
+		         ICQ: 1952617
+		         Web: http://www.planetquake.com/frib/
+			      http://www.planetquake.com/peejnfrib/
+
+
+}---------->(((º>----------< About The Map >----------<º)))<----------{
+
+This level is a remake of the pre-existing map fribdev1 - powder keg.
+It was created in order to eliminate the numerous clipping bugs present
+in the original map, including the fucked up, illogical, impossible,
+dirty great big disgusting QW 2.3 ONLY clipping bug O' death at the RA.
+
+Why bother? I still play this level a lot, so does ZzJohnzZ & co, and
+hopefully even some other people. These clipping bugs shit me,
+especially the QW 2.3 one, which I could do nothing about... QW 2.3
+was released AFTER my map was released, and it BROKE my map, goddamn
+it. So I fixed it.
+
+I didn't have the original source files, so the map has been rebuilt
+from scratch... it is a very simple map though, so that only took a
+couple of hours. I resisted the tempation to make a lot of changes to
+the map... the gameplay is IDENTICAL to the original, because it was
+already perfect, and there are only a couple of very small changes...
+mostly to accomodate different texturing, and in one case, to provide
+just a bit more detail (at the MH).
+
+In the Powder Keg tradition, there are not one, not two, but THREE
+different versions to choose from. In each case the level is identical,
+but the texturing is totally different. Pick the one which suits you
+best, or mix and match, there should be something there you like. I
+always loved the original textured version, so that has remained, but
+rather than re-doing the other 2 versions in the original fribdev1, I
+whipped up two new versions. Both use primarily textures from Heretic2,
+which I doubt have been used in Quake before, and they certainly do
+look the business.
+
+I have included the original fribdev1.txt in the pkeg.zip archive, so
+that De Venator recieves proper credit as co-author of this map.
+
+--------
+Below is a list of changes from the original fribdev1.bsp. This is by
+no means a comprehensive changelog, and I've no doubt missed something
+stuff... PLUS noone is going to read this shit anyway, but here it is:
+
+- lighting is different. I didn't have the original source files, and
+since Dev did the light I don't have a clue where the lights were, what
+values he used, etc. I decided that I could make the lighting a bit 
+nicer anyway, whilst still retaining the same general level of 
+brightness and ambience present in fribdev1.
+ 
+- respawns are in a different order. This is because I don't have a 
+clue what the original order was, although obviously I COULD load the
+map, write down the order, and then re-create them one by one, it 
+wouldn't be much of a problem. BUT any decent server/mod has randomized
+respawns anyway so I doubt anyone has memorized the order.
+ 
+- ADDED TWO RESPAWNS. I didn't really intend to do this, but when I was
+adding the spawns in I thought I remembered the first respawn I put in
+there.. but I remembered wrong. It's the one in the window, overlooking
+the RL and facing the MH. I left it in there because I like it, and I 
+love hanging down the bottom near that main RL and fragging people mid
+air as they jump for the RL. Now, since I decided to leave THAT spawn
+in, I had 5 spawns in that area and 3 spawns in the RA area. Seemed 
+like a bad idea. So I had the choice of removing the new one or adding
+one in the other room. I added another right next to the LG, in the 
+window frame, bringing the total respawns up to 9 with a 5/4 split 
+between MH/RA rooms.
+ 
+- added a bit of decoration next to the MH. That bit looked like shit
+originally, especially when I put some more light in there.
+ 
+- removed wall torch at MH, there is plenty of light there now anyway.
+ 
+- Changed the look of the teleports slightly. Also made the teleport
+trigger FLUSH with the frames rather than INSIDE the frames. No more 
+getting stuck on the teleport edges in combat.
+ 
+- map is vissed with wqbsp for transparent water (blood in this case)
+and teleports. I don't tend to use transparencies anyway, but it looks
+nice in pkeg1.bsp, and it's there for the people that want the feature.
+Remember to use r_wateralpha 0.4 (or whatever) for transparencies, and
+r_wateralpha 1 to turn it off.
+ 
+- Added 2 windows at the RA. This was done mainly to give some more
+natural light in that area, and to break up those big plain walls.
+Since I am trying to keep to the original style, I just copied the
+design of the LG windows and rotated it. I kept the windows AWAY from
+the RA itself so that people can't stand in front of them to avoid RL
+splash.
+ 
+- CLIPPED OUT those new windows at RA. Reason - I wanted to keep the 
+same clip hull profile as before, especially near the RA.. ie I wanted
+a flat wall rather than having the player get stuck in the windows.
+But I left the LG windows unclipped cos there is spawns in there, and
+I've never been stuck in there at all.. played it hundreds of times and
+never been blasted in there by RL splash either.
+ 
+- FIXED clipping bugs which were present in fribdev1.bsp. This includes
+the main RL area most notably.
+ 
+- FIXED qw 2.3 movement bug at RA. Yes it reared its ugly head again,
+even though I rebuilt the map from scratch. Even though there's nothing
+there, heh. I fucked it off, I've yet to see it happen again in QW 
+since I fixed it.
+
+- added a new stair trim texture in pkeg1.bsp
+
+
+}----------->(((º>------------< Credits >------------<º)))<-----------{
+ 
+ ¤ ZzJohnzZ - without John's help, these maps would not exist.
+   Encouragement and support, suggestions, extensive testing, demos,
+   you name it, this dude did it, thanks man!
+   Visit 3AC where Powder Keg is rated the #1 duel map. :P
+   http://www.theoven.freeserve.co.uk/
+ ¤ Mister Shambler for some valuable feedback
+   http://www.planetquake.com/teamshambler/
+ ¤ Daz, Zeph, Vert - playtesting
+ ¤ David Jewsbury for Stoneless
+ ¤ Gibfactory - textures
+ ¤ Vondur for texture help
+ ¤ Anyone else I've forgotten... what day is it?
+
+                
+}---------->(((º>---------< Play Information >---------<º)))<---------{
+
+Requirements:        quake 1.01 or higher
+Single player:       no sir
+Cooperative:         no
+Deathmatch:          1on1, 2on2, small FFA.
+Difficulty Settings: no
+New sounds:          no
+New Graphics:        custom textures
+
+
+}---------->(((º>----------< Construction >----------<º)))<-----------{
+
+Base:               based on fribdev1.bsp, but rebuilt from scratch
+Editor:             Stoneless (v 1.01)
+Other Utils:        TexMex, Remipdlx, PSP 3.5, ArghLite, wQBSP, rvis+
+Textures used:      Some from Quake
+		    Some from Heretic2
+	            Some I've made or modified
+	            *RTeleport15 by Gibfactory
+Build time:         a few hours
+Compile machine:    celeron 400 96mb
+Compile time:       about 10 secs for each version?
+Known Bugs:         all clipping bugs have been eliminated as far as I
+                    know. This map has been tested EXTENSIVELY in QW
+	            and GLQuake, and all problems have been discovered
+		    and dealt with. The whole point of this project is
+	            to fix the bugs, so there had better fucking NOT
+                    be any left. If you find any, please don't tell me,
+		    I will probably kill you. :)
+
+
+
+}--------->(((º>----------< My Quake Levels >----------<º)))<---------{
+                                                                      
+		     Electric Fish Deathmatch One
+ 		     Electric Fish Deathmatch Two
+                    Electric Fish Deathmatch Three
+                     Electric Fish Deathmatch Four
+			    Efdm5 - Vortex
+			   Efdm6 - Gunmetal
+ 			   Efdm7 - Biohazard
+			Efdm8 - Cryptosporidium
+			Efdm9 - Tangerine Dream
+		    Efdm10 - WhiteChocolateSpaceEgg
+ 			   Efdm11 - Maelstrom
+		      Efdm12 - Death by the Dozen
+
+			 Fribdev1 - Powder Keg
+		Fribweb1 - Webby's World Special Edition
+	  Mrftig01 - Frib and Tigger-oN's arena (rocket arena)
+
+	  All available from http://www.planetquake.com/frib/
+	          plus ftp.cdrom.com and mirror sites
+
+
+}--------->(((º>----------< Copyright Stuff >----------<º)))<---------{
+
+Authors may not use this level as a base to build additional levels.
+You may NOT decompile the level into a .map file for any reason 
+whatsoever.
+You may modify the .bsp (adding bot route files, gl-vis it, replacing 
+textures, whatever) for you OWN PERSONAL USE only; do not distribute 
+any modified versions of this level.
+
+You are not allowed to commercially exploit this level, i.e. put it on 
+a CD or any other electronic format that is sold for money, without my 
+explicit permission.
+You MAY distribute this BSP through any electronic network, provided 
+you include this text file and leave the archive intact.
+
+Basically, please don't fuck with the map, and don't fuck ME around.
+I put a lot of time and effort into creating these levels, for free;
+all I ask for in return is a little respect and common courtesy.

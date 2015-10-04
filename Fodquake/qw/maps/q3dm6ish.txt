@@ -1,0 +1,77 @@
+Q3DM6-ish - November 2000
+================================================================
+Title                   : Q3DM6-ish
+Filename                : q3dm6ish.txt (this readme file)
+                          q3dm6ish.bsp (the level itself)
+Author                  : Aardappel    (Wouter van Oortmerssen)
+Email Address           : aardappel@planetquake.com
+Web Page		: http://www.planetquake.com/aardappel
+Description             : DM map for 2-8 players ideally,
+                          imitation of Q3DM6 layout, with new
+                          architecture & and new textures
+================================================================
+
+* Play Information *
+
+Single Player           : well there are no monsters :)
+Cooperative             : eh?
+Deathmatch              : 9 respawns
+Difficulty Settings     : no
+New Sounds              : no
+New Graphics            : mostly new textures
+New Music               : no
+Demos Supplied          : no
+
+* Construction *
+
+Base                    : new level from scratch
+Editor(s) used          : Quark
+Known Bugs              : none
+Build Time              : 2/3 days
+Texture Wad used        : my own
+
+Compile machine         : Athlon Tbird 900, 256Mb Ram
+QBSP256 Time            : 46 seconds
+Arghlite (-extra) Time  : 13 seconds
+VIS (-level 4) Time     : 4 seconds
+
+
+Summary of the level
+====================
+Yup, another "ish", couldn't resist.
+
+The map is very compact and open, even moreso than the original, and as a
+consequence you can cover the map quite quickly which makes for intense games.
+The map contains 1 of: QUAD/RA/YA/MH/RL/LG/GL/SNG, 2 SSG (close enough to
+the original). The item balance is pretty good, and the RL isn't that campable,
+but for maximum pleasure play in deathmatch mode 3.
+
+Has fairly simplistic architecture (because the map is so open, r_speeds are already
+too high, up to 700), and very contrasting lighting.
+
+All textures (except the sky, wood, and the spawnpad) are my own, in the unlikely
+event that you'd want to use them feel free to do so in any way you see fit. The
+bricks you see are from bricks photographed around my house, other textures are
+made from scratch, or from other base textures.
+
+The "jumppads" are the closest approximation I could find but aren't infallible,
+if you try tricks on them you fall back down. If you cut the arches very close
+it is possible to get stuck on them, but this shouldn't happen in practice thanks
+to some func_illusionary in the right places.
+
+Thanks to my CyBear, Frib, Headshot, Zzjohnzz, Vondur, SleepwalkR and others that
+gave feedback, sorry I ignored most of it. The first beta of this map had a more
+conventional texture scheme, but Frib kept slagging off whatever I came up with,
+so to take revenge I promised him I would come up with my own weirdo texture scheme.
+So here it is Frib. Hope you cringe when you see it! ;)
+
+
+==============================================================================
+
+* Copyright / Permissions *
+
+You now the drill: don't tamper with the archive or anything in it. Cheers.
+Distribution in any way is ok. Hey, you could even ask me :)
+
+
+Wouter van Oortmerssen (aka Aardappel)

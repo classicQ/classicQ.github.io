@@ -1,0 +1,51 @@
+================================================
+Title:          egyptra
+File:           egyptra.bsp
+Author:         Eric Konno
+Email Address:  konno@lava.net
+URL:             
+Description:    A rocket arena map :)
+Clan:		VolcanoGods in HAWAII!!!!
+================================================
+Play Information
+
+Single Player           no
+Cooperative:            no
+Capture the Flag:       no
+Deathmatch:             no
+ROCKETARENA!!!!:        yEs
+New Sounds:             no
+New Graphics:           no
+New Music:              no
+Inspiration:            Just wanted to use egyptian textures, like in Rogues pack etc       
+================================================
+Other:			My first Rocket Arena map.  Hope u have fun.  Comments,criticisms etc please email moa :)
+			Thx to NiOXIN for that telling me about that camp spot in the sky.  
+			hehe I didn't think ppl would do that :)
+
+Compile Times		
+Brushes:                238
+QBSP:			18 secs
+Light extra:		66 sex(oops) seconds
+Vis Level 4:		428 secs
+Entities:		61
+================================================
+Construction
+Machine: 		166mhz pentium/32megs ram
+Base:           None
+Editor:         qED 1.1  by Matt Tagliaferri
+Know Bugs:      None
+     
+
+================================================
+Distribution and legal: 
+
+Copyright (c) 1997 Eric Konno
+All rights reserved.
+
+Portions copyrighted by id Software, Inc.  This level may be
+distributed any which way provided the text is kept in original
+form.  Blah Blah and double blah blah
+
+
+================================================================

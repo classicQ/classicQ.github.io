@@ -1,0 +1,35 @@
+=========================================================
+
+Title                       : P.L.A.T.Y.P.U.S. Arena 23_a
+Filename                    : 23ar-a.bsp
+Author                      : AgEnT_xxiii (Brian Gebbia)
+Email Address               : agentxxiii@geocities.com
+Other Maps                  : 23ar-b.bsp(another Arena Map)
+
+Description                 : A Rocket Arena, based on a Playground, simple but fun.
+			      With a lame excuse for a spectator area. Oh well, one must decide 
+			      between appearance and performance. Having a p90 i choose                               performance. Hope someone enjoys this...
+
+Additional Credits          : ID, for Quake and all the people who made Rocket Arena possible. 			              And to Ben Morris for the best Quake Level editor out there.
+			      And everyone else I am too tired to think of.
+
+=========================================================
+
+* Play Information *
+
+Single Player               : If you have had a lobotomy recently.
+Cooperative                 : I guess you could use it to chat.
+DeathMatch                  : YES, Rocket Arena Mod is what it is built for
+New Textures                : NOPE
+
+* Construction *
+
+Base                        : My mind
+Editor Used                 : Worldcraft
+Known Bugs                  : Spectator area is pathetic, but keeps the performance better.
+
+
+* Copyright / Permissions *
+You are allowed to distribute this freely, as long as you do not modify it, and don't charge for it.  If you want to modify it or charge for it, or put it on something that isn't free, then contact me and we can work something out. Failure to do follow these rules, would be really bad, and result in years of bad luck and negative karma. Using my map you are agreeing to all this.
+Blah, Blah, Blah, Blah.....etc... so on, and so on....
+The End.  

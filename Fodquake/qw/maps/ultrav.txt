@@ -1,0 +1,87 @@
+First Release: 06/19/97
+
+==================================================
+Title                   : UltraViolence
+
+Filename                : UltraV.bsp
+
+Author                  : Adriano Lorenzini (aka Escher)
+Email Address           : bib2002@iperbole.bologna.it
+Description             : A small map based on an egyptian theme.
+                          This level has been designed for a *very* intensive
+                          one-o-one deathmatch, it's all you ever wanted to play
+                          if you love the rocket jumping.
+                          
+
+Additional Credits to   : Yahn Bernier for BSP, the best quake level editor out there
+                          A big thanx to all people helped me 
+                          Steve Polge for the incredible ReaperBot
+                          Tom "Woofer" Grandgent (tgrand@ultra.net) for the enhanced QBSP
+                          Paolo Petrini, check out his site (http://quake.shiny.it/) 
+                          Rogue for textures
+                          iD Software of course.
+===================================================
+* Play Information *
+
+Game                    : Quake Registered 1.01 or higher
+Map Name                : UltraViolence
+Single Player           : NO
+Co-op                   : NO
+Deathmatch 2-4          : 6 Deathmatch Starts
+Difficulty Settings     : NO
+Additional Info         : No exit, No escape. Anyway setting a time limit
+                          it will start the DM4 map
+==================================================
+* Construction *
+
+Base                    : New level from scratch.
+Editor used             : BSP 0.75  (http://www.planetquake.com/bsp/index.shtm)
+Construction time       : 1 week + testing
+Known bugs              : NONE
+
+==================================================
+
+* How to speed up the game *
+
+Though this map runs *very* fast even on slow machine,
+i added a quite big amount of torches which tend to slow down the
+gameflow but not that much though. Given that torches look good but
+don't add anything to the gameplay you could be interested in
+removing them. If you are then do the following 3 easy steps:
+i) get a copy of QBSP
+ii) Put QBSP, ultrav.bsp and ultrav.map under the same dir
+iii) Run a dos-prompt and type: qbsp -onlyents ultrav
+
+* Other Works (avalaible on the CDROM site, thanx Joost) *
+
+"De Bello Quakero"
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/d-f/debello.zip
+Medium size level based on a roman theme, plenty of
+great architectures and so on. You just will love it!
+
+"Razzi Amari"
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/p-r/razzi.zip
+Medium size map suitable for 6-8 players. It's a "metal"
+DM level very interconnected for allowing a very fast gameplay.
+If you love classics then give it a run through.
+
+"The Blue Death"
+ftp.cdrom.com/pub/idgames2/levels/deathmatch/a-c/bdeath.zip
+It's a small level made for those who love the good old SSG
+
+Any comments, suggestions and/or REQs are welcome.
+Really, any feedbacks will be greatly appreciated:
+Adriano Lorenzini <bib2002@iperbole.bologna.it>
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. And it must not be sold, without permission from the author.
+
+You MAY distribute this BSP, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Greetings from Venice

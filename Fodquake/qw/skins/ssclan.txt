@@ -1,0 +1,6 @@
+Clan Leader:         Joonas Sandholm
+Full Clan name:      $$
+Clan Email Address:  Joonas.Sandholm@hut.fi
+Clan Web Site:       http://www.hut.fi/~jsandhol/klaani.htm
+
+Name of Skin:        $$.pcx

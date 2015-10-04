@@ -1,0 +1,9 @@
+#include "resource.h"
+
+1 TEXTINCLUDE
+BEGIN
+    "resource.h\0"
+END
+
+IDI_APPICON             ICON                    "fodquake-gl.ico"
+

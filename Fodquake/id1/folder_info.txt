@@ -1,0 +1,4 @@
+When you purchase the full version of Quake, copy pak0.pak and pak1.pak to this folder.
+
+You can buy Quake here:
+http://store.steampowered.com/app/2310/

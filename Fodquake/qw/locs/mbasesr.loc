@@ -1,0 +1,862 @@
+-2943 13183 4800 blue flagroom
+-2943 10368 4800 blue flagroom
+2943 10368 4800 blue flagroom
+2943 13183 4800 blue flagroom
+-895 13222 4800 blue flagroom
+876 13161 4800 blue flagroom
+-217 11599 4800 blue flagroom
+895 13561 4800 blue corridor to flagroom
+-895 13502 4800 blue corridor to flagroom
+-895 16367 4800 blue corridor to flagroom
+895 16320 4800 blue corridor to flagroom
+-100 14433 4800 blue corridor to flagroom
+-2431 16512 4800 blue upper floor
+-2431 18303 4800 blue upper floor
+2431 18303 4800 blue upper floor
+2431 16512 4800 blue upper floor
+895 16421 4800 blue upper floor
+-895 16444 4800 blue upper floor
+-1098 18303 4800 blue upper floor
+895 18382 4800 blue upper floor
+-895 18506 4800 blue upper floor
+895 18508 4800 blue upper floor
+895 21446 3838 blue upper floor
+-895 21424 3845 blue upper floor
+-2943 21543 3776 blue upper floor
+-2943 23423 3776 blue upper floor
+2943 23423 3776 blue upper floor
+2943 21564 3776 blue upper floor
+1565 22201 3776 blue upper floor
+-1674 22540 3776 blue upper floor
+206 23423 3776 blue upper floor
+-2625 21142 3698 blue left ramp tunnel
+-2586 20760 3571 blue left ramp tunnel
+-2567 19922 3291 blue left ramp tunnel
+-2556 19460 3137 blue left ramp tunnel
+-2533 18379 2777 blue left ramp tunnel
+2617 18782 2911 blue right ramp tunnel
+2622 19410 3120 blue right ramp tunnel
+2628 20317 3423 blue right ramp tunnel
+2635 21281 3744 blue right ramp tunnel
+3711 17791 2752 blue ramp room
+2466 17800 2752 blue ramp room
+167 17791 2752 blue ramp room
+-1131 17791 2752 blue ramp room
+-2315 17791 2752 blue ramp room
+-3711 17791 2752 blue ramp room
+-3711 13952 2752 blue ramp room
+3711 16091 2752 blue ramp room
+3711 13952 2752 blue ramp room
+3710 13952 1728 blue ramp room
+3711 15251 1728 blue ramp room
+3735 17791 1728 blue ramp room
+2313 17791 1728 blue ramp room
+895 17791 1728 blue ramp room
+-896 17791 1728 blue ramp room
+-2692 17791 1728 blue ramp room
+-3711 13952 1728 blue ramp room
+-3711 15892 1728 blue ramp room
+-3742 17791 1728 blue ramp room
+-2434 15944 1728 blue ramp room
+2208 16000 1728 blue ramp room
+1247 14336 1736 blue ramp room
+-1292 14336 1736 blue ramp room
+83 13993 1728 blue ramp room
+83 13993 1728 blue way to ramp room
+-895 13906 1728 blue way to ramp room
+895 13836 1728 blue way to ramp room
+895 9953 324 blue way to ramp room
+-895 10015 348 blue way to ramp room
+-895 11318 836 blue way to ramp room
+-895 12895 1427 blue way to ramp room
+895 13064 1491 blue way to ramp room
+895 11071 744 blue way to ramp room
+-3455 6784 64 blue ground level
+-1664 7096 192 blue ground level
+-1221 7424 200 blue ground level
+-801 7086 192 blue ground level
+-895 5802 192 blue ground level
+895 5803 192 blue ground level
+895 7105 192 blue ground level
+1730 7029 175 blue ground level
+3455 6784 64 blue ground level
+3455 9243 64 blue ground level
+3455 11373 64 blue ground level
+3455 13962 64 blue ground level
+2370 12098 64 blue ground level
+151 14076 161 blue ground level
+191 15743 64 blue ground level
+2612 15563 64 blue ground level
+-2811 15364 64 blue ground level
+-3455 13173 64 blue ground level
+-2414 12485 64 blue ground level
+-2264 10609 64 blue ground level
+-3455 10440 64 blue ground level
+-1353 9471 200 blue ground level
+1186 9471 200 blue ground level
+-1180 4736 192 blue ground level
+1484 4736 192 blue ground level
+144 4738 192 blue ground level
+62 6393 192 blue ground level
+-4001 16512 1728 blue left wing
+-4002 17791 1728 blue left wing
+-6563 17791 1728 blue left wing
+-6595 16512 1728 blue left wing
+-4780 17308 1728 blue left wing
+-8519 17791 1728 blue left wing
+-8462 16512 1728 blue left wing
+-10195 16517 1728 blue left wing
+-10158 17791 1728 blue left wing
+-8766 17345 1728 blue left wing
+-10368 16133 1728 blue left wing
+-11647 16016 1728 blue left wing
+-11596 14298 1728 blue left wing
+-10368 14208 1728 blue left wing
+-11647 12773 1728 blue left wing
+-10368 12828 1728 blue left wing
+-10368 11207 1728 blue left wing
+-11647 11223 1728 blue left wing
+-10368 9258 1728 blue left wing
+-11647 9137 1728 blue left wing
+-11647 9015 1728 blue sniperdeck
+-11647 7296 1728 blue sniperdeck
+-10167 7297 1728 blue sniperdeck
+-8132 7324 1728 blue sniperdeck
+-5945 7354 1728 blue sniperdeck
+-4048 7379 1728 blue sniperdeck
+-2062 7406 1728 blue sniperdeck
+69 7366 1728 blue sniperdeck
+2268 7381 1728 blue sniperdeck
+4235 7395 1728 blue sniperdeck
+6093 7408 1728 blue sniperdeck
+8199 7423 1728 blue sniperdeck
+10177 7437 1728 blue sniperdeck
+11644 7296 1728 blue sniperdeck
+11647 9176 1728 blue sniperdeck
+10368 9334 1728 blue right wing
+11625 9415 1728 blue right wing
+11647 10343 1728 blue right wing
+10368 10706 1728 blue right wing
+11647 11136 1728 blue right wing
+11647 12479 1728 blue right wing
+10368 12491 1728 blue right wing
+10368 13439 1728 blue right wing
+11647 14391 1728 blue right wing
+10368 14399 1728 blue right wing
+11646 16266 1728 blue right wing
+10368 16274 1728 blue right wing
+11647 17791 1728 blue right wing
+10090 17791 1728 blue right wing
+10110 16512 1728 blue right wing
+8888 17791 1728 blue right wing
+8286 16512 1728 blue right wing
+6576 16512 1728 blue right wing
+7357 17787 1728 blue right wing
+3955 16516 1728 blue right wing
+3981 17791 1728 blue right wing
+4835 16963 1728 blue right wing
+8063 14464 1369 blue outside right respawn
+6784 14464 1369 blue outside right respawn
+6807 16293 1728 blue outside right respawn
+8063 16232 1723 blue outside right respawn
+8063 15293 1535 blue outside right respawn
+6784 15206 1518 blue outside right respawn
+7405 15240 1525 blue outside right respawn
+9599 13695 1344 blue right respawn
+9599 9856 1344 blue right respawn
+4736 9856 1344 blue right respawn
+4736 13695 1344 blue right respawn
+4754 11541 1344 blue right respawn
+7104 9859 1344 blue right respawn
+9597 12008 1344 blue right respawn
+7377 13877 1344 blue right respawn
+-8063 16249 1726 blue outside left respawn
+-6784 16273 1728 blue outside left respawn
+-6784 14464 1369 blue outside left respawn
+-8063 14464 1369 blue outside left respawn
+-8063 15441 1565 blue outside left respawn
+-6784 15381 1553 blue outside left respawn
+-7435 15411 1559 blue outside left respawn
+-7415 13935 1344 blue left respawn
+-4736 13695 1344 blue left respawn
+-4736 11577 1344 blue left respawn
+-4736 9863 1344 blue left respawn
+-6859 9856 1344 blue left respawn
+-9599 9856 1344 blue left respawn
+-9599 11746 1344 blue left respawn
+-9599 13695 1344 blue left respawn
+639 5814 1728 blue sniperdeck
+1195 4466 1728 blue sniperdeck
+-1230 4522 1728 blue sniperdeck
+-759 4720 1728 blue sniperdeck
+-639 5749 1728 blue sniperdeck
+1039 4741 1728 blue sniperdeck
+7295 5755 3264 blue right tower
+6016 5754 3264 blue right tower
+7295 6114 3264 blue right tower
+6016 6160 3264 blue right tower
+-7287 5818 3264 blue left tower
+-6016 5777 3264 blue left tower
+-6016 6103 3264 blue left tower
+-7295 6117 3264 blue left tower
+3730 14464 64 blue lift
+3522 15231 64 blue lift
+4388 15126 64 blue lift
+4509 14599 64 blue lift
+5503 14781 2014 blue lift
+4875 14783 2752 blue lift
+3951 14524 2752 blue lift
+3986 15227 2752 blue lift
+7551 5503 704 outside blue base
+7549 2740 704 outside blue base
+7510 4087 704 outside blue base
+-7551 2855 704 outside blue base
+-7551 4274 704 outside blue base
+-7551 5503 704 outside blue base
+-5815 5503 704 outside blue base
+-5503 6271 704 outside blue base
+5503 6271 704 outside blue base
+5843 5503 704 outside blue base
+3821 6271 704 outside blue base
+1664 6256 192 outside blue base
+1664 4216 192 outside blue base
+366 3967 192 outside blue base
+-532 3967 192 outside blue base
+-1316 3967 192 outside blue base
+-1664 4286 192 outside blue base
+-5545 4253 704 outside blue base
+-3942 4232 704 outside blue base
+-2599 4216 418 outside blue base
+-3737 2967 704 outside blue base
+-4991 2904 704 outside blue base
+-2058 2848 238 outside blue base
+-1698 2449 192 outside blue base
+-507 2338 192 outside blue base
+899 2206 192 outside blue base
+1899 2584 192 outside blue base
+3085 2650 580 outside blue base
+3708 2652 722 outside blue base
+5309 2662 704 outside blue base
+6378 2665 704 outside blue base
+7551 2669 704 outside blue base
+3647 2137 960 bridge
+3624 1180 960 bridge
+3651 111 960 bridge
+3682 -1071 960 bridge
+3704 -2040 960 bridge
+4970 -2400 847 bridge
+5070 -1496 960 bridge
+5029 -160 960 bridge
+5092 906 960 bridge
+4267 983 768 bridge
+4280 -429 768 bridge
+4291 -1673 767 bridge
+-3661 2327 884 bridge
+-3684 1257 960 bridge
+-3707 189 960 bridge
+-3735 -1108 960 bridge
+-3752 -1901 960 bridge
+-5012 -2037 960 bridge
+-4997 -1128 960 bridge
+-4975 169 960 bridge
+-4955 1353 960 bridge
+-4943 2085 960 bridge
+-4286 1763 761 bridge
+-4307 580 768 bridge
+-4332 -816 768 bridge
+-4347 -1725 764 bridge
+7551 2431 -1855 water
+7551 2431 -1617 water
+7551 2431 -595 water
+7551 -2431 -1855 water
+7551 -2431 -1362 water
+7551 -2431 -597 water
+7551 -1054 -1855 water
+7536 1146 -1855 water
+7536 1146 -606 water
+7551 -19 -593 water
+4145 541 -1855 water
+4015 -714 -1855 water
+-3809 -765 -1855 water
+-3840 590 -1855 water
+-7551 703 -1855 water
+-7551 -636 -1855 water
+-7551 -636 -598 water
+-7551 655 -580 water
+-4552 2431 -589 water
+-4257 -2431 -583 water
+-4407 1033 -599 water
+-2013 2268 -594 water
+-1473 1919 -599 water
+-477 1919 -610 water
+1244 1919 -597 water
+2161 2417 -582 water
+4452 2431 -585 water
+4418 661 -617 water
+4391 -721 -595 water
+4341 -2431 -597 water
+2534 -2431 -581 water
+2124 -2379 -605 water
+1472 -1919 -613 water
+368 -1919 -594 water
+-584 -1919 -597 water
+-1381 -1919 -602 water
+-2176 -2431 -586 water
+-4810 -2366 -1855 water
+-2232 -2422 -1855 water
+-272 -1919 -1855 water
+4537 -2431 -1855 water
+2846 -2051 -1855 water
+4731 2421 -1855 water
+2426 2396 -1831 water
+93 1919 -1855 water
+-2021 2276 -1855 water
+-4635 2361 -1855 water
+7552 5503 2240 walkway
+7518 4207 2240 walkway
+7551 2911 2240 walkway
+7805 2174 2240 walkway
+7888 756 2240 walkway
+7886 -426 2240 walkway
+7884 -1495 2240 walkway
+7521 -2207 2240 walkway
+7541 -3618 2240 walkway
+7545 -4342 2240 walkway
+7552 -5503 2240 walkway
+-7552 5503 2240 walkway
+-7552 4803 2240 walkway
+-7552 3764 2240 walkway
+-7552 2722 2240 walkway
+-7553 1739 2240 walkway
+-7664 230 2240 walkway
+-7752 -959 2240 walkway
+-7512 -2126 2240 walkway
+-7552 -3538 2240 walkway
+-7552 -5109 2240 walkway
+-7552 -5503 2240 walkway
+4484 2662 -1356 blue in pipe
+4492 4309 -1343 blue in pipe
+4492 5722 -1343 blue in pipe
+4257 7731 -1343 blue in pipe
+3578 10265 -1343 blue in pipe
+2924 12702 -1343 blue in pipe
+2794 15208 -1343 blue in pipe
+2794 17530 -1343 blue in pipe
+2794 18337 -1343 blue in pipe
+3455 19328 -1599 blue back room water
+3455 19342 -1021 blue back room water
+3455 21375 -1855 blue back room water
+2610 21375 -1855 blue back room water
+1319 21375 -1855 blue back room water
+-160 21375 -1855 blue back room water
+-1829 21375 -1855 blue back room water
+-3372 21375 -1855 blue back room water
+1488 19551 -1644 blue back room water
+503 19374 -1608 blue back room water
+-518 19353 -1604 blue back room water
+-1271 19524 -1639 blue back room water
+-2317 19393 -1612 blue back room water
+-3329 19328 -1599 blue back room water
+-3329 19382 -1013 blue back room water
+-3455 20150 -859 blue back room water
+-1724 20114 -866 blue back room water
+138 20499 -789 blue back room water
+3347 20486 -792 blue back room water
+3455 21361 -144 blue back room water
+1807 21375 -214 blue back room water
+-1072 21375 -176 blue back room water
+-3455 21375 -170 blue back room water
+-3455 21568 192 blue back room
+3455 21547 192 blue back room
+2166 21604 192 blue back room
+294 21586 192 blue back room
+-1455 21589 192 blue back room
+-2762 21591 192 blue back room
+3455 23935 -319 blue back room
+1474 23935 -319 blue back room
+-73 23935 -319 blue back room
+-2175 23935 -319 blue back room
+-3455 23935 1472 blue back room
+-3455 21120 1472 blue back room
+-621 21120 1472 blue back room
+555 21120 1472 blue back room
+2047 21123 1472 blue back room
+3455 21120 1472 blue back room
+3440 22497 1472 blue back room
+2432 22584 1472 blue back room
+1403 22399 1472 blue back room
+-1086 22444 1472 blue back room
+-2614 19107 -1361 blue out pipe
+-2614 17581 -1343 blue out pipe
+-2614 15765 -1343 blue out pipe
+-2692 12848 -1343 blue out pipe
+-3424 10119 -1343 blue out pipe
+-4231 7201 -1343 blue out pipe
+-4371 5101 -1343 blue out pipe
+-4371 3487 -1343 blue out pipe
+-4542 -2601 -1369 œredœ in pipe
+-4553 -3899 -1343 œredœ in pipe
+-4553 -6221 -1343 œredœ in pipe
+-4057 -8679 -1343 œredœ in pipe
+-3299 -11507 -1343 œredœ in pipe
+-2829 -13867 -1343 œredœ in pipe
+-2829 -16189 -1343 œredœ in pipe
+-2829 -18511 -1343 œredœ in pipe
+2679 -18843 -1314 œredœ out pipe
+2679 -16724 -1343 œredœ out pipe
+2679 -13998 -1343 œredœ out pipe
+2966 -12017 -1343 œredœ out pipe
+3567 -9775 -1343 œredœ out pipe
+4167 -7532 -1343 œredœ out pipe
+4376 -5743 -1343 œredœ out pipe
+4376 -3321 -1343 œredœ out pipe
+-383 20942 1472 blue back room corridor
+383 20882 1472 blue back room corridor
+383 18163 1728 blue back room corridor
+-383 18109 1728 blue back room corridor
+2 19175 1472 blue back room corridor
+-37 20249 1472 blue back room corridor
+326 16436 1728 blue ramp room
+2304 16748 1728 blue ramp room
+2026 14627 1728 blue ramp room
+-2781 14703 1728 blue ramp room
+-2304 16829 1728 blue ramp room
+3679 14867 2752 blue ramp room
+1473 13952 3392 blue ramp room
+137 14080 3392 blue ramp room
+-680 14080 3392 blue ramp room
+-1297 14080 3392 blue ramp room
+6595 6123 1856 blue right tower
+6596 6016 2163 blue right tower
+6596 6016 3105 blue right tower
+-6722 6174 1856 blue left tower
+-6717 6053 2265 blue left tower
+-6717 6047 2880 blue left tower
+-2943 -13183 4800 œredœ flagroom
+-2943 -10368 4800 œredœ flagroom
+-2431 -11734 5120 œredœ flagroom
+-512 -10368 4800 œredœ flagroom
+2943 -10368 4800 œredœ flagroom
+2943 -13183 4800 œredœ flagroom
+1128 -13183 4800 œredœ flagroom
+-1023 -13183 4800 œredœ flagroom
+-1001 -11616 4800 œredœ flagroom
+811 -11961 4800 œredœ flagroom
+-895 -13497 4800 œredœ corridor to flagroom
+895 -13501 4800 œredœ corridor to flagroom
+895 -16345 4800 œredœ corridor to flagroom
+-895 -16322 4800 œredœ corridor to flagroom
+-895 -14888 4800 œredœ corridor to flagroom
+895 -14702 4800 œredœ corridor to flagroom
+27 -16198 4800 œredœ corridor to flagroom
+2431 -16512 4800 œredœ upper floor
+2431 -18303 4800 œredœ upper floor
+1045 -18303 4800 œredœ upper floor
+-1142 -18303 4800 œredœ upper floor
+-2431 -18300 4800 œredœ upper floor
+-2431 -16512 4800 œredœ upper floor
+-1686 -17295 4800 œredœ upper floor
+-600 -17283 4800 œredœ upper floor
+637 -17572 4800 œredœ upper floor
+1723 -17560 4800 œredœ upper floor
+895 -18635 4775 œredœ upper floor
+-895 -18573 4795 œredœ upper floor
+895 -21367 3864 œredœ upper floor
+-895 -21351 3869 œredœ upper floor
+-895 -20013 4315 œredœ upper floor
+895 -19834 4375 œredœ upper floor
+-19 -19921 4346 œredœ upper floor
+2105 -21632 3776 œredœ upper floor
+2943 -21615 3776 œredœ upper floor
+2943 -23423 3776 œredœ upper floor
+1575 -23423 3776 œredœ upper floor
+-682 -23423 3776 œredœ upper floor
+-2943 -23423 3776 œredœ upper floor
+-2943 -21834 3776 œredœ upper floor
+-2514 -22343 3776 œredœ upper floor
+-1185 -22379 3776 œredœ upper floor
+143 -22415 3776 œredœ upper floor
+1584 -22454 3776 œredœ upper floor
+2176 -17991 2752 œredœ left ramp tunnel
+2943 -18015 2752 œredœ left ramp tunnel
+2664 -18761 2904 œredœ left ramp tunnel
+2585 -19667 3206 œredœ left ramp tunnel
+2511 -20510 3487 œredœ left ramp tunnel
+2448 -21239 3730 œredœ left ramp tunnel
+-2622 -21395 3776 œredœ right ramp tunnel
+-2936 -18166 2752 œredœ right ramp tunnel
+-2176 -18142 2752 œredœ right ramp tunnel
+-2674 -19150 3034 œredœ right ramp tunnel
+-2543 -19976 3309 œredœ right ramp tunnel
+-2407 -20832 3595 œredœ right ramp tunnel
+-3711 -17791 2752 œredœ ramp room
+-3096 -17791 2752 œredœ ramp room
+-2006 -17791 2752 œredœ ramp room
+-917 -17791 2752 œredœ ramp room
+367 -17791 2752 œredœ ramp room
+1372 -17791 2752 œredœ ramp room
+2461 -17791 2752 œredœ ramp room
+3708 -17791 2752 œredœ ramp room
+3711 -13952 2752 œredœ ramp room
+3357 -15115 2752 œredœ ramp room
+3187 -16680 2752 œredœ ramp room
+1221 -16725 1990 œredœ ramp room
+-1998 -16808 2293 œredœ ramp room
+-3711 -16571 2752 œredœ ramp room
+-3706 -15739 2752 œredœ ramp room
+-3711 -13952 2752 œredœ ramp room
+-4176 -14828 2752 œredœ ramp room
+-5009 -14822 2752 œredœ lift
+-3711 -13952 1728 œredœ ramp room
+-3711 -14561 1728 œredœ ramp room
+-3711 -15737 1728 œredœ ramp room
+-3754 -17791 1728 œredœ ramp room
+-3709 -16876 1728 œredœ ramp room
+-2842 -13952 1728 œredœ ramp room
+-1664 -13952 1728 œredœ ramp room
+-1288 -14336 1736 œredœ ramp room
+-786 -14142 1728 œredœ ramp room
+76 -14200 1728 œredœ ramp room
+1096 -14408 1736 œredœ ramp room
+1664 -13952 1728 œredœ ramp room
+2863 -14015 1728 œredœ ramp room
+3711 -13952 1728 œredœ ramp room
+3711 -15206 1728 œredœ ramp room
+3711 -16271 1728 œredœ ramp room
+3651 -17791 1728 œredœ ramp room
+2642 -17791 1728 œredœ ramp room
+1475 -17791 1728 œredœ ramp room
+-969 -17791 1728 œredœ ramp room
+-2614 -17791 1728 œredœ ramp room
+-93 -17821 1728 œredœ ramp room
+874 -13700 1728 œredœ way to ramp room
+-895 -13715 1728 œredœ way to ramp room
+-895 -10037 356 œredœ way to ramp room
+895 -10018 349 œredœ way to ramp room
+895 -10905 681 œredœ way to ramp room
+895 -12438 1256 œredœ way to ramp room
+-895 -12661 1340 œredœ way to ramp room
+-895 -11426 877 œredœ way to ramp room
+164 -12642 1333 œredœ way to ramp room
+-26 -10176 408 œredœ way to ramp room
+-35 -11181 785 œredœ way to ramp room
+3455 -6784 64 œredœ ground level
+2374 -6921 64 œredœ ground level
+1664 -7044 192 œredœ ground level
+1258 -7424 200 œredœ ground level
+895 -7099 192 œredœ ground level
+895 -6182 192 œredœ ground level
+1415 -5503 192 œredœ ground level
+1412 -4736 192 œredœ ground level
+420 -4979 192 œredœ ground level
+-586 -4736 192 œredœ ground level
+-1430 -4736 192 œredœ ground level
+-1306 -5503 192 œredœ ground level
+-895 -5679 192 œredœ ground level
+-829 -6678 192 œredœ ground level
+-52 -6134 192 œredœ ground level
+-1318 -7424 200 œredœ ground level
+-1664 -7040 192 œredœ ground level
+-2529 -6901 64 œredœ ground level
+-3455 -6784 64 œredœ ground level
+-3455 -8243 64 œredœ ground level
+-3455 -9837 64 œredœ ground level
+-3455 -11760 64 œredœ ground level
+-3455 -13702 64 œredœ ground level
+-3455 -14347 64 œredœ ground level
+-4747 -14901 64 œredœ lift
+-5503 -14857 601 œredœ lift
+-3395 -15231 64 œredœ ground level
+-2511 -15664 64 œredœ ground level
+-60 -15743 64 œredœ ground level
+2386 -15743 64 œredœ ground level
+3455 -14480 64 œredœ ground level
+3455 -12349 64 œredœ ground level
+3455 -10415 64 œredœ ground level
+3455 -7983 64 œredœ ground level
+1218 -9470 200 œredœ ground level
+1664 -9764 192 œredœ ground level
+1664 -11111 192 œredœ ground level
+1664 -12790 192 œredœ ground level
+1497 -13952 192 œredœ ground level
+-207 -13952 192 œredœ ground level
+-1414 -13952 192 œredœ ground level
+-1664 -13458 192 œredœ ground level
+-1664 -11718 192 œredœ ground level
+-1664 -10140 192 œredœ ground level
+-2798 -11708 64 œredœ ground level
+2308 -12150 64 œredœ ground level
+-7551 -5503 704 outside red base
+-6340 -5503 704 outside red base
+-5589 -5503 704 outside red base
+-5503 -6271 704 outside red base
+-4070 -6271 704 outside red base
+-1664 -6271 192 outside red base
+-1664 -4255 192 outside red base
+-1721 -5170 192 outside red base
+-2892 -5261 516 outside red base
+-4241 -4702 704 outside red base
+-6618 -4119 704 outside red base
+-7551 -2620 704 outside red base
+-6046 -2651 704 outside red base
+-4376 -2686 704 outside red base
+-1699 -2737 192 outside red base
+-1691 -2097 192 outside red base
+-528 -2199 192 outside red base
+980 -2096 192 outside red base
+1722 -2192 192 outside red base
+2665 -2751 440 outside red base
+4262 -2718 704 outside red base
+6361 -2734 704 outside red base
+7551 -2610 704 outside red base
+7551 -3614 704 outside red base
+7551 -4790 704 outside red base
+7551 -5503 704 outside red base
+6258 -5503 704 outside red base
+5503 -6271 704 outside red base
+4041 -6271 704 outside red base
+2806 -6227 487 outside red base
+1664 -6271 192 outside red base
+3011 -4255 556 outside red base
+5364 -4370 704 outside red base
+3963 -16512 1728 œredœ left wing
+3993 -17791 1728 œredœ left wing
+5445 -17791 1728 œredœ left wing
+5438 -16512 1728 œredœ left wing
+6478 -16539 1728 œredœ left wing
+6496 -17791 1728 œredœ left wing
+7410 -16701 1728 œredœ left wing
+8394 -16512 1728 œredœ left wing
+8392 -17791 1728 œredœ left wing
+6784 -14464 1369 œredœ outside left respawn
+8063 -14464 1369 œredœ outside left respawn
+7231 -14458 1368 œredœ outside left respawn
+8063 -16316 1728 œredœ outside left respawn
+6784 -16249 1727 œredœ outside left respawn
+8063 -15373 1551 œredœ outside left respawn
+6784 -15365 1549 œredœ outside left respawn
+7531 -15402 1557 œredœ outside left respawn
+4736 -13695 1344 œredœ left respawn
+4736 -12520 1344 œredœ left respawn
+4736 -11122 1344 œredœ left respawn
+4736 -9856 1344 œredœ left respawn
+5997 -9856 1344 œredœ left respawn
+7276 -9856 1344 œredœ left respawn
+8682 -9856 1344 œredœ left respawn
+9599 -9856 1344 œredœ left respawn
+9599 -10942 1344 œredœ left respawn
+9599 -12019 1344 œredœ left respawn
+9599 -13020 1344 œredœ left respawn
+9599 -13695 1344 œredœ left respawn
+8681 -13695 1344 œredœ left respawn
+7848 -13695 1344 œredœ left respawn
+6393 -13614 1344 œredœ left respawn
+7245 -12160 1344 œredœ left respawn
+9315 -16512 1728 œredœ left wing
+9343 -17791 1728 œredœ left wing
+11647 -17791 1728 œredœ left wing
+10334 -16512 1728 œredœ left wing
+10368 -14208 1728 œredœ left wing
+11647 -14386 1728 œredœ left wing
+11647 -11162 1728 œredœ left wing
+10368 -11142 1728 œredœ left wing
+10873 -12836 1728 œredœ left wing
+11647 -9191 1728 œredœ left wing
+10368 -9247 1728 œredœ left wing
+11647 -10367 1728 œredœ left wing
+11640 -9080 1728 œredœ sniperdeck
+11647 -7296 1728 œredœ sniperdeck
+9163 -7296 1728 œredœ sniperdeck
+6978 -7276 1728 œredœ sniperdeck
+5224 -7312 1728 œredœ sniperdeck
+2956 -7248 1728 œredœ sniperdeck
+946 -7172 1728 œredœ sniperdeck
+-1150 -7094 1728 œredœ sniperdeck
+-3004 -7024 1728 œredœ sniperdeck
+-5387 -7203 1728 œredœ sniperdeck
+-7115 -7138 1728 œredœ sniperdeck
+-9106 -7643 1728 œredœ sniperdeck
+-2272 -9087 1728 œredœ sniperdeck
+8301 -9087 1728 œredœ sniperdeck
+5868 -9087 1728 œredœ sniperdeck
+2998 -9087 1728 œredœ sniperdeck
+-1205 -9087 1728 œredœ sniperdeck
+-3686 -9087 1728 œredœ sniperdeck
+-6060 -9087 1728 œredœ sniperdeck
+-8338 -9087 1728 œredœ sniperdeck
+-10093 -9087 1728 œredœ sniperdeck
+-11647 -9046 1728 œredœ sniperdeck
+-10368 -9440 1728 œredœ right wing
+-11647 -9380 1728 œredœ right wing
+-11647 -10367 1728 œredœ right wing
+-10368 -10394 1728 œredœ right wing
+-10368 -13439 1728 œredœ right wing
+-11647 -13489 1728 œredœ right wing
+-11329 -12015 1728 œredœ right wing
+-10990 -14976 1728 œredœ right wing
+-11647 -16372 1728 œredœ right wing
+-10368 -16294 1728 œredœ right wing
+-11647 -17791 1728 œredœ right wing
+-9892 -17791 1728 œredœ right wing
+-9961 -16512 1728 œredœ right wing
+-8131 -17784 1728 œredœ right wing
+-8197 -16512 1728 œredœ right wing
+-6414 -17765 1728 œredœ right wing
+-6480 -16512 1728 œredœ right wing
+-3854 -17791 1728 œredœ right wing
+-3918 -16512 1728 œredœ right wing
+-5592 -16996 1728 œredœ right wing
+-7178 -17111 1728 œredœ right wing
+-9098 -17251 1728 œredœ right wing
+-6784 -16287 1728 œredœ outside right respawn
+-8063 -16255 1728 œredœ outside right respawn
+-8063 -14464 1369 œredœ outside right respawn
+-6784 -14464 1369 œredœ outside right respawn
+-6784 -15502 1577 œredœ outside right respawn
+-8063 -15487 1574 œredœ outside right respawn
+-7314 -15447 1566 œredœ outside right respawn
+-7449 -14566 1390 œredœ outside right respawn
+-8217 -13695 1344 œredœ right respawn
+-9053 -13695 1344 œredœ right respawn
+-9599 -13695 1344 œredœ right respawn
+-9599 -12609 1344 œredœ right respawn
+-9599 -11569 1344 œredœ right respawn
+-9599 -10565 1344 œredœ right respawn
+-9599 -9856 1344 œredœ right respawn
+-8511 -9856 1344 œredœ right respawn
+-7471 -9856 1344 œredœ right respawn
+-6403 -9856 1344 œredœ right respawn
+-5279 -9856 1344 œredœ right respawn
+-4736 -10336 1344 œredœ right respawn
+-4736 -11516 1344 œredœ right respawn
+-4736 -12607 1344 œredœ right respawn
+-4736 -13695 1344 œredœ right respawn
+-5482 -13695 1344 œredœ right respawn
+-6655 -13695 1344 œredœ right respawn
+-1331 -14000 3392 œredœ ramp room
+-372 -14190 3392 œredœ ramp room
+683 -14080 3392 œredœ ramp room
+1328 -14080 3392 œredœ ramp room
+-3455 -19328 -1599 œredœ back room water
+-3092 -19352 -1604 œredœ back room water
+-1792 -19451 -1624 œredœ back room water
+-767 -19328 -1599 œredœ back room water
+889 -19328 -1599 œredœ back room water
+1957 -19443 -1622 œredœ back room water
+3446 -19328 -1599 œredœ back room water
+3437 -20377 -1809 œredœ back room water
+3455 -21375 -1855 œredœ back room water
+2643 -21375 -1855 œredœ back room water
+1140 -21375 -1855 œredœ back room water
+-510 -21375 -1855 œredœ back room water
+-1967 -21375 -1855 œredœ back room water
+-3076 -21375 -1855 œredœ back room water
+-3455 -20608 -126 œredœ back room water
+-3455 -21375 -156 œredœ back room water
+-808 -20608 -227 œredœ back room water
+1222 -20608 -204 œredœ back room water
+3455 -20608 -157 œredœ back room water
+3455 -21362 -217 œredœ back room water
+3449 -21648 192 œredœ back room
+2431 -21581 192 œredœ back room
+1187 -21566 192 œredœ back room
+-642 -21548 192 œredœ back room
+-2369 -21531 192 œredœ back room
+-3358 -21521 192 œredœ back room
+-3455 -23935 -319 œredœ back room
+-1246 -23935 -319 œredœ back room
+826 -23935 -319 œredœ back room
+988 -22179 -63 œredœ back room
+-1460 -22126 64 œredœ back room
+3141 -22288 192 œredœ back room
+3455 -23935 1472 œredœ back room
+3455 -22695 1472 œredœ back room
+3455 -21402 1472 œredœ back room
+2206 -21120 1472 œredœ back room
+606 -21120 1472 œredœ back room
+-601 -21182 1472 œredœ back room
+-1831 -21120 1472 œredœ back room
+-3212 -22456 1472 œredœ back room
+-3455 -21120 1472 œredœ back room
+-1510 -21793 1472 œredœ back room
+1551 -21749 1472 œredœ back room
+-383 -20871 1472 œredœ back room corridor
+343 -20923 1472 œredœ back room corridor
+383 -18199 1728 œredœ back room corridor
+-383 -18149 1728 œredœ back room corridor
+-336 -19435 1472 œredœ back room corridor
+383 -19420 1472 œredœ back room corridor
+383 -20323 1472 œredœ back room corridor
+-383 -20407 1472 œredœ back room corridor
+-6643 -6177 1856 œredœ right tower
+-6652 -6016 2183 œredœ right tower
+-6652 -6016 2593 œredœ right tower
+-7295 -5855 3264 œredœ right tower
+-6149 -5808 3264 œredœ right tower
+-6016 -6527 3264 œredœ right tower
+-7295 -6527 3264 œredœ right tower
+6642 -6272 1856 œredœ left tower
+6627 -6033 2183 œredœ left tower
+6626 -6016 2388 œredœ left tower
+6016 -5779 3264 œredœ left tower
+7295 -5744 3264 œredœ left tower
+6583 -5719 3264 œredœ left tower
+7295 -6527 3264 œredœ left tower
+6016 -6527 3264 œredœ left tower
+-9087 -9087 3520 œredœ roof
+-9087 -7552 3520 œredœ roof
+-6436 -7552 3520 œredœ roof
+-7807 -7552 3520 œredœ roof
+-5477 -6619 3520 œredœ roof
+-4691 -6648 3520 œredœ roof
+-3076 -6679 3520 œredœ roof
+-1769 -6711 3520 œredœ roof
+-1368 -5876 3520 œredœ roof
+1092 -6010 3520 œredœ roof
+1539 -7088 3520 œredœ roof
+2513 -6938 3520 œredœ roof
+3635 -6890 3520 œredœ roof
+5031 -6837 3520 œredœ roof
+6139 -7785 3520 œredœ roof
+7600 -7582 3520 œredœ roof
+9087 -8065 3520 œredœ roof
+9087 -8884 3520 œredœ roof
+9087 9087 3520 blue roof
+9087 7552 3520 blue roof
+8576 7552 3520 blue roof
+7772 7629 3520 blue roof
+7164 7552 3520 blue roof
+6144 7552 3520 blue roof
+5460 6787 3520 blue roof
+4603 6815 3520 blue roof
+3337 6802 3520 blue roof
+1837 6814 3520 blue roof
+1474 6177 3520 blue roof
+516 6004 3520 blue roof
+-1023 6020 3520 blue roof
+-1464 6934 3520 blue roof
+-2445 6862 3520 blue roof
+-3880 6885 3520 blue roof
+-5250 6863 3520 blue roof
+-6260 7796 3520 blue roof
+-7429 7629 3520 blue roof
+-9087 7864 3520 blue roof
+-9087 8905 3520 blue roof
+-8472 9087 3520 blue roof
+-7008 9087 3520 blue roof
+-4777 9087 3520 blue roof
+-3044 9087 3520 blue roof
+-1277 9087 3520 blue roof
+606 9087 3520 blue roof
+2887 9087 3520 blue roof
+4951 9087 3520 blue roof
+7272 9087 3520 blue roof
+8471 -9087 3520 œredœ roof
+6245 -9087 3520 œredœ roof
+3507 -9087 3520 œredœ roof
+1463 -9087 3520 œredœ roof
+-417 -9087 3520 œredœ roof
+-2387 -9087 3520 œredœ roof
+-4281 -9087 3520 œredœ roof
+-6162 -9087 3520 œredœ roof
+-7783 -9087 3520 œredœ roof

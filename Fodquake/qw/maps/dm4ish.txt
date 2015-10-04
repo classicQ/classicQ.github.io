@@ -1,0 +1,61 @@
+DM4-ish - Januari 1999
+================================================================
+Title                   : DM4-ish
+Filename                : dm4ish.txt   (this readme file)
+                          dm4ish.bsp   (the level itself)
+Author                  : Aardappel    (Wouter van Oortmerssen)
+Email Address           : wvo96r@ecs.soton.ac.uk
+Web Page		: http://www.ecs.soton.ac.uk/~wvo96r/quake/
+Description             : DM map for 2-4 players ideally,
+                          imitation of DM4
+================================================================
+
+* Play Information *
+
+Single Player           : well there are no monsters :)
+Cooperative             : eh?
+Deathmatch              : about 5 respawns
+Difficulty Settings     : no
+New Sounds              : no
+New Graphics            : non-quake textures from here and there
+New Music               : no
+Demos Supplied          : no
+
+* Construction *
+
+Base                    : new level from scratch
+Editor(s) used          : Qoole
+Known Bugs              : falling in the lava kills you
+Build Time              : 3 minutes
+Texture Wad used        : textures from all over the place
+
+Compile machine         : pentium pro 200mhz, 128Mb Ram
+QBSP256 Time            : 1 minute
+Arghlite (-extra) Time  : 1 minute
+RVIS (-level 4) Time    : 1 minute
+
+
+Summary of the level
+====================
+Don't know why, but I suddenly felt the urge to make a DM4 clone,
+and I slapped this together in basically 1 day. It contains exactly
+all items that DM4 contains, and in the corresponding same place.
+
+Architecture: in general a lot roomier and plays smoother.
+
+Connectivity: by changing the way corridors bend I was able to remove
+all teleporters by simply joining the ends. This did change some of
+the connectivity though as the RA "tele" now works 2 ways. Also I couldn't
+resist making sure the RL/HH isn't a dead end anymore (you'll have to
+pop your quad grenades in two directions now, sorry).
+
+
+==============================================================================
+
+* Copyright / Permissions *
+
+You now the drill: don't tamper with the archive or anything in it. Cheers.
+Distribution in any way is ok. Hey, you could even ask me :)
+
+
+Wouter van Oortmerssen (aka Aardappel)

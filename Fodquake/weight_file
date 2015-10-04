@@ -1,0 +1,5 @@
+weight_set 1 weight_disable
+weight_set 4 weight_enable
+weight_set 1 cfg_load
+weight_set 3 quit
+weight_set 1 set

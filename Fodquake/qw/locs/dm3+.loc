@@ -1,0 +1,53 @@
+//
+// dm3.loc
+//
+// dm3 locations
+//
+// This file must be in the id1/locs subdirectory (you need to create this
+// subdirectory).  Each line assigns a name to a 3D rectangle in the map.
+// The format is:
+//
+// x1, y1, z1, x2, y2, z2, name
+//
+// where (x1, y1, z1), (x2, y2, z2) are opposite corners of a 3D rectangle.
+// When Proquake encounters the %l format specifier, it searches this list
+// of rectangles IN ORDER to find one that you are inside.  So it is 
+// perfectly reasonable to have overlapping rectangles or even one rectangle
+// inside another (e.g. "SNG mega" and "super nailgun" below), but you must
+// get the order correct for it to work as expected.  If you aren't in 
+// any rectangles, it just prints out "somewhere".
+//
+// You can use the administrator "spot" command in crmod to get coordinates
+// in observer fly mode (that's what I did), or use your favority level
+// editing tool.  Minor note: Proquake enlarges each rectangle by 32 
+// units in the +z and -z directions (up and down) to make it a bit
+// more robust.
+//
+
+1488, 560, 102, 2032, 48, -146, "rocket launcher"
+2032, -112, -146, 1923, -496, 102, "bridge"
+1923, -496, 102, 1296, 144, -2, "bridge"
+2032, 48, -146, 1063, -128, -52, "lower bridge"
+1296, 112, -370, 1424, 752, -322, "water tunnel"
+1888, -496, -370, 1056, 272, -149, "water"
+1424, 144, -2, 1040, 700, 134, "pent window"
+1040, 700, 134, 600, 384, 78, "pent window"
+600, 384, 78, 1008, -336, 150, "quad"
+1008, -336, 150, 608, -400, 78, "quad"
+608, -400, 150, 1904, -944, -2, "yellow armour"
+1776, 608, -274, 1904, 1120, 166, "pent mega"
+1776, 608, -274, 688, 1120, 166, "pent"
+688, 672, -242, 580, 1072, 118, "lifts"
+580, 1072, 62, 464, 848, 278, "lifts"
+464, 848, 278, 560, 592, 238, "lifts"
+552, 350, 78, 176, 672, 150, "lifts exit"
+552, 429, 78, 144, -14, 150, "RA rotunda"
+144, -14, 150, 544, -400, 78, "RA rotunda"
+-208, -464, 102, 288, 48, -154, "RA tunnel"
+544, -400, 6, -368, -880, 374, "red armour"
+288, -304, -178, 1064, 240, -10, "mound"
+-829, 134, 206, -688, 72, 238, "SNG mega"
+-322, 784, 6, -872, 208, 6, "SNG boxes"
+176, 880, 6, -968, -16, 246, "super nailgun"
+-968, -16, 6, -365, -813, 167, "back hall"
+

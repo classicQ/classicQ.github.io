@@ -1,0 +1,76 @@
+===============================================================================
+Title                   : Armageddon 4 - Rocket Arena
+Filename                : Arma4.BSP
+Version                 : 09/16/97
+
+Author                  : Matthias Worch
+Email Address           : langsuyar@ocrana.de
+
+Misc. Author Info       : Author of "Beyond Belief", a new episode for Quake,
+                          featuring 9 quality single player levels.
+                          Contributions to several DooM 2 projects.
+                          For more information visit my homepage at 
+                          http://www.geocities.com/hollywood/7766
+
+Description             : This is my contribution to the Rocket Arena mod                         
+                          (http://www.planetquake.com/servers/arena)                       
+                          And unlike most other levels I have seen this is
+                          a real arena, resembling the "Colloseum" in
+                          ancient rome.
+                          It is quite simple - I would have loved to add
+                          more detail, but this is for 1on1 fights and
+                          should run as smoothly as possible. I'm sure
+                          you'll like it anyway :)
+
+                          I'd like to encourage everybody to run this level
+                          on as many servers as possible, please contact me
+                          so I can compile a list (which can be found on my
+                          homepage).
+
+Additional Credits to   : id, Chris and Trey, Yahn Bernier, Joost, the
+                          #level_design ppl, Clan Ocrana, the Ritual guys... 
+                          All the great authors I'm in contact with, the 100
+                          persons I have forgotten
+===============================================================================
+
+* Play Information *
+
+Game                    : Quake
+Single Player           : No
+Cooperative             : No 
+Deathmatch              : Rocket Arena mod
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : new map
+Build Time              : 2 days
+Editor(s) used          : BSP, MS-DOS edit  
+Known Bugs              : Nope
+                   
+
+* How to use this level *
+
+In your Quake/Arena directory create a directory called "maps" and copy the
+level into it. Join a rocket arena server that runs this level :)
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic format that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.
+
+* Where to get this map *
+
+ftp.cdrom.com and mirror sites.
+http://www.ocrana.de

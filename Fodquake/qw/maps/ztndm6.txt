@@ -1,0 +1,70 @@
+07/19/1998
+================================================================
+Title                   : The Vomitorium - ztndm6 edition
+Filename                : ztndm6.bsp
+Author                  : Sten "ztn" Uusvali
+E-mail                  : ztn@terrafusion.com
+Description             : Quake deathmatch map
+                        : conversion from map #12 of 
+				: DaPak deathmatch pack
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes, 6 respawn spots
+Player load			: 2 - 5
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Yes
+				: dlight_1, dlight_10, head_mt8, head_mt9, platbut1 made by
+				: Dennis Kaltwasser, e-mail: headshot@terrafusion.com
+				:
+				: zmet01a, zmet02a, zmet03a, ztn_l1 made by
+				: Sten Uusvali, e-mail: ztn@terrafusion.com
+				: 
+				: Please ask the authors permission first 
+				: before using those textures in your maps.
+
+* Construction *
+
+Editor(s) used          : Worldcraft
+
+
+* Credits *
+
+Jeff Yost and the Ramshackle team for beta testing
+and providing some very useful ideas
+
+Special thanks to Headshot and the rest of the DaPak 
+team
+
+And thanks to all the others who have helped me
+and given their support
+
+
+* Author *
+
+Name  : Sten Uusvali
+E-mail: ztn@terrafusion.com, ztn@planetquake.com
+Home  : http://ztn.terrafusion.com
+DaPak : http://www.planetquake.com/dapak
+
+
+* Copyright / Permissions *
+
+Copyright (c) 1998 Sten Uusvali. All rights reserved.
+
+This map may be electronically distributed only with no
+charge to the recipient, and may not be modified in any way.
+This text file must be included with the map unmodified.
+
+This map may not be distributed on any CD-ROM without the
+prior, explicit written consent by Sten Uusvali.
+
+This map may not be used on a commercial multi-player server
+without similar explicit written consent.
+
+Thank you,
+Sten Uusvali

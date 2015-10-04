@@ -1,0 +1,28 @@
+Title                           :Nils Rocket Arena 3
+Filename                        :nilsrar3.bsp
+Author                          :Mikael [Nils] Nilsson
+Email Address                   :sandog@hem.passagen.se
+
+======================================================================================
+* Play Information *
+
+Single Player                   :No, nono no
+Cooperative                     :No, nono no
+Deathmatch                      :Njae, Rocket Arena only
+Difficulty Settings             :no
+New Sounds                      :no
+New Graphics                    :Some textures from the Mission packs
+New Music                       :no
+Demos Replaced                  :no
+
+* Construction *
+
+Base                            :new level from scratch
+Editor                          :Worldcraft
+Known Bugs                      :none
+
+* Copyright/Permissions *
+
+Authors may NOT use this level as a base to build additional levels.  You MAY
+distribute this BSP in any nonprofit electronic form, provided you include this file
+with no modifications.

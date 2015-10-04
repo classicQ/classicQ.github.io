@@ -1,0 +1,87 @@
+
+                 
+ --------------------------- HERESY ----------------
+
+			Date: 10.10.2002
+		       Title: KILL TO CURE
+		    Filename: bsdm6
+		        Game: Quake 1
+		      Author: drShoe "..or call Dr.RGNE, please.." 
+		              (Björn Schuster)	
+		      E-Mail: Bjoern.Schuster@ruhr-uni-bochum.de	
+
+-------------------------< About The Map >--------------
+
+KILL TO CURE is a medium sized castle-stylish DM-map. 
+You can do it ffa up to 8 players or in teams.
+
+----------------------< Credits >-----------------------
+
+* ID Software for Quake
+* Ben Morris for Worldcraft 1.5b
+* Mr.Elusive and H2SO4 for OmicronBots 1.02
+* Tim Wright for Arghlite 2.0 and Rvis+
+* Antony Suter for Rvis 
+* Mike Jackman for TexMex 3.4 
+* Ty Matthews for Wally           
+* Sorpion for teaching stupid bots the levels
+* And the unknown authors and converters of the
+  textures I used (SORRY for don´t spending
+  credits to your work!!)
+
+-------------------< Play Information >------------------
+
+Requirements:        quake 1.01 or higher (glquake recommended)
+Single player:       no
+Cooperative:         no
+Deathmatch:          yeahh.
+Difficulty Settings: no
+New sounds:          no
+New Graphics:        yes
+
+--------------------< Construction >--------------------
+
+Base:               new map from scratch
+Editor:             Worldcraft 1.5b
+Other Utils:        TexMex 3.4, Wally 1.53b
+Textures used:      Q3test.wad and some others ripped off
+		    from some custom q3dm-maps
+
+-------------------< My other Quake Levels >-----------------                
+		    
+		bsdm1
+		Hero´s Keep
+		
+http://www.multiplayerquake.com/files/bsdm1.zip
+http://www.fileplanet.com/index.asp?section=72&file=56542&download=1
+
+
+		bsdm2
+		Tormentor
+
+http://www.multiplayerquake.com/files/bsdm2.zip
+http://www.fileplanet.com/index.asp?section=72&file=56543&download=1
+
+
+                bsdm3
+                ..Q3..Q2..Q1..AND.FRAG.!!
+
+
+                bsdm4 HERESY
+
+
+		bsdm5 THE QUAD INC.
+
+http://204.50.28.112/qexpo/upload/79/bsdm5.zip
+
+
+-------------------< Copyright Stuff >-------------------
+
+All textures in this level remain property of their respective owners.
+Authors may NOT use this level as a base to build additional
+levels. 
+You are not allowed to commercially exploit this level, i.e. put it on 
+a CD or any other electronic format that is sold for money, without my 
+explicit permission.
+You MAY distribute this BSP through any electronic network, provided 
+you include this text file.

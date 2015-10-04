@@ -1,0 +1,688 @@
+1920 -4694 -7231 r water tunnel, entrance
+2403 -5106 -7053 r water tunnel, outside
+2544 -2233 -7231 r water tunnel, entrance
+4012 -1919 -4907 water, r side
+2275 -3071 -3336 under r bridge
+1476 -2729 -3498 under r bridge
+131 -3452 -3222 under r bridge
+2495 -1678 -7999 water, r side
+3711 -315 -5802 water, r side
+434 -1849 -3863 water, r side
+-1920 356 -3875 water, b side
+-1920 447 -6846 water, b side
+-2093 2157 -7231 b water tunnel, entrance
+-23 1832 -5586 water, b side
+70 1773 -3924 water, b side
+-809 2818 -3454 under b bridge
+240 3970 -3049 under b bridge
+823 1892 -2111 central area
+2426 -6941 -6804 r water tunnel, outside
+2139 -8677 -7190 r water tunnel, outside
+1676 -9934 -6656 r water tunnel, outside
+1439 -10501 -6750 r water tunnel, inside
+1415 -10297 -7231 r water tunnel, outside
+1811 -10004 -5951 r water tunnel, inside
+1387 -11135 -5951 r water tunnel, inside
+793 -11033 -5951 r water tunnel, inside
+729 -10969 -5951 r water tunnel, inside
+945 -9883 -5951 r water tunnel, inside
+321 -10935 -7042 r water tunnel, inside
+650 -11589 -7071 r water tunnel, inside
+-563 -13497 -7206 r water tunnel, inside
+-244 -13745 -5399 r water tunnel, inside
+155 -14039 -5440 r water tunnel, inside
+-40 -14321 -3651 r water tunnel, inside
+-895 -13377 -2879 r water room
+700 -13005 -2879 r water room
+-342 -12022 -2879 r water room
+300 -11983 -2879 r water room
+1896 -11369 -2879 r water room
+108 -10368 -2879 r water room
+-1412 -9387 -2367 r main entrance
+3456 -7868 -2653 r lift to left sniper nest
+3200 -7039 -2367 r lift to left sniper nest
+-777 -6052 -2367 r bridge
+10 -4507 -2247 r bridge
+-735 -3464 -2139 r bridge
+328 -1950 -2111 central area
+744 2267 -2111 b bridge
+37 3905 -2185 b bridge
+238 5078 -2307 b bridge
+4970 9137 -2879 b right ramp floor
+-7 13545 -5502 b water tunnel, inside
+97 13177 -2879 b water room
+1664 14463 -2879 b water room
+142 14445 -456 b cap area
+3712 13685 -2911 b main room floor, right
+3401 12628 -2879 b water room
+3805 13001 -2911 b main room floor, right
+5903 16132 -2879 b stairs to crystal, top
+-3703 12937 -2879 b main room floor, left
+-3712 10219 -2911 b main room floor, left
+1086 -10558 -2879 r water room
+-2603 -12075 -2879 r water room
+-1664 -13633 -2879 r water room
+-1664 -14463 -2879 r water room
+1664 -14463 -2879 r water room
+2411 -13715 -2879 r water room
+3457 -13183 -2879 r water room
+3441 -12416 -2879 r water room
+3712 -12426 -2911 r main room floor, left
+3648 -13183 -2879 r main room floor, left
+3712 -13400 -2911 r main room floor, left
+2663 -12135 -2879 r water room
+-764 -10368 -2879 r water room
+-2931 -9561 -2790 r right ramp bottom
+-3322 -12416 -2879 r water room
+-3276 -13183 -2879 r water room
+-3712 -13213 -2911 r main room floor, right
+-3743 -12425 -2911 r main room floor, right
+3265 -9599 -2879 r left ramp floor
+3712 -15231 -2911 r main room floor, left
+-6527 -19929 -3647 r stairs to crystal, top
+-6192 -21168 -3912 r stairs to crystal, top
+-7040 -22091 -4159 r stairs to crystal, top
+-6999 -22528 -4159 r stairs to crystal
+-6557 -22832 -4159 r stairs to crystal
+-7221 -23498 -4292 r stairs to crystal
+-6117 -23940 -4415 r stairs to crystal
+-5249 -25028 -4676 r stairs to crystal
+-5248 -26751 -5091 r stairs to crystal
+-6011 -27056 -5188 r stairs to crystal
+-5034 -27520 -5311 r stairs to crystal, bottom
+-5048 -28287 -5311 r stairs to crystal, bottom
+-3996 -28309 -5567 r stairs to crystal, bottom
+-3022 -27372 -5823 r stairs to crystal, bottom
+-2439 -27286 -5951 r stairs to crystal, bottom
+-3146 -26405 -6335 r crystal slime, left
+-2195 -26456 -6335 r crystal slime, left
+-1414 -27264 -6207 r stairs to crystal, bottom
+-1107 -27264 -6335 outside r crystal room
+-855 -27277 -6335 outside r crystal room
+-879 -26165 -6335 stairs leading to r crystal
+1131 -27276 -6335 outside r crystal room
+1271 -28543 -6335 outside r crystal room
+1262 -26493 -6335 r crystal slime, right
+1601 -26495 -6335 r crystal slime, right
+3035 -27470 -6079 lift to r crystal
+3455 -26495 -6271 r crystal slime, right
+1750 -27264 -6335 outside r crystal room
+2304 -28543 -6335 lift to r crystal
+2356 -28543 -6335 outside r crystal room
+3584 -27506 -5951 lift to r crystal
+4006 -27520 -5823 lift to r crystal
+4479 -27520 -5951 lift to r crystal
+3092 -28543 -6079 lift to r crystal
+2382 -27295 -6335 outside r crystal room
+2421 -27280 -6335 lift to r crystal
+2424 -26456 -6335 r crystal slime, right
+4090 -27767 -4671 lift to r crystal
+4479 -28287 -5951 lift to r crystal
+3431 -25728 -6335 r crystal slime, right
+3168 -25471 -6847 r crystal slime, right
+3455 -25215 -7367 r crystal slime, right
+3455 -25153 -7479 r crystal slime, right
+2163 -25471 -6719 r crystal slime, right
+4455 -27589 -2399 lift to r crystal
+4427 -28019 -1343 lift to r crystal
+4639 -28021 -1343 lift to r crystal
+4911 -27872 -1343 lift to r crystal
+5248 -25817 -1343 lift to r crystal
+5248 -24073 -1343 lift to r crystal
+6527 -23582 -1343 lift to r crystal
+5248 -21120 -1343 lift to r crystal
+5616 -21084 -2078 lift to r crystal
+6157 -21105 -2075 lift to r crystal
+6517 -26464 -1343 lift to r crystal
+5258 -28495 -1343 lift to r crystal
+6325 -28543 -1343 lift to r crystal
+6422 -27602 -1343 lift to r crystal
+5600 -20635 -2111 way to lift to r crystal
+6175 -20583 -2111 way to lift to r crystal
+4145 -20305 -4671 r crystal area
+4479 -18816 -4671 r crystal area
+6271 -15741 -2879 way to lift to r crystal
+5504 -15749 -2878 way to lift to r crystal
+5658 -15220 -2911 r main room floor, left
+6271 -15242 -2879 r main room floor, left
+-1407 -7836 -2367 r main entrance
+849 -6159 -2367 r main entrance
+-4735 9023 -2879 b left ramp floor
+-3712 15231 -2911 b main room floor, left
+-5928 15222 -2911 b main room floor, left
+-5893 15704 -2879 way to lift to b crystal
+-6123 20330 -2115 way to lift to b crystal
+-5938 21430 -2026 lift to b crystal
+-4479 20351 -4671 b crystal area
+-2943 19073 -4671 b crystal area
+-7126 8946 -2168 b left ramp
+-4366 27891 -1343 lift to b crystal
+-6527 21120 -1343 lift to b crystal
+-5248 21120 -1343 lift to b crystal
+-5964 14731 -319 b left ramp top
+6393 19171 -3519 b stairs to crystal, top
+7404 22355 -4159 b stairs to crystal
+2067 -4744 -2367 left pathway to r
+1551 -9516 -2367 r main entrance
+6947 -15196 -2911 r main room floor, left
+8287 -15231 -2911 r main room floor, left
+2943 -20863 -4671 r crystal area
+1408 -19072 -4671 r crystal area
+246 -21810 -4381 stairs leading to r crystal
+222 -20762 -4671 r crystal area
+-345 -20741 -4671 r crystal area
+-1030 -20769 -4671 r crystal area
+-1425 -19327 -4671 r crystal area
+-1920 -19584 -4671 r crystal area
+-1408 -19072 -4671 r crystal area
+-2941 -19072 -4671 r crystal area
+-3441 -19584 -4671 r crystal area
+-3455 -20348 -4671 r crystal area
+-2943 -20862 -4671 r crystal area
+1016 -21832 -4266 stairs leading to r crystal
+-639 -21783 -4671 stairs leading to r crystal
+1920 -21632 -6847 r crystal slime, right
+-639 -22423 -4724 stairs leading to r crystal
+965 -23392 -5094 stairs leading to r crystal
+3231 -21632 -6847 r crystal slime, right
+3455 -21632 -6847 r crystal slime, right
+3394 -22144 -7487 r crystal slime, right
+1408 -22318 -7487 r crystal slime, right
+1453 -23643 -7487 r crystal slime, right
+1419 -25215 -7326 r crystal slime, right
+1408 -25428 -6463 r crystal slime, right
+3455 -23792 -7487 r crystal slime, right
+2139 -25755 -6335 r crystal slime, right
+1745 -25780 -6335 r crystal slime, right
+871 -26223 -6335 stairs leading to r crystal
+-1464 -26495 -6335 r crystal slime, left
+-1439 -25948 -6335 r crystal slime, left
+-639 -25431 -6335 stairs leading to r crystal
+920 -24726 -5803 stairs leading to r crystal
+-1679 -25733 -6335 r crystal slime, left
+-1408 -25215 -7487 r crystal slime, left
+-2227 -25460 -6643 r crystal slime, left
+-3109 -25429 -6847 r crystal slime, left
+-1408 -22265 -7487 r crystal slime, left
+-1920 -21632 -6847 r crystal slime, left
+-3455 -21632 -6847 r crystal slime, left
+-3366 -22144 -7487 r crystal slime, left
+-3337 -23210 -7487 r crystal slime, left
+-3405 -24480 -7273 r crystal slime, left
+-2638 -25682 -6335 r crystal slime, left
+-3418 -25679 -6335 r crystal slime, left
+-639 -24416 -5786 stairs leading to r crystal
+-51 -24142 -5695 stairs leading to r crystal
+-3899 -27264 -5567 r stairs to crystal, bottom
+-5253 -18316 -3263 r stairs to crystal, top
+-3967 -7818 -2628 r lift to right sniper nest
+-3200 -7039 -2367 r lift to right sniper nest
+-3441 -6495 -831 r right sniper nest
+-3500 -4991 -831 r right sniper nest
+-994 20787 -4671 b crystal area
+69 21906 -4671 b crystal area
+55 19756 -4479 b crystal area
+818 20858 -4671 b crystal area
+69 22177 -4799 stairs leading to b crystal
+1408 22144 -7188 b crystal slime, left
+-144 25229 -6335 stairs leading to b crystal
+1408 25197 -7487 b crystal slime, left
+1599 26494 -6335 b crystal slime, left
+2572 26492 -6335 b crystal slime, left
+3454 25471 -6847 b crystal slime, left
+1800 27288 -6079 b stairs to crystal, bottom
+1010 27264 -6335 outside b crystal room
+188 27351 -6335 outside b crystal room
+-1448 25215 -7487 b crystal slime, right
+-2133 26495 -6335 b crystal slime, right
+-3455 25470 -6847 b crystal slime, right
+-1106 -28543 -6335 outside r crystal room
+-620 -28500 -6335 outside r crystal room
+-383 -28942 -6499 backpack opposite r crystal
+383 -28918 -6493 backpack opposite r crystal
+383 -29526 -6591 backpack opposite r crystal
+-354 -29567 -6591 backpack opposite r crystal
+141 -28601 -6414 outside r crystal room
+839 -28543 -6335 outside r crystal room
+-1450 -28543 -6207 r stairs to crystal, bottom
+-5475 -16770 -2879 r stairs to crystal, top
+-5518 -15499 -2879 r stairs to crystal, top
+-5050 -15231 -2911 r main room floor, right
+-3712 -11511 -2911 r main room floor, right
+-5643 -10098 -2911 r main room floor, right
+621 28543 -6335 outside b crystal room
+-383 28798 -6463 backpack opposite b crystal
+-383 29567 -6591 backpack opposite b crystal
+383 29567 -6591 backpack opposite b crystal
+383 28806 -6465 backpack opposite b crystal
+1547 28425 -6207 b stairs to crystal, bottom
+2042 27264 -5967 b stairs to crystal, bottom
+4867 27520 -5311 b stairs to crystal, bottom
+4857 27908 -5311 b stairs to crystal, bottom
+5248 25843 -4927 b stairs to crystal
+6487 15231 -2911 b main room floor, right
+7230 10249 -2911 b main room floor, right
+8588 11925 -2879 b main room floor, right
+-1013 2247 -2111 b bridge
+-808 1796 -2111 central area
+-3834 -9622 -2879 r right ramp bottom
+-6573 -15231 -2911 r main room floor, right
+-5694 -27428 -5311 r stairs to crystal
+-2204 -28495 -5951 r stairs to crystal, bottom
+-3922 -28543 -5567 r stairs to crystal, bottom
+-7807 -22247 -4159 r stairs to crystal, top
+-8063 -22528 -4159 r stairs to crystal
+-7754 -21744 -4159 r stairs to crystal, top
+-6498 -17069 -3007 r stairs to crystal, top
+-6267 -15767 -2879 r stairs to crystal, top
+-3715 -15231 -2911 r main room floor, right
+7278 9304 -2117 b right ramp
+325 20772 1216 b warp to crystal
+38 20510 1088 b stairs to warp to crystal
+89 17712 -319 b stairs to warp to crystal
+129 17007 -319 b ramps top
+139 15093 -319 b ramps top
+3150 15800 -319 b ramps top
+3267 14601 -378 b cap area
+5190 15234 -319 b right ramp top
+5643 14983 -319 b right ramp top
+8575 15231 -2911 b main room floor, right
+-4812 -9266 -2879 r right ramp bottom
+-1436 -14525 -416 r cap area
+-1244 -15068 -319 r ramps top
+-546 -15023 -319 r ramps top
+-1086 -17251 -319 r ramps top
+-641 -17892 -13 r stairs to warp to crystal
+-834 -20618 1344 r stairs to warp to crystal
+-772 -20985 1344 r warp to crystal
+127 -21632 280 r warp to crystal
+895 -20959 1344 r warp to crystal
+895 -22399 1344 r warp to crystal
+-895 -22399 1344 r warp to crystal
+895 -20644 1344 r stairs to warp to crystal
+639 -17897 -191 r stairs to warp to crystal
+886 -17279 -319 r ramps top
+178 -12816 -703 r cap area
+1147 -11392 -625 r cap area
+52 -10487 -716 r cap area
+-5255 -9531 -2791 r right ramp bottom
+-4691 -8320 -2879 r right ramp bottom
+-1054 5822 -2384 b bridge
+-8114 15227 -780 b left ramp
+-9817 13815 -831 b left ramp
+-10427 13380 -2911 b main room floor, left
+-9757 10599 -1605 b left ramp
+-8384 8684 -1855 b left ramp
+25 9599 -2367 b main entrance
+3799 -3112 -2367 left pathway to r
+-3348 -4046 -703 r right sniper nest
+-4223 -6975 -2367 r lift to right sniper nest
+-4223 -6592 -2367 r lift to right sniper nest
+-4223 -6791 -1967 r lift to right sniper nest
+-4625 -6272 -831 r right sniper nest
+-4391 -7295 -831 r right sniper nest
+-3013 -7295 -831 r right sniper nest
+-4735 -5343 -831 r right sniper nest
+-4735 -4613 -831 r right sniper nest
+-4735 -3456 -831 r right sniper nest
+-4641 -3456 -831 r right sniper nest
+-2395 -5093 -703 r right sniper nest
+-2432 -5736 -831 r right sniper nest
+-2432 -7295 -831 r right sniper nest
+-3547 -8320 -319 r cap area
+-4735 -7295 -831 r right sniper nest
+-3200 -6528 -2367 r lift to right sniper nest
+-3456 -7823 -2631 r lift to right sniper nest
+-3374 -8320 -2879 r right ramp bottom
+-2978 -8320 -2805 r right ramp bottom
+3571 -8429 -2879 r left ramp floor
+924 -8320 -319 r cap area
+1502 -6811 -2367 r main entrance
+2432 -7245 -831 r left sniper nest
+2721 -6430 -831 r left sniper nest
+1918 -5303 -2367 r main entrance
+3711 -6010 -831 r left sniper nest
+2473 -4919 -703 r left sniper nest
+3867 -5368 -831 r left sniper nest
+4735 -3456 -831 r left sniper nest
+4735 -5503 -831 r left sniper nest
+4735 -6275 -831 r left sniper nest
+4406 -6356 -831 r left sniper nest
+4223 -6975 -1343 r lift to left sniper nest
+4735 -7295 -831 r left sniper nest
+4271 -7295 -831 r left sniper nest
+4043 -3457 -703 r left sniper nest
+5155 -2943 -2367 left pathway to r
+3360 -7271 -831 r left sniper nest
+3967 -6528 -2367 r lift to left sniper nest
+1919 5702 -2367 b main entrance
+3587 6272 -831 b right sniper nest
+4223 6890 -895 b lift to right sniper nest
+3994 7295 -831 b right sniper nest
+4735 7295 -831 b right sniper nest
+3940 7793 -2616 b lift to right sniper nest
+3200 6528 -2367 b lift to right sniper nest
+3200 -6528 -2367 r lift to left sniper nest
+4210 -6975 -2367 r lift to left sniper nest
+3967 -7766 -2602 r lift to left sniper nest
+3793 8371 -2879 b right ramp floor
+831 5851 -2387 b bridge
+-697 -2176 -2111 r bridge
+6281 -8320 -2449 r left ramp floor
+5256 -9475 -2791 r left ramp floor
+3712 -9828 -2879 r main room floor, left
+4357 -9927 -2911 r main room floor, left
+5933 -9856 -2911 r main room floor, left
+6189 -9638 -2480 r left ramp floor
+6840 -9658 -2263 r left ramp
+7770 -9439 -2911 r main room floor, left
+9229 -9623 -2911 r main room floor, left
+10554 -9424 -2879 r main room floor, left
+10623 -8320 -2911 r main room floor, left
+8596 -10519 -2879 r main room floor, left
+7993 -9583 -1879 r left ramp
+8437 -11481 -2911 r main room floor, left
+8231 -11603 -1354 r left ramp
+10623 -11657 -1341 r left ramp
+10575 -13232 -947 r left ramp
+9113 -11728 -3227 r left health pool
+9576 -12323 -3232 r left health pool
+9777 -9944 -3263 r left health pool
+10495 -9718 -3263 r left health pool
+9451 -10363 -3248 r left health pool
+10031 -10370 -3236 r left health pool
+10495 -10778 -3263 r left health pool
+10495 -12112 -3263 r left health pool
+10232 -12729 -3237 r left health pool
+10495 -12802 -3263 r left health pool
+10449 -13358 -2879 r main room floor, left
+9088 -11041 -3224 r left health pool
+7800 -10717 -2911 r main room floor, left
+9146 -8320 -2911 r main room floor, left
+10708 -8324 -1855 r left ramp
+10616 -9685 -1834 r left ramp
+11301 -9599 -1855 r left respawn
+8885 -12609 -2911 r main room floor, left
+9900 -13455 -2911 r main room floor, left
+10096 -13711 -2911 r main room floor, left
+3712 -11788 -2911 r main room floor, left
+3038 -12611 -1087 r cap area
+-2920 -14947 -319 r ramps top
+-3317 -15054 -319 r ramps top
+-3980 -14880 -319 r right ramp top
+-7968 -15210 -743 r right ramp top
+-8059 -14058 -766 r right ramp top
+-8808 -14920 -831 r right ramp
+-8489 -13944 -831 r right ramp
+-9890 -13917 -831 r right ramp
+-8257 -13330 -923 r right ramp
+-10623 -12489 -1133 r right ramp
+-9326 -12827 -2879 r main room floor, right
+-8689 -12085 -2879 r main room floor, right
+-9250 -11905 -3215 r right health pool
+-9088 -11515 -3263 r right health pool
+-8241 -10503 -1629 r right ramp
+-8177 -9262 -1855 r right ramp
+-7538 -9739 -2030 r right ramp
+-7132 -9633 -2166 r right ramp bottom
+-6588 -9481 -2347 r right ramp bottom
+-5707 -9856 -2911 r main room floor, right
+-8542 -10698 -2911 r main room floor, right
+-9088 -10832 -3263 r right health pool
+-9914 -11173 -3244 r right health pool
+-10495 -11360 -3263 r right health pool
+-9784 -12591 -3234 r right health pool
+-10495 -12809 -3245 r right health pool
+-10369 -13438 -2911 r main room floor, right
+-9795 -10020 -3263 r right health pool
+-10427 -9818 -3263 r right health pool
+-9441 -9391 -2911 r main room floor, right
+-3712 -9783 -2879 r main room floor, right
+-8396 -9701 -2911 r main room floor, right
+-10478 -9207 -2879 r main room floor, right
+-10623 -8320 -2911 r main room floor, right
+-7552 -8320 -2911 r main room floor, right
+-9008 -14799 -2911 r main room floor, right
+-10722 -8320 -1855 r right ramp
+-10783 -9599 -1855 r right ramp
+-10623 -10452 -1642 r right ramp
+-7171 -8320 -2153 r right ramp bottom
+-7578 -8320 -2017 r right ramp
+3304 9152 -2879 b right ramp floor
+7552 8782 -2911 b main room floor, right
+8974 10058 -2879 b main room floor, right
+10278 13285 -2879 b main room floor, right
+6050 15368 -2879 b main room floor, right
+3700 9555 -2879 b right ramp floor
+8649 10120 -1725 b right ramp
+9643 11659 -1340 b right ramp
+9171 11136 -3263 b right health pool
+3712 9921 -2911 b main room floor, right
+10623 8320 -2911 b main room floor, right
+10623 9102 -2879 b main room floor, right
+7552 8320 -2911 b main room floor, right
+212 10368 -2879 b water room
+798 -14677 -340 r cap area
+1328 -14945 -319 r ramps top
+2727 -14935 -319 r ramps top
+-86 -15058 -319 r ramps top
+-11350 -9599 -1855 r right respawn
+-11409 -8320 -1855 r right respawn
+-12673 -9496 -1855 r right respawn
+-12928 -10595 -1855 r right respawn
+-15184 -12069 -1855 r right respawn
+-16026 -10139 -1855 r right respawn
+-12800 -8320 -1855 r right respawn
+-12632 -8320 -1855 r right respawn
+-15094 -9206 -1855 r right respawn
+-12950 -12159 -1855 r right respawn
+-4054 -8330 -2879 r right ramp bottom
+-8057 -8374 -1858 r right ramp
+-3648 -16228 -319 r ramps top
+-4343 -15936 -319 r right ramp top
+-3340 -16358 -319 r ramps top
+-3511 -14612 -373 r cap area
+-3255 -13508 -925 r cap area
+62 -11737 -511 r cap area
+58 -11199 -540 r cap area
+3396 -14547 -406 r cap area
+3186 -8320 -319 r cap area
+6142 -13961 -319 r left ramp top
+7360 -13880 -591 r left ramp top
+8280 -13981 -821 r left ramp
+8297 -13182 -959 r left ramp
+12961 -12159 -1855 r left respawn
+12757 -9576 -1855 r left respawn
+12732 -8320 -1855 r left respawn
+12569 -8320 -1855 r left respawn
+15187 -9303 -1855 r left respawn
+16101 -10213 -1855 r left respawn
+15481 -11910 -1855 r left respawn
+11293 -8320 -1855 r left respawn
+7443 -14478 -612 r left ramp top
+-3457 -11125 -1087 r cap area
+-3235 -10355 -1067 r cap area
+38 -9028 -417 r cap area
+2101 -14494 -432 r cap area
+3213 -14946 -319 r ramps top
+-3353 -9439 -563 r cap area
+-1440 -8320 -319 r cap area
+3150 -11087 -1087 r cap area
+3636 -16233 -319 r ramps top
+2601 -16669 -319 r ramps top
+3426 -15056 -319 r ramps top
+4011 -16043 -319 r left ramp top
+3760 -14970 -319 r left ramp top
+6461 -15231 -367 r left ramp top
+7643 -15231 -662 r left ramp top
+8430 -15231 -831 r left ramp
+8078 -8324 -1855 r left ramp
+6930 -8320 -2233 r left ramp
+5180 -8320 -2816 r left ramp floor
+-120 -4479 -2879 under r bridge
+-2037 -4748 -2367 right pathway to r
+-1919 -5257 -2367 r main entrance
+-1183 -6162 -2367 r main entrance
+-3362 -3527 -2367 right pathway to r
+-4768 -2943 -2367 right pathway to r
+-5327 -145 -2623 right pathway to r
+-5479 103 -2623 left pathway to b
+-5503 552 -2623 left pathway to b
+-4479 -353 -3881 water, r side
+-5503 -3455 -2367 right pathway to r
+-2518 -2856 -3435 under r bridge
+1124 -5956 -2387 r bridge
+-1919 -7328 -2367 r main entrance
+1185 -4474 -2881 under r bridge
+-13 6249 -2367 b main entrance
+3512 10379 -1087 b cap area
+-3491 15573 -319 b ramps top
+-3300 14603 -378 b cap area
+-3925 15460 -319 b left ramp top
+9305 11887 -3263 b right health pool
+9340 10507 -3263 b right health pool
+10030 10530 -3263 b right health pool
+9802 12561 -3263 b right health pool
+3712 15231 -2911 b main room floor, right
+-3876 8399 -2879 b left ramp floor
+-8882 12518 -2911 b main room floor, left
+-9750 12540 -3263 b left health pool
+-8621 11232 -2879 b main room floor, left
+-8988 9668 -2911 b main room floor, left
+-6188 9856 -2911 b main room floor, left
+-5893 9592 -2579 b left ramp floor
+-5489 8726 -2713 b left ramp floor
+-9207 10843 -3263 b left health pool
+-9170 11630 -3263 b left health pool
+-10102 11743 -3263 b left health pool
+-10186 12715 -3263 b left health pool
+-10495 12809 -3263 b left health pool
+-9388 12082 -3263 b left health pool
+-9535 10314 -3263 b left health pool
+-9810 9982 -3263 b left health pool
+-10495 9718 -3263 b left health pool
+-10623 9126 -2879 b main room floor, left
+-10623 8320 -2911 b main room floor, left
+-8575 15231 -2911 b main room floor, left
+4735 3456 -831 b right sniper nest
+5421 216 -2623 right pathway to b
+5326 -288 -2623 left pathway to r
+5228 -1886 -2376 left pathway to r
+4926 -640 -3874 water, r side
+4479 -350 -3879 water, r side
+-946 -1961 -2111 central area
+-1920 -293 -3859 water, r side
+-2194 623 -2111 central area
+817 -2137 -2111 r bridge
+940 -4439 -2240 r bridge
+1078 -1915 -2111 central area
+2182 -986 -2111 central area
+2158 -1140 -3875 water, r side
+3857 -351 -5119 water, r side
+4472 344 -3875 water, b side
+2219 206 -2111 central area
+-2293 -798 -2111 central area
+3945 -263 -7999 water, r side
+3948 172 -7999 water, b side
+4478 41 -7999 water, r side
+2169 1046 -2111 central area
+4991 -1881 -7999 water, r side
+-3770 -991 -6101 water, r side
+-3894 -358 -7898 water, r side
+-4991 -1919 -7999 water, r side
+-3916 224 -7999 water, b side
+-4479 -514 -5514 water, r side
+-4512 1651 -5436 water, b side
+-4991 1919 -3861 water, b side
+-5503 1855 -2383 left pathway to b
+-2607 1819 -4203 water, b side
+-4011 1905 -7999 water, b side
+195 1914 -7999 water, b side
+-3455 21667 -6847 b crystal slime, right
+-1408 22152 -7487 b crystal slime, right
+3712 15231 -2911 b main room floor, right
+10495 12809 -3263 b right health pool
+10495 9718 -3263 b right health pool
+10140 9826 -3263 b right health pool
+9646 10115 -3263 b right health pool
+-16255 10494 -1855 b left respawn
+-15033 12159 -1855 b left respawn
+-14188 8320 -1855 b left respawn
+-13041 9392 -1855 b left respawn
+4735 6272 -831 b right sniper nest
+2793 6230 -831 b right sniper nest
+-3967 6528 -2367 b lift to left sniper nest
+-3905 7062 -2367 b lift to left sniper nest
+-4735 6276 -831 b left sniper nest
+-4494 6942 -831 b left sniper nest
+-4223 6885 -895 b lift to left sniper nest
+-3658 6276 -831 b left sniper nest
+-4431 5503 -831 b left sniper nest
+-4735 5503 -831 b left sniper nest
+-3711 5706 -831 b left sniper nest
+-3948 7906 -2673 b lift to left sniper nest
+8554 14588 -831 b right ramp
+13169 8918 -1855 b upper respawn right
+11383 9283 -1855 b upper respawn right
+10442 8791 -1855 b right ramp
+2863 4844 -831 b right sniper nest
+-2432 5530 -831 b left sniper nest
+2432 5756 -831 b right sniper nest
+-3200 6528 -2367 b lift to left sniper nest
+4164 3613 -831 b right sniper nest
+5503 2116 -2367 right pathway to b
+5499 3455 -2367 right pathway to b
+4279 2681 -2367 right pathway to b
+-3516 4251 -831 b left sniper nest
+3276 3554 -2367 right pathway to b
+-4324 3464 -831 b left sniper nest
+-4735 3456 -831 b left sniper nest
+-5503 2866 -2367 left pathway to b
+-5503 3325 -2367 left pathway to b
+-4636 2943 -2367 left pathway to b
+-1919 5356 -2367 b main entrance
+-2775 4136 -2367 left pathway to b
+-3004 3586 -2367 left pathway to b
+-906 4418 -2900 under b bridge
+815 4474 -2881 under b bridge
+855 2907 -3409 under b bridge
+-10 4476 -2880 under b bridge
+4928 8906 -2879 b right ramp floor
+-1919 6823 -2367 b main entrance
+-1164 10160 -7231 b water tunnel, inside
+-1493 9851 -7231 b water tunnel, outside
+-2303 8658 -7231 b water tunnel, outside
+-1586 9856 -5951 b water tunnel, inside
+-3359 13183 -2879 b water room
+-7552 8320 -2911 b main room floor, left
+-11425 9408 -1855 b left respawn
+-10622 8855 -1855 b left ramp
+-3316 12416 -2879 b water room
+2453 7294 -831 b right sniper nest
+3661 8468 -319 b cap area
+2580 8457 -319 b cap area
+-3519 9574 -2879 b left ramp floor
+-3068 8337 -2836 b left ramp floor
+-3200 7039 -2367 b lift to left sniper nest
+-2432 6672 -831 b left sniper nest
+-3245 7295 -831 b left sniper nest
+-3548 8413 -319 b cap area
+-3318 8399 -319 b cap area
+-2432 7295 -831 b left sniper nest
+578 8437 -319 b cap area
+62 11870 -511 b cap area
+3388 22009 -6847 b crystal slime, left
+4504 27281 -5439 b stairs to crystal, bottom
+3341 27264 -5644 b stairs to crystal, bottom
+2894 28543 -5823 b stairs to crystal, bottom
+1795 28543 -6079 b stairs to crystal, bottom
+2943 19072 -4671 b crystal area
+3455 20351 -4671 b crystal area
+2943 20863 -4671 b crystal area
+-2943 20830 -4671 b crystal area
+-610 28543 -6335 outside b crystal room
+-1094 27264 -6335 outside b crystal room
+-2166 27264 -6335 lift to b crystal
+-3216 27264 -6079 lift to b crystal
+-3662 27264 -5951 lift to b crystal
+-4479 27860 -5119 lift to b crystal

@@ -1,0 +1,42 @@
+================================================================
+Title                   : Rocket Jump This
+Author                  : Ralph Gustavsen a.k.a. tesh[BoB]
+URL                     : http://www.coastlinegraphics.com/
+                        : http://www.coastlinegraphics.com/quake
+Email Addresses         : clg@coastlinegraphics.com
+Description             : Rocket Arena Map
+
+================================================================
+
+* Play Information *
+
+Single Player           : Nope
+Cooperative             : Nope
+Deathmatch              : Designed for Rocket Arena
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft v1.3
+Known Bugs              : did you know dogs and bees can smell fear?
+Build Time              : 10 hours
+
+Texture Wad used        : quake.wad (a combo of all ID and CTF texture .wads)
+                        : email me if you want a copy
+Compile machine         : Intel Pentium 133/64mb
+QBSP Time               : 10 minutes
+Light (-extra) Time     : 1 hour
+VIS (-level 4) Time     : 2 hours
+
+
+Copyright (c) 1997 Coastline Graphics.  All rights reserved.
+This level may be electronically distributed only at no charge to
+the recipient, and may not be modified in any way.  This text file
+must be included with the level.
+
+This level may not be distributed on any CD-ROM without the prior,
+explicit consent of Coastline Graphics.

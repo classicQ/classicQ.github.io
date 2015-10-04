@@ -1,0 +1,73 @@
+===============================================================================
+Title                   : MeatPacker
+Filename                : kjdm7.bsp	
+Version                 : 15/8/98
+
+Author                  : Killjoy {ISoG}
+Email Address           : killjoy__@hotmail.com
+
+Misc. Author Info       : Leader of clan ISoG, Illegitimate Sons of God
+                          www.geocities.com/TimesSquare/Labyrinth/9908
+
+Description             : This is a two-and-a-half atrium one on one
+			  level.  It is crowded for more than two 
+			  people.
+
+Additional Credits to   : -Mr. Fribbles and ZTN for inspiration
+			  -id software for cool textures.
+			  -Adobe for Photoshop
+			  -Ty Matthews + Neal White III for Wally
+			  -Iikka "Fingers" Keranen for floor texture
+			  and PCX2WAL
+
+===============================================================================
+
+* Play Information *
+
+Game                    : Quake
+Single Player           : No
+Cooperative             : No 
+Deathmatch              : 1 on 1
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : two textures from Quake2 were converted.
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New map
+Build Time              : 5 hours
+Compile Time            : TBSP: 0:13, RVIS: 0:12, LIGHT: 0:13
+Editor(s) used          : BSP, Mipdip, Adobe Photoshop 4.0, Wally, 
+			  pcx2wal
+Known Bugs              : None
+
+* How to use this level *
+
+In your Quake/id1 directory create a directory called "maps" and copy the
+level into it. Bring up the console in Quake and type in "map
+bath".
+
+* Copyright / Permissions *
+
+This BSP file may be distributed across Internet only, no BBS distribution
+without my permission.
+
+You are NOT allowed to put this level on any CD or other electronic media.
+
+Actura Software may do NOTHING with this BSP file.  Except they may open
+it with wordpad, print it out, and use each page to give themselves a 
+paper cut on every extremity of their body.
+
+
+
+
+
+
+
+
+<rant>
+
+!!!hanson must die!!!
+
+</rant>

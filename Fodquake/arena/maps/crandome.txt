@@ -1,0 +1,25 @@
+Author:         Matt Lutjen   a.k.a cranman
+E-mail:         cranman@bendnet.com
+Credits:        Id for making a kick ass game, Rocket arena guys for making
+                the best mod scince CTF.  Wiseguy-311, For his input, and the
+                extensive use of his QW arena server to playtest this map.
+                And last but not least, All the kick-ass players that hopped
+                into the server many times to find that they had to download
+                a new version of the map...Sorry...8-)
+
+Filename:       crandome.bsp
+Editor:         Virtus DMM
+Time:           about 30 hours(including play test, and making minor improvements)
+Bugs:           None that I know of
+
+Additional Info:  This map was made for use with the Rocket arena mod,
+                  there is a single player start point for your veiwing
+                  pleasure.  We play tested It in both regular quake, and
+                  in GL, and both ran great!!!!  If you have any questions
+                  please feel free to e-mail me....thanks
+
+
+
+
+                  
+

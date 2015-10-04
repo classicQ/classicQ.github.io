@@ -1,0 +1,2316 @@
+-19073 -11646 2815 [red] sex
+-19073 -11591 2815 [red] sex
+-19312 -11584 2709 [red] sex
+-19377 -11616 2663 [red] sex
+-19843 -11584 2560 [red] sex
+-19597 -11840 2240 [red] sex
+-19603 -12087 2240 [red] sex
+-19630 -12351 2240 [red] sex
+-20219 -12301 2240 [red] sex
+-20077 -11840 2240 [red] sex
+-20223 -11631 2560 [red] sex
+-18966 -11840 1744 [red] respawn near fr
+-19327 -12856 1856 [red] respawn near fr
+-19327 -13102 1856 [red] respawn near fr
+-19327 -13377 1856 [red] respawn near fr
+-19327 -14117 1856 [red] respawn near fr
+-20092 -14144 2240 [red] respawn near fr
+-20223 -14399 2240 [red] respawn near fr
+-19327 -14625 1856 [red] respawn near fr
+-19327 -15270 1856 [red] respawn near fr
+-19327 -15679 1856 [red] respawn near fr
+-19184 -15679 1825 [red] respawn near fr
+-18965 -15679 1753 [red] respawn near fr
+-18683 -15679 1667 [red] respawn near fr
+-18356 -15679 1557 [red] respawn near fr
+-18067 -15679 1499 [red] respawn near fr
+-17672 -15679 1388 [red] respawn near fr
+-17155 -15807 1344 [red] respawn near fr
+-16719 -15807 1344 [red] respawn near fr
+-16304 -13178 1088 [red] respawn near fr
+-16022 -12898 1177 [red] respawn near fr
+-16031 -12611 1088 [red] respawn near fr
+-16164 -12416 1247 [red] respawn near fr
+-16036 -12329 1291 [red] respawn near fr
+-16041 -11712 1344 [red] respawn near fr
+-16418 -11713 1344 [red] respawn near fr
+-16015 -13340 1088 [red] respawn near fr
+-15848 -13668 1104 [red] respawn near fr
+-16005 -13895 1088 [red] respawn near fr
+-16000 -14248 1088 [red] respawn near fr
+-16001 -14449 1154 [red] respawn near fr
+-16000 -14799 1274 [red] respawn near fr
+-16000 -15007 1322 [red] respawn near fr
+-16000 -15496 1344 [red] respawn near fr
+-16000 -15558 1344 [red] respawn near fr
+-16000 -15763 1344 [red] respawn near fr
+-16004 -15807 1344 [red] respawn near fr
+-16045 -15807 1344 [red] respawn near fr
+-18180 -11840 1503 [red] respawn near fr
+-17522 -11880 1344 [red] respawn near fr
+-16977 -11776 1344 [red] respawn near fr
+-15487 -11795 1088 [red] above yard
+-15487 -12376 1088 [red] above yard
+-15487 -13337 1088 [red] above yard
+-15488 -13996 1088 [red] above yard
+-15487 -15968 1088 [red] above yard
+-15306 -16176 1088 [red] above yard
+-15743 -16983 1088 [red] path to above yard
+-15394 -17244 1088 [red] path to above yard
+-15743 -17528 1088 [red] path to above yard
+-15743 -17969 1088 [red] path to above yard
+-16096 -18495 1088 [red] tunnel to fr
+-15750 -18495 1088 [red] path to above yard
+-15745 -18495 1088 [red] path to above yard
+-15373 -19378 1088 [red] path to above yard
+-15024 -19727 1088 [red] path to above yard
+-14612 -20031 1088 [red] path to above yard
+-14150 -20031 1088 [red] path to above yard
+-13562 -20031 1088 [red] path to above yard
+-12857 -20031 1088 [red] path to above yard
+-12156 -20031 1088 [red] path to above yard
+-11628 -20031 1088 [red] path to above yard
+-11044 -20031 1088 [red] path to above yard
+-10573 -20031 1088 [red] path to above yard
+-10106 -20031 1088 [red] path to above yard
+-9518 -20031 1088 [red] path to above yard
+-8934 -20031 1088 [red] path to above yard
+-7967 -18752 1088 [red] path to above yard
+-7781 -19139 1088 [red] path to above yard
+-7772 -19582 1088 [red] path to above yard
+-7761 -20013 1088 [red] path to above yard
+-7985 -20031 1088 [red] path to above yard
+-8466 -20031 1088 [red] path to above yard
+-14731 -16960 1088 [red] path to above yard
+-14172 -16960 1088 [red] path to above yard
+-13952 -16960 1088 [red] path to above yard
+-13952 -17392 1088 [red] path to above yard
+-14009 -18073 1088 [red] path to above yard
+-13833 -18359 1088 [red] path to above yard
+-13433 -18752 1088 [red] path to above yard
+-12868 -18752 1088 [red] path to above yard
+-12311 -18752 1088 [red] path to above yard
+-11754 -18752 1088 [red] path to above yard
+-11082 -18752 1088 [red] path to above yard
+-10529 -18752 1088 [red] path to above yard
+-10077 -18752 1088 [red] path to above yard
+-9520 -18752 1088 [red] path to above yard
+-8964 -18752 1088 [red] path to above yard
+-8404 -18752 1088 [red] path to above yard
+-7167 -18752 -991 [red] path to ramps
+-9344 -18375 -639 [red] left way to fr
+-9344 -17723 -639 [red] left way to fr
+-9344 -17508 -639 [red] left way to fr
+-9367 -17285 -639 [red] left way to fr
+-9520 -17268 -639 [red] left way to fr
+-10177 -17193 -639 [red] left way to fr
+-10731 -17130 -639 [red] left way to fr
+-11225 -17029 -639 [red] left way to fr
+-11282 -17070 -639 [red] left way to fr
+-11672 -17038 -639 [red] left way to fr
+-14131 -19537 -1014 [red] left way to fr
+-14617 -19865 -1087 [red] left way to fr
+-16096 -18441 1088 [red] tunnel to fr
+-16096 -18240 1088 [red] tunnel to fr
+-16112 -18240 1088 [red] tunnel to fr
+-16222 -18240 1088 [red] tunnel to fr
+-16549 -18240 1088 [red] tunnel to fr
+-16849 -18495 1088 [red] tunnel to fr
+-16915 -18240 1088 [red] tunnel to fr
+-17106 -18240 1088 [red] tunnel to fr
+-17279 -18240 1088 [red] tunnel to fr
+-16281 -18495 1088 [red] tunnel to fr
+-17271 -18555 1088 [red] tunnel to fr
+-17024 -18911 1088 [red] tunnel to fr
+-17024 -19039 1088 [red] tunnel to fr
+-17024 -19135 1088 [red] tunnel to fr
+-17024 -19135 1088 [red] tunnel to fr
+-17512 -19135 1088 [red] tunnel to fr
+-17518 -18932 1088 [red] tunnel to fr
+-17904 -18880 1088 [red] tunnel to fr
+-18130 -19135 1088 [red] tunnel to fr
+-18510 -18880 1088 [red] tunnel to fr
+-18835 -19135 1088 [red] tunnel to fr
+-19151 -18880 1088 [red] tunnel to fr
+-19467 -19135 1088 [red] tunnel to fr
+-19794 -18880 1073 [red] tunnel to fr
+-20045 -19135 1055 [red] tunnel to fr
+-20432 -18880 1027 [red] tunnel to fr
+-20657 -19135 1011 [red] tunnel to fr
+-21070 -18880 982 [red] tunnel to fr
+-21375 -19135 960 [red] tunnel to fr
+-21713 -18880 936 [red] tunnel to fr
+-22072 -19135 910 [red] tunnel to fr
+-22354 -18880 890 [red] tunnel to fr
+-22641 -19135 869 [red] tunnel to fr
+-22934 -18880 848 [red] tunnel to fr
+-23195 -19135 832 [red] tunnel to fr
+-23590 -18880 832 [red] tunnel to fr
+-23840 -19135 832 [red] tunnel to fr
+-24156 -18689 769 [red] tunnel to fr
+-24456 -19135 832 [red] tunnel to fr
+-24925 -19135 832 [red] tunnel to fr
+-25203 -19135 832 [red] tunnel to fr
+-25215 -19135 832 [red] tunnel to fr
+-25215 -18669 688 [red] tunnel to fr
+-25215 -18134 576 [red] tunnel to fr
+-25215 -17955 576 [red] tunnel to fr
+-24959 -17722 576 [red] tunnel to fr
+-24467 -17728 643 [red] tunnel to fr
+-24144 -17728 739 [red] tunnel to fr
+-23833 -17728 824 [red] tunnel to fr
+-23808 -17963 832 [red] tunnel to fr
+-23808 -18188 832 [red] tunnel to fr
+-17279 -18240 1088 [red] tunnel to fr
+-17343 -18644 -1087 [red] left way to fr
+-17343 -19208 -1087 [red] left way to fr
+-17292 -19827 -1087 [red] left way to fr
+-16819 -20300 -1087 [red] left way to fr
+-16640 -16288 -1087 [red] left way to fr
+-16111 -16114 -1087 [red] left way to fr
+-15588 -15911 -1087 [red] left way to fr
+-15490 -15775 -1087 [red] entrance to fr
+-14932 -15785 -1087 [red] entrance to fr
+-14358 -15579 -936 [red] entrance to fr
+-14332 -15493 -880 [red] left way to fr
+-14045 -15505 -762 [red] entrance to fr
+-13696 -14771 -831 [red] entrance to fr
+-13696 -14344 -831 [red] entrance to fr
+-21120 -17173 192 [red] flag room
+-21137 -17215 192 [red] flag room
+-21472 -17215 192 [red] flag room
+-21154 -15957 192 [red] flag room
+-21048 -15679 192 [red] entrance to fr
+-21105 -15679 192 [red] flag room
+-21110 -15679 192 [red] flag room
+-21098 -15380 192 [red] flag room
+-21060 -15316 192 [red] entrance to fr
+-21065 -14762 192 [red] entrance to fr
+-21091 -14711 192 [red] flag room
+-21086 -14214 192 [red] flag room
+-21050 -14204 192 [red] entrance to fr
+-20927 -14033 192 [red] entrance to fr
+-21081 -13656 192 [red] flag room
+-21026 -13650 192 [red] entrance to fr
+-21073 -13102 192 [red] flag room
+-20988 -13093 192 [red] entrance to fr
+-20901 -12921 192 [red] entrance to fr
+-21062 -12601 192 [red] flag room
+-20934 -12541 192 [red] entrance to fr
+-21047 -12015 192 [red] flag room
+-21044 -11925 192 [red] flag room
+-20895 -11881 192 [red] entrance to fr
+-21120 -11779 192 [red] flag room
+-20895 -11840 192 [red] entrance to fr
+-20882 -12043 192 [red] entrance to fr
+-21120 -11298 192 [red] flag room
+-21120 -10725 192 [red] flag room
+-21120 -10320 192 [red] flag room
+-21411 -10304 192 [red] flag room
+-21915 -10304 192 [red] flag room
+-22394 -10304 192 [red] flag room
+-22951 -10304 192 [red] flag room
+-23414 -10304 339 [red] flag room
+-23874 -10304 539 [red] flag room
+-24336 -10304 576 [red] flag room
+-24854 -10347 576 [red] flag room
+-24883 -10816 192 [red] flag room
+-25471 -10304 576 [red] flag room
+-25376 -10816 192 [red] flag room
+-24309 -10816 192 [red] flag room
+-25783 -11127 192 [red] flag room
+-26121 -11465 192 [red] flag room
+-26414 -11759 192 [red] flag room
+-26498 -11840 192 [red] flag room
+-27073 -11840 192 [red] flag room
+-27342 -11840 192 [red] flag room
+-27501 -11840 192 [red] flag room
+-27715 -12230 192 [red] flag room
+-28000 -12802 192 [red] flag room
+-28262 -13325 192 [red] flag room
+-28287 -13916 192 [red] flag room
+-28129 -14460 192 [red] flag room
+-27848 -15022 192 [red] flag room
+-27625 -15468 192 [red] flag room
+-27314 -15679 192 [red] flag room
+-26803 -15679 192 [red] flag room
+-26441 -15734 192 [red] flag room
+-26067 -16108 192 [red] flag room
+-25793 -16382 192 [red] flag room
+-25602 -16572 192 [red] flag room
+-25471 -17080 576 [red] flag room
+-25471 -17215 576 [red] flag room
+-25471 -17215 576 [red] flag room
+-24844 -17217 576 [red] flag room
+-24286 -17215 576 [red] flag room
+-23841 -17215 401 [red] flag room
+-23284 -17215 192 [red] flag room
+-22606 -17215 192 [red] flag room
+-22038 -17215 192 [red] flag room
+-21120 -16650 192 [red] flag room
+-20755 -15629 153 [red] entrance to fr
+-20676 -15679 139 [red] entrance to fr
+-20955 -15199 192 [red] entrance to fr
+-20941 -14587 192 [red] entrance to fr
+-20913 -13476 192 [red] entrance to fr
+-20896 -12377 192 [red] entrance to fr
+-20860 -11840 191 [red] entrance to fr
+-20423 -11840 34 [red] entrance to fr
+-20024 -11840 -107 [red] entrance to fr
+-19645 -11840 -242 [red] entrance to fr
+-19403 -11840 -329 [red] entrance to fr
+-18875 -11840 -517 [red] entrance to fr
+-18421 -11840 -679 [red] entrance to fr
+-17793 -11840 -904 [red] entrance to fr
+-17521 -11863 -1001 [red] entrance to fr
+-17318 -11917 -1073 [red] right way to fr
+-17244 -11809 -1087 [red] entrance to fr
+-17194 -11841 -1087 [red] right way to fr
+-17038 -12320 -1087 [red] entrance to fr
+-16478 -12436 -772 [red] entrance to fr
+-15890 -12476 -542 [red] entrance to fr
+-15307 -12489 -488 [red] entrance to fr
+-14723 -12492 -608 [red] entrance to fr
+-14833 -12270 -947 [red] right way to fr
+-14143 -12452 -831 [red] entrance to fr
+-14189 -12102 -831 [red] right way to fr
+-13696 -12792 -831 [red] entrance to fr
+-13696 -13367 -831 [red] entrance to fr
+-13183 -13174 -605 [red] yard
+-13696 -13963 -831 [red] entrance to fr
+-13183 -14743 -639 [red] yard
+-13183 -14183 -639 [red] yard
+-14079 -15509 -831 [red] left way to fr
+-14608 -15476 -1087 [red] left way to fr
+-15094 -15610 -1087 [red] left way to fr
+-16044 -15742 -1087 [red] entrance to fr
+-16543 -15705 -1087 [red] entrance to fr
+-16871 -15679 -1087 [red] entrance to fr
+-17828 -15679 -831 [red] entrance to fr
+-18250 -15679 -700 [red] entrance to fr
+-18658 -15679 -531 [red] entrance to fr
+-19058 -15679 -452 [red] entrance to fr
+-19397 -15679 -288 [red] entrance to fr
+-19661 -15679 -207 [red] entrance to fr
+-19971 -15679 -126 [red] entrance to fr
+-20253 -15679 -7 [red] entrance to fr
+-20507 -15679 93 [red] entrance to fr
+-16971 -11414 -1087 [red] right way to fr
+-16766 -11488 -1087 [red] right way to fr
+-16494 -11218 -1087 [red] right way to fr
+-16144 -11288 -1087 [red] right way to fr
+-14464 -10206 -1087 [red] right way to fr
+-14143 -10047 -1017 [red] right way to fr
+-13794 -10047 -941 [red] right way to fr
+-13352 -10047 -844 [red] right way to fr
+-12568 -10047 -673 [red] right way to fr
+-12159 -10395 -639 [red] right way to fr
+-12113 -10258 -639 [red] right way to fr
+-12032 -10395 -639 [red] right way to fr
+-14286 -11052 -1087 [red] right way to fr
+-13883 -10976 -959 [red] right way to fr
+-13696 -10847 -959 [red] right way to fr
+-13696 -11003 -959 [red] right way to fr
+-13697 -11614 -831 [red] right way to fr
+-16272 -11613 -1087 [red] right way to fr
+-15897 -12046 -1087 [red] right way to fr
+-15382 -12337 -1087 [red] right way to fr
+-13732 -11979 -831 [red] right way to fr
+-13183 -11375 -605 [red] yard
+-14970 -11112 -1087 [red] right way to fr
+-15616 -11086 -1087 [red] right way to fr
+-16923 -10933 -1087 [red] right way to fr
+-17196 -10214 -1087 [red] right way to fr
+-17343 -9653 -1087 [red] right way to fr
+-17343 -9098 -1087 [red] right way to fr
+-17343 -8538 -1087 [red] right way to fr
+-17343 -7964 -1087 [red] right way to fr
+-17072 -7477 -1087 [red] right way to fr
+-16690 -7091 -1087 [red] right way to fr
+-16248 -6744 -1087 [red] right way to fr
+-15690 -6720 -1087 [red] right way to fr
+-15195 -7077 -1087 [red] right way to fr
+-14940 -7524 -1087 [red] right way to fr
+-14378 -7744 -1056 [red] right way to fr
+-13641 -7744 -862 [red] right way to fr
+-13067 -7744 -735 [red] right way to fr
+-12459 -7744 -639 [red] right way to fr
+-11820 -7744 -639 [red] right way to fr
+-11040 -7744 -639 [red] right way to fr
+-10377 -7746 -639 [red] right way to fr
+-9900 -8211 -639 [red] right way to fr
+-9500 -8612 -639 [red] right way to fr
+-9344 -9089 -639 [red] right way to fr
+-9344 -9759 -639 [red] right way to fr
+-9344 -10207 -639 [red] right way to fr
+-9707 -10374 -639 [red] right way to fr
+-9747 -10905 -639 [red] yard
+-10064 -10852 -639 [red] yard
+-10374 -10398 -639 [red] right way to fr
+-10617 -10814 -639 [red] yard
+-11042 -10395 -639 [red] right way to fr
+-10997 -10789 -639 [red] yard
+-11486 -10394 -639 [red] right way to fr
+-11450 -10797 -639 [red] yard
+-11841 -10808 -639 [red] yard
+-12004 -10815 -639 [red] yard
+-11283 -10788 -639 [red] yard
+-10428 -10892 -639 [red] yard
+-9507 -10885 -639 [red] yard
+-9314 -10888 -639 [red] yard
+-8953 -10912 -639 [red] yard
+-8636 -10816 -639 [red] yard
+-11748 -17144 -639 [red] left way to fr
+-10671 -17023 -639 [red] left way to fr
+-10113 -17024 -639 [red] left way to fr
+-9442 -18841 -639 [red] left way to fr
+-9887 -19295 -639 [red] left way to fr
+-10322 -19696 -639 [red] left way to fr
+-10881 -19775 -639 [red] left way to fr
+-11531 -19775 -639 [red] left way to fr
+-12329 -19775 -639 [red] left way to fr
+-12846 -19775 -734 [red] left way to fr
+-13552 -19661 -888 [red] left way to fr
+-14954 -20201 -1087 [red] left way to fr
+-15446 -20694 -1087 [red] left way to fr
+-15961 -20799 -1087 [red] left way to fr
+-16423 -20696 -1087 [red] left way to fr
+-17343 -18187 -1087 [red] left way to fr
+-17343 -17652 -1087 [red] left way to fr
+-17056 -17218 -1087 [red] left way to fr
+-17023 -16959 -1087 [red] left way to fr
+-17023 -16959 -1087 [red] left way to fr
+-17023 -16959 -1087 [red] left way to fr
+-17023 -16728 -1087 [red] left way to fr
+-13827 -15757 -831 [red] left way to fr
+-13696 -15933 -831 [red] left way to fr
+-13183 -15866 -639 [red] yard
+-14188 -16361 -959 [red] left way to fr
+-14464 -16729 -1087 [red] left way to fr
+-14464 -17023 -1087 [red] left way to fr
+-14478 -17254 -1087 [red] left way to fr
+-14048 -17472 -967 [red] left way to fr
+-13561 -17472 -877 [red] left way to fr
+-13102 -17472 -767 [red] left way to fr
+-12624 -17486 -656 [red] left way to fr
+-12159 -17359 -639 [red] left way to fr
+-10314 -16674 -626 [red] yard
+-9810 -16723 -630 [red] yard
+-9669 -17032 -639 [red] left way to fr
+-9348 -17038 -639 [red] left way to fr
+-9305 -16703 -629 [red] yard
+-9497 -16725 -630 [red] yard
+-10890 -16545 -615 [red] yard
+-11558 -16575 -639 [red] yard
+-11981 -16592 -639 [red] yard
+-12477 -16700 -639 [red] yard
+-6016 -15956 -511 [red] yard
+-6231 -15352 -511 [red] yard
+-6299 -14767 -511 [red] yard
+-6038 -14655 -511 [red] ramp room
+-6035 -14655 -511 [red] ramp room
+-5750 -14655 -511 [red] ramp room
+-5292 -14655 -511 [red] ramp room
+-4711 -14655 -511 [red] ramp room
+-4094 -16922 -1004 [red] ramp room
+-4095 -17467 -1023 [red] ramp room
+-4095 -18019 -1023 [red] ramp room
+-4036 -18239 -1023 [red] ramp room
+-3447 -18239 -1023 [red] ramp room
+-3008 -18239 -1023 [red] ramp room
+-2674 -17821 -1023 [red] ramp room
+-2158 -18093 -1023 [red] ramp room
+-1561 -18014 -1023 [red] ramp room
+-874 -17983 -1023 [red] ramp room
+-233 -18239 -1023 [red] ramp room
+306 -18204 -1023 [red] ramp room
+736 -16066 -1139 [red] ramp room
+687 -15513 -1393 [red] ramp room
+1754 -15290 -831 [red] ramp room
+641 -14956 -1490 [red] ramp room
+2277 -16319 -1855 [red] ramp room
+2707 -16319 -1855 [red] ramp room
+2815 -16311 -1855 [red] ramp room
+3323 -15807 -1855 [red] ramp room
+3832 -16319 -831 [red] ramp room
+3838 -16319 -831 [red] ramp room
+4224 -15798 -1855 [red] water entrance
+1919 -16739 -1855 [red] ramp room
+1919 -16929 -1855 [red] ramp room
+3710 -14041 -511 [red] ramp room
+4224 -13759 -511 [red] path to balcony from ramps
+5375 -12644 -511 [red] path to balcony from ramps
+5375 -12073 -584 [red] path to balcony from ramps
+5375 -11501 -662 [red] path to balcony from ramps
+595 -14402 -1761 [red] ramp room
+786 -16621 -1025 [red] ramp room
+834 -17117 -1023 [red] ramp room
+869 -17624 -1023 [red] ramp room
+895 -17726 -1023 [red] ramp room
+1407 -18239 -1855 [red] ramp room
+1919 -18188 -831 [red] ramp room
+1913 -18239 -720 [red] ramp room
+1919 -17727 -1855 [red] ramp room
+1874 -17727 -1855 [red] ramp room
+-3008 -18239 -1023 [red] ramp room
+-4095 -16125 -793 [red] ramp room
+-4095 -15801 -720 [red] ramp room
+-3893 -15507 -640 [red] ramp room
+-3839 -15205 -568 [red] ramp room
+-3899 -14655 -511 [red] ramp room
+-6091 -14227 -511 [red] ramp room
+-6333 -14208 -511 [red] yard
+-6104 -13673 -511 [red] ramp room
+-6337 -13656 -511 [red] yard
+-6335 -13440 -511 [red] yard
+-6116 -13119 -511 [red] ramp room
+-6122 -12864 -511 [red] ramp room
+-6272 -12676 -511 [red] yard
+-12398 -10816 -639 [red] yard
+-12560 -10816 -639 [red] yard
+-12909 -10816 -639 [red] yard
+-13000 -10816 -639 [red] yard
+-13183 -10816 -639 [red] yard
+-13183 -11989 -605 [red] yard
+-13183 -12616 -605 [red] yard
+-13183 -13625 -605 [red] yard
+-13183 -15306 -639 [red] yard
+-13183 -16703 -639 [red] yard
+-13094 -16703 -639 [red] yard
+-13696 -16186 1088 [red] above yard
+-13696 -15794 1088 [red] above yard
+-8740 -16703 -629 [red] yard
+-8180 -16703 -629 [red] yard
+-7503 -16703 -511 [red] yard
+-7054 -16703 -511 [red] yard
+-6853 -16652 -511 [red] yard
+-6555 -16336 -511 [red] yard
+-6400 -16703 -511 [red] yard
+-6048 -16319 -511 [red] yard
+-6118 -12351 -511 [red] yard
+-6016 -12016 -511 [red] yard
+-6016 -11680 -511 [red] yard
+-6299 -11449 -511 [red] yard
+-6400 -10963 -511 [red] yard
+-6852 -10816 -511 [red] yard
+-7410 -10816 -511 [red] yard
+-8077 -10816 -639 [red] yard
+-13696 -10816 1088 [red] above yard
+-13841 -10900 1088 [red] above yard
+-13902 -10816 1088 [red] above yard
+-14250 -10817 1088 [red] above yard
+-14345 -10816 1088 [red] above yard
+-13699 -11353 1088 [red] above yard
+-13872 -11988 1088 [red] above yard
+-13527 -12602 1088 [red] above yard
+-13890 -13227 1088 [red] above yard
+-13408 -13263 1088 [red] above yard
+-13896 -14108 1088 [red] above yard
+-13437 -14217 1088 [red] above yard
+-13615 -14668 1088 [red] above yard
+-14095 -15140 1088 [red] above yard
+-14205 -16141 1088 [red] above yard
+-14760 -16153 1088 [red] above yard
+-15487 -15352 1088 [red] above yard
+-15415 -14771 1088 [red] above yard
+-15490 -14143 1088 [red] above yard
+-15487 -13182 1088 [red] above yard
+-15487 -11274 1088 [red] above yard
+-15487 -10820 1088 [red] above yard
+-15487 -10816 1088 [red] above yard
+-15487 -10816 1088 [red] above yard
+-14903 -10812 1088 [red] above yard
+-13778 -10047 1088 [red] path to balcony from above yard
+-14073 -10047 1088 [red] path to balcony from above yard
+-14719 -10047 1088 [red] path to balcony from above yard
+-15017 -10238 1088 [red] path to balcony from above yard
+-15487 -9948 1088 [red] path to balcony from above yard
+-15487 -9729 1088 [red] path to balcony from above yard
+-15153 -9201 1088 [red] path to balcony from above yard
+-14816 -8865 1088 [red] path to balcony from above yard
+-13641 -8512 1088 [red] path to balcony from above yard
+-13298 -8512 1088 [red] path to balcony from above yard
+-13060 -8512 1088 [red] path to balcony from above yard
+-12757 -8512 1088 [red] path to balcony from above yard
+-12451 -8512 1088 [red] path to balcony from above yard
+-12146 -8512 1088 [red] path to balcony from above yard
+-11839 -8512 1088 [red] path to balcony from above yard
+-11534 -8512 1088 [red] path to balcony from above yard
+-11229 -8512 1088 [red] path to balcony from above yard
+-10985 -8512 1088 [red] path to balcony from above yard
+-10682 -8512 1088 [red] path to balcony from above yard
+-10381 -8512 1088 [red] path to balcony from above yard
+-10080 -8512 1088 [red] path to balcony from above yard
+-9810 -8512 1088 [red] path to balcony from above yard
+-9512 -8512 1088 [red] path to balcony from above yard
+-9040 -9269 1088 [red] path to balcony from above yard
+-8990 -9184 1088 [red] path to balcony from above yard
+-8948 -8650 1088 [red] path to balcony from above yard
+-8973 -8512 1088 [red] path to balcony from above yard
+-9057 -8512 1088 [red] path to balcony from above yard
+-9274 -8512 1088 [red] path to balcony from above yard
+-13857 -8512 1088 [red] path to balcony from above yard
+-14082 -8512 1088 [red] path to balcony from above yard
+-14238 -8512 1088 [red] path to balcony from above yard
+-14446 -8512 1088 [red] path to balcony from above yard
+-15486 -9535 1088 [red] path to balcony from above yard
+-13502 -9800 1088 [red] path to balcony from above yard
+-13096 -9791 1088 [red] path to balcony from above yard
+-12519 -9791 1088 [red] path to balcony from above yard
+-11955 -9791 1088 [red] path to balcony from above yard
+-11506 -9791 1088 [red] path to balcony from above yard
+-10829 -9791 1088 [red] path to balcony from above yard
+-10268 -9791 1088 [red] path to balcony from above yard
+-9820 -9791 1088 [red] path to balcony from above yard
+-9263 -9779 1088 [red] path to balcony from above yard
+-9195 -9763 1088 [red] path to balcony from above yard
+-9051 -8769 1088 [red] path to balcony from above yard
+-8135 -8853 -703 [red] balcony left
+-8066 -8512 -703 [red] balcony left
+-7712 -8512 -703 [red] balcony left
+-8447 -9791 -671 [red] balcony left
+-7551 -8224 -703 [red] balcony left
+-7551 -8185 -703 [red] balcony left
+-6942 -8062 -703 [red] balcony left
+-6656 -8226 -703 [red] balcony left
+-6331 -8085 -703 [red] balcony left
+-5777 -8113 -703 [red] balcony left
+-5703 -8004 -703 [red] balcony left
+-5622 -7488 -703 [red] balcony left
+-5566 -7490 -703 [red] balcony left
+-5375 -7295 -703 [red] balcony left
+-5224 -7541 -703 [red] balcony left
+-5390 -7965 -703 [red] balcony left
+-6464 -7554 -703 [red] balcony left
+-5583 -8127 -703 [red] balcony left
+-5900 -7523 -703 [red] balcony left
+-7073 -7488 -703 [red] balcony left
+-7551 -7723 -703 [red] balcony left
+-7551 -7639 -703 [red] balcony left
+-7551 -7488 -703 [red] balcony left
+-5346 -8255 -703 [red] balcony left
+-6721 -8605 -703 [red] balcony left
+-6790 -9159 -703 [red] balcony left
+-6836 -9658 -703 [red] balcony left
+-6988 -9791 -703 [red] balcony left
+-7552 -9791 -703 [red] balcony left
+-8012 -9791 -703 [red] balcony left
+-8447 -9791 -671 [red] balcony left
+-7594 -8803 -703 [red] balcony left
+-8276 -9386 -691 [red] balcony left
+-8447 -9791 -671 [red] balcony left
+-6015 -8732 -1855 [red] entrance
+-5757 -8735 -1855 [red] entrance
+-4907 -8243 -703 [red] balcony left
+-4352 -8239 -703 [red] balcony left
+-3670 -8255 -703 [red] balcony left
+-3140 -8255 -703 [red] balcony left
+-2500 -8255 -703 [red] balcony left
+-1881 -8255 -703 [red] balcony left
+-1599 -8255 -703 [red] balcony left
+-1004 -8255 -703 [red] balcony left
+-258 -8255 -703 [red] balcony left
+-284 -8096 -655 [red] balcony left
+-276 -7681 -639 [red] balcony left
+-5375 -6752 -703 [red] balcony left
+-5375 -6499 -703 [red] balcony left
+-5000 -6464 -703 [red] balcony left
+-4405 -6464 -644 [red] balcony left
+-3801 -6464 -639 [red] balcony left
+-3193 -6464 -639 [red] balcony left
+-2586 -6464 -639 [red] balcony left
+-1970 -6464 -639 [red] balcony left
+-1328 -6464 -703 [red] balcony left
+-748 -6464 -703 [red] balcony left
+-359 -6464 -703 [red] balcony left
+-266 -6679 -703 [red] balcony left
+-270 -7238 -641 [red] balcony left
+423 -8255 -703 [red] balcony right
+630 -8255 -703 [red] balcony right
+627 -8092 -703 [red] balcony right
+613 -7481 -703 [red] balcony right
+1471 -8255 -703 [red] balcony right
+2049 -8255 -703 [red] balcony right
+2572 -8255 -703 [red] balcony right
+3071 -8255 -703 [red] balcony right
+3639 -8255 -703 [red] balcony right
+3971 -8255 -703 [red] balcony right
+4237 -8468 -703 [red] path to balcony from ramps
+4224 -8613 -703 [red] balcony right
+4542 -8644 -703 [red] balcony right
+5155 -8654 -703 [red] balcony right
+5243 -8726 -703 [red] balcony right
+5375 -8583 -703 [red] balcony right
+5375 -8597 -703 [red] path to balcony from ramps
+5375 -8743 -703 [red] path to balcony from ramps
+4224 -8961 -703 [red] balcony right
+4235 -8993 -703 [red] path to balcony from ramps
+3839 -9152 -511 [red] ramp room
+5267 -8376 -703 [red] path to balcony from ramps
+5375 -8275 -703 [red] balcony right
+5375 -7720 -703 [red] balcony right
+5375 -7051 -703 [red] balcony right
+5375 -6609 -703 [red] balcony right
+5110 -6464 -703 [red] balcony right
+4555 -6464 -666 [red] balcony right
+4001 -6464 -639 [red] balcony right
+3442 -6464 -639 [red] balcony right
+2888 -6464 -639 [red] balcony right
+2333 -6464 -639 [red] balcony right
+1886 -6464 -639 [red] balcony right
+1331 -6464 -703 [red] balcony right
+834 -6464 -703 [red] balcony right
+603 -6464 -703 [red] balcony right
+603 -6980 -703 [red] balcony right
+1013 -9152 -1045 [red] left ramp
+1562 -9152 -826 [red] left ramp
+1019 -9252 -1855 [red] ramp room
+1373 -9152 -1855 [red] ramp room
+1713 -9152 -1855 [red] ramp room
+2274 -9152 -1855 [red] ramp room
+521 -8137 -2943 [red] water entrance
+237 -7853 -2943 [red] water entrance
+-45 -7570 -2943 [red] water entrance
+1587 -7667 -2943 [red] water entrance
+1916 -7996 -2943 [red] water entrance
+2385 -8465 -2943 [red] water entrance
+2778 -8858 -2943 [red] water entrance
+4362 -8184 -703 [red] path to balcony from ramps
+4834 -8284 -703 [red] path to balcony from ramps
+5375 -9344 -703 [red] path to balcony from ramps
+5375 -9852 -703 [red] path to balcony from ramps
+5375 -10361 -703 [red] path to balcony from ramps
+5375 -10933 -703 [red] path to balcony from ramps
+4224 -13759 -511 [red] path to balcony from ramps
+4705 -13759 -511 [red] path to balcony from ramps
+5254 -13759 -511 [red] path to balcony from ramps
+5375 -13759 -511 [red] path to balcony from ramps
+5375 -13213 -511 [red] path to balcony from ramps
+3839 -9158 -511 [red] ramp room
+4234 -9550 -703 [red] path to balcony from ramps
+3839 -9711 -511 [red] ramp room
+4233 -10105 -703 [red] path to balcony from ramps
+3839 -10136 -511 [red] ramp room
+4231 -10659 -703 [red] path to balcony from ramps
+3839 -10697 -511 [red] ramp room
+4230 -11217 -681 [red] path to balcony from ramps
+3839 -11333 -511 [red] ramp room
+4228 -11771 -605 [red] path to balcony from ramps
+3839 -12003 -511 [red] ramp room
+4227 -12329 -529 [red] path to balcony from ramps
+3839 -12655 -511 [red] ramp room
+4226 -12876 -511 [red] path to balcony from ramps
+4225 -13099 -511 [red] path to balcony from ramps
+4224 -13459 -511 [red] path to balcony from ramps
+3592 -13304 -511 [red] ramp room
+4227 -13780 -1512 [red] water entrance
+3839 -13891 -1855 [red] ramp room
+4480 -13240 -2943 [red] water entrance
+5221 -12512 -2943 [red] water entrance
+5227 -12172 -2943 [red] water entrance
+5236 -11682 -2943 [red] water entrance
+5093 -11254 -2943 [red] water entrance
+4826 -10906 -2943 [red] water entrance
+4459 -10540 -2943 [red] water entrance
+4076 -10156 -2943 [red] water entrance
+3605 -9685 -2943 [red] water entrance
+3212 -9292 -2943 [red] water entrance
+1202 -7282 -2943 [red] water entrance
+745 -6929 -2943 [red] water entrance
+3455 -5695 -2367 [red] grass
+3362 -5340 -2367 [red] grass
+4351 -5190 -2338 [red] grass
+4991 -5119 -2366 [red] grass
+4991 -4903 -2355 [red] grass
+2256 -4762 -2367 [red] grass
+2112 -4671 -2367 [red] grass
+1911 -4671 -2343 [red] grass
+1902 -4671 -2359 [red] grass
+1907 -4057 -2361 [red] grass
+1911 -3613 -2363 [red] grass
+1917 -3059 -2366 [red] grass
+1381 -3023 -2239 bridge
+1919 -2501 -2332 [red] grass
+1919 -2000 -2253 [red] grass
+1920 -1449 -2367 [red] grass
+1920 -1178 -2386 [red] grass
+2260 -1161 -2378 [red] grass
+2818 -1157 -2383 [red] grass
+3263 -1174 -2386 [red] grass
+3818 -1229 -2389 [red] grass
+4477 -1323 -2377 [red] grass
+4950 -1408 -2367 [red] grass
+4991 -1416 -2367 [red] grass
+4979 -847 -2815 water
+4991 -844 -2820 water
+4991 -2171 -2367 [red] grass
+4991 -2880 -2290 [red] grass
+4991 -3471 -2283 [red] grass
+4991 -3945 -2307 [red] grass
+4991 -4544 -2337 [red] grass
+4123 -5119 -2323 [red] grass
+3557 -5043 -2344 [red] grass
+3268 -5022 -2367 [red] grass
+3075 -5695 -2367 [red] grass
+2501 -5695 -2367 [red] grass
+2192 -5695 -2367 [red] grass
+2176 -5428 -2367 [red] grass
+1664 -4661 -2239 [red] grass
+802 -4021 -2146 bridge
+383 -4796 -2943 [red] water entrance
+383 -5233 -2943 [red] water entrance
+383 -5672 -2943 [red] water entrance
+-383 -4507 -2943 [red] water entrance
+-383 -4822 -2943 [red] water entrance
+-383 -5215 -2943 [red] water entrance
+-383 -5691 -2943 [red] water entrance
+-893 -6206 -1839 [red] entrance
+-1451 -6208 -1855 [red] entrance
+-1925 -4504 -2367 [red] grass
+-2136 -4671 -2367 [red] grass
+-2176 -5655 -2367 [red] grass
+-2176 -5695 -2367 [red] grass
+-2462 -5665 -2367 [red] grass
+-2517 -5695 -2367 [red] grass
+-3184 -5695 -2367 [red] grass
+-3455 -5695 -2367 [red] grass
+-3455 -5393 -2367 [red] grass
+-1925 -3950 -2360 [red] grass
+-1924 -3449 -2361 [red] grass
+-1736 -3445 -2250 bridge
+-1934 -2933 -2359 bridge
+-1923 -2892 -2361 [red] grass
+-1922 -2337 -2367 [red] grass
+-1920 -1783 -2367 [red] grass
+-1920 -1497 -2367 [red] grass
+-2447 -1477 -2367 [red] grass
+-3001 -1460 -2367 [red] grass
+-3558 -1443 -2367 [red] grass
+-4002 -1430 -2367 [red] grass
+-4502 -1417 -2367 [red] grass
+-4921 -1407 -2367 [red] grass
+-4991 -1831 -2367 [red] grass
+-4991 -2465 -2367 [red] grass
+-4991 -3679 -2239 [red] grass
+-4991 -4411 -2239 [red] grass
+-4893 -4964 -2321 [red] grass
+-4991 -5036 -2329 [red] grass
+-4327 -5114 -2367 [red] grass
+-3883 -5119 -2367 [red] grass
+-2111 -6208 -1855 [red] entrance
+-1926 -6208 -1855 [red] entrance
+-383 -4075 -2943 [red] water entrance
+383 -6112 -2943 [red] water entrance
+402 -6574 -2943 [red] water entrance
+3839 -14144 -1855 [red] ramp room
+-4095 -16567 -1855 [red] ramp room
+-4095 -17128 -1855 [red] ramp room
+-4095 -17684 -1855 [red] ramp room
+-1873 -18239 -1855 [red] ramp room
+-1290 -18239 -1855 [red] ramp room
+-701 -18239 -1855 [red] ramp room
+-5314 -18813 -1023 [red] path to ramps
+-5920 -18752 -1023 [red] path to ramps
+-6541 -18752 -1023 [red] path to ramps
+-7125 -18752 -991 [red] path to ramps
+-886 -19904 -1023 [red] path to ramps
+-640 -19904 -1023 [red] path to ramps
+-640 -19904 -1023 [red] path to ramps
+-640 -19904 -1023 [red] path to ramps
+-640 -20583 -1023 [red] path to ramps
+-640 -21387 -1023 [red] path to ramps
+-1019 -21439 -1023 [red] path to ramps
+-1606 -21439 -1023 [red] path to ramps
+-2237 -21439 -1023 [red] path to ramps
+-2825 -21439 -1023 [red] path to ramps
+-3200 -21444 -1023 [red] path to ramps
+-3200 -21443 -1023 [red] path to ramps
+-3579 -21440 -1023 [red] path to ramps
+-3759 -21937 -1023 [red] respawn near ramp room
+-4134 -21440 -1023 [red] path to ramps
+-4692 -21440 -1023 [red] path to ramps
+-5199 -21439 -1023 [red] path to ramps
+-5659 -21439 -1023 [red] path to ramps
+-6154 -21439 -1023 [red] path to ramps
+-6399 -21168 -1023 [red] path to ramps
+-6399 -20594 -1023 [red] path to ramps
+-6436 -20031 -1023 [red] path to ramps
+-6690 -20031 -1023 [red] path to ramps
+-7164 -20031 -991 [red] path to ramps
+-7166 -19645 -991 [red] path to ramps
+-7167 -19090 -991 [red] path to ramps
+-4917 -19210 -1023 [red] path to ramps
+-4463 -19664 -1023 [red] path to ramps
+-4387 -20030 -1023 [red] path to ramps
+-4162 -20160 -1023 [red] path to ramps
+-3841 -20160 -1023 [red] path to ramps
+-3330 -20160 -1023 [red] path to ramps
+-2943 -19904 -1023 [red] path to ramps
+-2439 -19884 -1023 [red] path to ramps
+-1884 -19895 -1023 [red] path to ramps
+-1330 -19902 -1023 [red] path to ramps
+-1920 -22080 -767 [red] respawn near ramp room
+-2432 -21952 -767 [red] respawn near ramp room
+-2553 -21952 -767 [red] respawn near ramp room
+-2806 -21952 -809 [red] respawn near ramp room
+-3097 -21952 -967 [red] respawn near ramp room
+-2447 -22080 -767 [red] respawn near ramp room
+-2432 -22593 -767 [red] respawn near ramp room
+-1920 -22335 -767 [red] respawn near ramp room
+-1920 -22720 -767 [red] respawn near ramp room
+-1969 -22970 -767 [red] respawn near ramp room
+-1920 -23488 -767 [red] respawn near ramp room
+-2432 -23292 -767 [red] respawn near ramp room
+-1920 -23743 -767 [red] respawn near ramp room
+-1920 -24187 -767 [red] respawn near ramp room
+-2432 -23921 -767 [red] respawn near ramp room
+-2622 -24574 -767 [red] respawn near ramp room
+-2773 -24725 -767 [red] respawn near ramp room
+-3072 -25407 -767 [red] respawn near ramp room
+-3549 -24873 -767 [red] respawn near ramp room
+-4266 -24853 -767 [red] respawn near ramp room
+-4058 -25407 -767 [red] respawn near ramp room
+-4675 -24444 -767 [red] respawn near ramp room
+-4751 -24383 -767 [red] respawn near ramp room
+-4735 -23911 -767 [red] respawn near ramp room
+-5247 -24318 -767 [red] respawn near ramp room
+-5247 -23741 -767 [red] respawn near ramp room
+-4735 -23336 -767 [red] respawn near ramp room
+-5247 -22949 -767 [red] respawn near ramp room
+-4735 -22598 -767 [red] respawn near ramp room
+-4689 -21952 -767 [red] respawn near ramp room
+-5247 -22080 -767 [red] respawn near ramp room
+-4245 -21986 -895 [red] respawn near ramp room
+-3676 -18183 -1855 [red] ramp room
+-4095 -18239 -1855 [red] ramp room
+-4095 -18178 -1855 [red] ramp room
+1919 -17255 -1855 [red] ramp room
+1907 -16707 -1855 [red] ramp room
+4229 -15581 -1855 [red] water entrance
+4278 -15162 -1855 [red] water entrance
+4290 -14744 -1855 [red] water entrance
+5760 -15808 -2367 [red] water entrance
+5760 -15554 -2367 [red] water entrance
+4224 -13760 -2943 [red] water entrance
+5247 -13670 -2943 [red] water entrance
+5247 -13388 -2943 [red] water entrance
+5247 -12945 -2943 [red] water entrance
+383 -4352 -2943 [red] water entrance
+383 -3805 -2943 [red] water entrance
+383 -3435 -2943 [red] water entrance
+383 -2962 -2943 [red] water entrance
+383 -2417 -2943 [red] water entrance
+383 -1959 -2943 [red] water entrance
+353 -1522 -2934 [red] water entrance
+358 -1338 -2937 [red] water entrance
+55 -971 -2943 [red] water entrance
+221 -687 -3015 water
+-222 -763 -3007 water
+-383 -991 -2943 [red] water entrance
+-383 -1069 -2943 [red] water entrance
+-383 -1469 -2943 [red] water entrance
+-383 -1947 -2943 [red] water entrance
+-383 -2341 -2943 [red] water entrance
+-383 -2816 -2943 [red] water entrance
+-383 -3209 -2943 [red] water entrance
+-383 -3602 -2943 [red] water entrance
+-383 -6008 -2943 [red] water entrance
+-383 -6413 -2943 [red] water entrance
+-383 -6903 -2943 [red] water entrance
+-323 -7283 -2943 [red] water entrance
+804 -8420 -2943 [red] water entrance
+1087 -8703 -2943 [red] water entrance
+1371 -8987 -2943 [red] water entrance
+1652 -9268 -2943 [red] water entrance
+1935 -9551 -2943 [red] water entrance
+2273 -9888 -2943 [red] water entrance
+2556 -10172 -2943 [red] water entrance
+2810 -10426 -2943 [red] water entrance
+3222 -10838 -2943 [red] water entrance
+3510 -11125 -2943 [red] water entrance
+3887 -11503 -2943 [red] water entrance
+4358 -11847 -2943 [red] water entrance
+4480 -12184 -2943 [red] water entrance
+4480 -12716 -2943 [red] water entrance
+5833 -13922 -2943 [red] water entrance
+6203 -13760 -2943 [red] water entrance
+5760 -14973 -2367 [red] water entrance
+6016 -15807 -2559 [red] water entrance
+6600 -15807 -2433 [red] water entrance
+6911 -15090 -2027 [red] water entrance
+6825 -14889 -2279 [red] water entrance
+6837 -14472 -2431 [red] water entrance
+6646 -14399 -2943 [red] water entrance
+6911 -13872 -2943 [red] water entrance
+6745 -13760 -2943 [red] water entrance
+4224 -13760 -2226 [red] water entrance
+4285 -14522 -1855 [red] water entrance
+3839 -15295 -1855 [red] ramp room
+3839 -12607 -1855 [red] ramp room
+3622 -12607 -1855 [red] ramp room
+3388 -12607 -1855 [red] ramp room
+3172 -12607 -1855 [red] ramp room
+2248 -13072 -1855 [red] ramp room
+2516 -12607 -1855 [red] ramp room
+2751 -12607 -1855 [red] ramp room
+3839 -12060 -1855 [red] ramp room
+3819 -11617 -1855 [red] ramp room
+3791 -11224 -1855 [red] ramp room
+3869 -10836 -1855 [red] ramp room
+4245 -10633 -1855 [red] entrance
+3733 -10298 -1855 [red] ramp room
+3794 -10277 -1855 [red] entrance
+3599 -9871 -1855 [red] ramp room
+3724 -9687 -1855 [red] entrance
+3417 -9344 -1855 [red] ramp room
+3359 -9151 -1855 [red] entrance
+3351 -9152 -1855 [red] ramp room
+3468 -8752 -1855 [red] entrance
+2751 -9152 -1855 [red] ramp room
+953 -9872 -1855 [red] ramp room
+952 -9975 -1855 [red] ramp room
+1096 -10322 -1855 [red] ramp room
+586 -10688 -1855 [red] ramp room
+374 -10543 -1355 [red] left ramp
+573 -10536 -1268 [red] left ramp
+-25 -10688 -1855 [red] ramp room
+-396 -10688 -1855 [red] ramp room
+-468 -10583 -1724 [red] left ramp
+-594 -10623 -1779 [red] left ramp
+-827 -10471 -1855 [red] ramp room
+-614 -9955 -1788 [red] left ramp
+-774 -9893 -1855 [red] ramp room
+-620 -9714 -1791 [red] left ramp
+-740 -9560 -1843 [red] ramp room
+-718 -9356 -1834 [red] ramp room
+-630 -9330 -1795 [red] left ramp
+-634 -9152 -1797 [red] left ramp
+-1140 -9152 -1855 [red] ramp room
+-1761 -9152 -1855 [red] ramp room
+-2317 -9152 -1855 [red] ramp room
+-2819 -9152 -1855 [red] ramp room
+-3125 -9152 -1855 [red] ramp room
+-3382 -9510 -1855 [red] ramp room
+-3623 -10013 -1855 [red] ramp room
+-3852 -10518 -1855 [red] ramp room
+-4080 -11027 -1855 [red] ramp room
+-4145 -11175 -1855 [red] ramp room
+-4095 -11867 -1855 [red] ramp room
+-4095 -12424 -1855 [red] ramp room
+-4095 -12982 -1855 [red] ramp room
+-4095 -13542 -1855 [red] ramp room
+-4095 -14098 -1855 [red] ramp room
+-4095 -14221 -1855 [red] ramp room
+-4095 -14438 -1855 [red] ramp room
+-4095 -15003 -1855 [red] ramp room
+-4095 -15449 -1855 [red] ramp room
+-4095 -16121 -1855 [red] ramp room
+-107 -18239 -1855 [red] ramp room
+483 -18239 -1855 [red] ramp room
+1076 -18239 -1855 [red] ramp room
+1390 -18239 -1855 [red] ramp room
+1317 -17720 -1855 [red] ramp room
+3327 -15682 -1855 [red] ramp room
+3839 -14831 -1855 [red] ramp room
+3652 -12861 -511 [red] ramp room
+3839 -9337 -511 [red] ramp room
+3433 -9152 -511 [red] ramp room
+3022 -9152 -511 [red] ramp room
+2786 -9152 -511 [red] ramp room
+2450 -9152 -511 [red] left ramp
+2280 -9152 -522 [red] left ramp
+2063 -9152 -602 [red] left ramp
+389 -9152 -1349 [red] left ramp
+9 -9152 -1515 [red] left ramp
+-254 -9152 -1620 [red] left ramp
+-467 -9152 -1724 [red] left ramp
+2449 -9454 -511 [red] left ramp
+2444 -10064 -511 [red] left ramp
+2438 -10425 -511 [red] left ramp
+2436 -10490 -511 [red] left ramp
+2112 -10496 -595 [red] left ramp
+1683 -10504 -783 [red] left ramp
+1396 -10511 -908 [red] left ramp
+1016 -10522 -1075 [red] left ramp
+81 -10557 -1484 [red] left ramp
+-609 -10157 -1786 [red] left ramp
+-366 -8255 -1855 [red] entrance
+-1068 -8255 -1855 [red] entrance
+-1600 -8255 -1855 [red] entrance
+-2323 -8255 -1855 [red] entrance
+-2863 -8255 -1855 [red] entrance
+-3461 -8255 -1855 [red] entrance
+-3584 -8778 -1855 [red] entrance
+-3659 -8760 -1855 [red] entrance
+-3729 -8774 -1855 [red] entrance
+-4021 -8398 -1855 [red] entrance
+-4381 -8759 -1855 [red] entrance
+-4938 -8747 -1855 [red] entrance
+159 -8255 -1855 [red] entrance
+855 -8255 -1855 [red] entrance
+1375 -8255 -1855 [red] entrance
+1941 -8255 -1855 [red] entrance
+2548 -8255 -1855 [red] entrance
+2795 -8255 -1855 [red] entrance
+2840 -8255 -1855 [red] entrance
+3350 -8406 -1855 [red] entrance
+4767 -10676 -1855 [red] entrance
+4889 -10662 -1855 [red] entrance
+5108 -10443 -1855 [red] entrance
+5389 -10021 -1855 [red] entrance
+5649 -9499 -1855 [red] entrance
+5658 -8929 -1855 [red] entrance
+5547 -8382 -1855 [red] entrance
+5353 -7741 -1855 [red] entrance
+5100 -7238 -1855 [red] entrance
+4764 -6784 -1855 [red] entrance
+4195 -6386 -1855 [red] entrance
+3551 -6263 -1855 [red] entrance
+2997 -6255 -1855 [red] entrance
+2439 -6253 -1855 [red] entrance
+1885 -6254 -1855 [red] entrance
+1327 -6250 -1855 [red] entrance
+776 -6236 -1855 [red] entrance
+218 -6218 -1855 [red] entrance
+-338 -6208 -1844 [red] entrance
+-2542 -6208 -1855 [red] entrance
+-3116 -6208 -1855 [red] entrance
+-3585 -6208 -1855 [red] entrance
+-4156 -6249 -1855 [red] entrance
+-1375 -3911 -2173 bridge
+-869 -4135 -2117 bridge
+-308 -4275 -2082 bridge
+261 -4229 -2094 bridge
+1235 -3585 -2239 bridge
+1388 -2351 -2239 bridge
+1316 -1794 -2239 bridge
+1232 -1216 -2239 bridge
+-376 1499 -2911 [blue] water entrance
+129 1414 -2943 [blue] water entrance
+375 1783 -2943 [blue] water entrance
+383 2266 -2943 [blue] water entrance
+383 2583 -2943 [blue] water entrance
+383 4657 -2943 [blue] water entrance
+383 5060 -2943 [blue] water entrance
+383 5463 -2943 [blue] water entrance
+-4419 6528 -703 [blue] balcony right
+-4897 6528 -703 [blue] balcony right
+-5255 6528 -703 [blue] balcony right
+-5375 6528 -703 [blue] balcony right
+75 6528 -703 [blue] balcony left
+146 6528 -703 [blue] balcony left
+316 6528 -703 [blue] balcony left
+601 6528 -703 [blue] balcony left
+77 6853 -703 [blue] balcony left
+1283 8319 -703 [blue] balcony left
+1816 8319 -703 [blue] balcony left
+2353 8319 -703 [blue] balcony left
+2947 8319 -703 [blue] balcony left
+3390 8319 -703 [blue] balcony left
+3969 8319 -703 [blue] balcony left
+4564 8319 -703 [blue] balcony left
+5080 8319 -703 [blue] balcony left
+5499 8191 -703 [blue] balcony left
+6096 8191 -703 [blue] balcony left
+6510 8191 -703 [blue] balcony left
+6572 8183 -703 [blue] balcony left
+6656 8607 -703 [blue] balcony left
+6656 9063 -703 [blue] balcony left
+8274 8576 -703 [blue] balcony left
+8966 8576 1088 [blue] room to balcony
+8926 8665 1088 [blue] room to balcony
+8975 9283 1088 [blue] room to balcony
+9014 9576 1088 [blue] room to balcony
+8710 9852 1088 [blue] room to balcony
+8707 9855 1088 [blue] room to balcony
+9837 9855 1088 [blue] room to balcony
+10402 9855 1088 [blue] room to balcony
+10970 9855 1088 [blue] room to balcony
+11535 9855 1088 [blue] room to balcony
+12104 9855 1088 [blue] room to balcony
+12724 9855 1088 [blue] room to balcony
+13109 9855 1088 [blue] room to balcony
+13448 9863 1088 [blue] room to balcony
+13667 10083 1088 [blue] room to balcony
+13943 10111 1088 [blue] room to balcony
+13696 10880 1088 [blue] above yard
+13719 11381 1088 [blue] above yard
+13815 12171 1099 [blue] above yard
+13374 12608 1088 [blue] above yard
+13363 12900 1088 [blue] above yard
+13358 13319 1088 [blue] above yard
+13405 13486 1088 [blue] above yard
+13830 13360 1088 [blue] above yard
+13393 14144 1088 [blue] above yard
+16006 11776 1541 [blue] respawn near fr
+16000 12074 1433 [blue] respawn near fr
+16000 12639 1216 [blue] respawn near fr
+16041 13227 1088 [blue] respawn near fr
+17651 11904 -955 [blue] flag room
+17618 11953 -966 [blue] flag room
+17659 12130 -952 [blue] flag room
+17634 12244 -961 [blue] flag room
+17659 12685 -952 [blue] flag room
+17632 12803 -961 [blue] flag room
+17647 13185 -956 [blue] flag room
+17676 13807 -946 [blue] flag room
+17573 14295 -982 [blue] flag room
+17697 14468 -938 [blue] flag room
+21266 10368 192 [blue] flag room
+21474 10368 192 [blue] flag room
+21738 10368 192 [blue] flag room
+22544 10368 192 [blue] flag room
+22980 10368 192 [blue] flag room
+23339 10368 192 [blue] flag room
+23894 10368 427 [blue] flag room
+24386 10368 576 [blue] flag room
+24918 10368 576 [blue] flag room
+25464 10368 576 [blue] flag room
+25471 10368 576 [blue] flag room
+25471 10558 576 [blue] flag room
+25646 11054 192 [blue] flag room
+25926 11335 192 [blue] flag room
+26169 11578 192 [blue] flag room
+26552 11948 192 [blue] flag room
+26793 11904 192 [blue] flag room
+27021 11931 192 [blue] flag room
+27201 11904 192 [blue] flag room
+27268 11904 192 [blue] flag room
+27520 11906 192 [blue] flag room
+27525 11914 192 [blue] flag room
+27536 11937 192 [blue] flag room
+27562 11989 192 [blue] flag room
+27682 12229 192 [blue] flag room
+27868 12601 192 [blue] flag room
+28110 13085 192 [blue] flag room
+28287 13551 192 [blue] flag room
+28287 13972 192 [blue] flag room
+28249 14285 192 [blue] flag room
+28148 14485 192 [blue] flag room
+28019 14743 192 [blue] flag room
+27821 15140 192 [blue] flag room
+27611 15560 192 [blue] flag room
+27147 15743 192 [blue] flag room
+26616 15743 192 [blue] flag room
+26430 15808 192 [blue] flag room
+26275 15808 192 [blue] flag room
+26140 16099 192 [blue] flag room
+25691 16548 192 [blue] flag room
+25279 16767 192 [blue] flag room
+24908 16767 192 [blue] flag room
+24098 16767 192 [blue] flag room
+25471 17279 576 [blue] flag room
+25471 17166 576 [blue] flag room
+25471 17278 576 [blue] flag room
+25253 17272 576 [blue] flag room
+21156 12746 192 [blue] flag room
+21143 12814 192 [blue] flag room
+21160 13258 192 [blue] flag room
+21106 13299 192 [blue] flag room
+21068 13852 192 [blue] flag room
+21186 13922 192 [blue] flag room
+21059 14410 192 [blue] flag room
+21205 14480 192 [blue] flag room
+21077 14965 192 [blue] flag room
+21215 15034 192 [blue] flag room
+18703 15743 -579 [blue] flag room
+18364 15743 -658 [blue] flag room
+18005 15743 -783 [blue] flag room
+17627 15743 -940 [blue] flag room
+17453 15743 -1025 [blue] flag room
+17709 14912 -934 [blue] flag room
+17922 11904 -858 [blue] flag room
+18360 11904 -701 [blue] flag room
+18861 11904 -522 [blue] flag room
+19380 11904 -337 [blue] flag room
+19907 11904 -149 [blue] flag room
+20413 11904 31 [blue] flag room
+20969 11904 192 [blue] flag room
+21120 10368 192 [blue] flag room
+21129 10368 192 [blue] flag room
+21120 10592 192 [blue] flag room
+21120 10625 192 [blue] flag room
+21120 10923 192 [blue] flag room
+21120 11145 192 [blue] flag room
+21134 11186 192 [blue] flag room
+21120 11435 192 [blue] flag room
+21174 11633 192 [blue] flag room
+21120 11702 192 [blue] flag room
+21120 11779 192 [blue] flag room
+21039 11904 192 [blue] flag room
+21180 12188 192 [blue] flag room
+21127 12257 192 [blue] flag room
+20800 15743 184 [blue] flag room
+20962 15743 192 [blue] flag room
+20986 15743 192 [blue] flag room
+21113 15519 192 [blue] flag room
+21215 15589 192 [blue] flag room
+21120 16088 192 [blue] flag room
+21120 16731 192 [blue] flag room
+24963 17227 576 [blue] flag room
+24366 17279 576 [blue] flag room
+24084 17279 522 [blue] flag room
+23914 17279 549 [blue] flag room
+23680 17279 320 [blue] flag room
+23507 17279 233 [blue] flag room
+23452 17279 365 [blue] flag room
+23143 17279 192 [blue] flag room
+22982 17279 192 [blue] flag room
+22592 17279 192 [blue] flag room
+22485 17279 192 [blue] flag room
+22057 17279 192 [blue] flag room
+21969 17279 192 [blue] flag room
+21533 17279 192 [blue] flag room
+21452 17279 192 [blue] flag room
+21197 17279 192 [blue] flag room
+21120 17221 192 [blue] flag room
+20520 15743 93 [blue] flag room
+20265 15743 3 [blue] flag room
+19982 15743 -112 [blue] flag room
+19691 15743 -207 [blue] flag room
+19368 15743 -296 [blue] flag room
+19037 15743 -423 [blue] flag room
+17279 18704 1088 [blue] tunnel to fr
+23856 18849 817 [blue] tunnel to fr
+23808 18467 832 [blue] tunnel to fr
+23808 17989 832 [blue] tunnel to fr
+23808 17792 832 [blue] tunnel to fr
+23812 17792 830 [blue] tunnel to fr
+23928 17792 795 [blue] tunnel to fr
+24212 17792 723 [blue] tunnel to fr
+24657 17279 576 [blue] flag room
+24959 17331 576 [blue] flag room
+24872 17792 576 [blue] tunnel to fr
+24959 17791 576 [blue] tunnel to fr
+25215 17792 576 [blue] tunnel to fr
+25215 17803 576 [blue] tunnel to fr
+25215 17976 576 [blue] tunnel to fr
+25215 18358 576 [blue] tunnel to fr
+25215 18855 726 [blue] tunnel to fr
+25215 19199 832 [blue] tunnel to fr
+25208 19199 832 [blue] tunnel to fr
+24993 19199 832 [blue] tunnel to fr
+24595 19199 832 [blue] tunnel to fr
+24148 19199 832 [blue] tunnel to fr
+23838 18944 832 [blue] tunnel to fr
+23685 19199 832 [blue] tunnel to fr
+23482 18944 832 [blue] tunnel to fr
+23187 19199 832 [blue] tunnel to fr
+23008 18944 843 [blue] tunnel to fr
+22666 19199 868 [blue] tunnel to fr
+22433 18944 884 [blue] tunnel to fr
+22270 19199 896 [blue] tunnel to fr
+21950 18944 919 [blue] tunnel to fr
+21633 19199 941 [blue] tunnel to fr
+21469 18944 953 [blue] tunnel to fr
+21084 18944 981 [blue] tunnel to fr
+20999 19199 987 [blue] tunnel to fr
+20596 18944 1015 [blue] tunnel to fr
+20559 19199 1018 [blue] tunnel to fr
+20108 18944 1050 [blue] tunnel to fr
+19971 19199 1060 [blue] tunnel to fr
+19615 18944 1086 [blue] tunnel to fr
+19454 19199 1088 [blue] tunnel to fr
+19176 18944 1088 [blue] tunnel to fr
+18938 19199 1088 [blue] tunnel to fr
+18700 18944 1088 [blue] tunnel to fr
+18471 19199 1088 [blue] tunnel to fr
+18246 18944 1088 [blue] tunnel to fr
+17914 18944 1088 [blue] tunnel to fr
+17849 19199 1088 [blue] tunnel to fr
+17493 18944 1088 [blue] tunnel to fr
+17279 18917 1088 [blue] tunnel to fr
+17329 19199 1088 [blue] tunnel to fr
+17024 19199 1088 [blue] tunnel to fr
+17024 19199 1088 [blue] tunnel to fr
+17024 18973 1088 [blue] tunnel to fr
+17024 18756 1088 [blue] tunnel to fr
+16340 18559 1088 [blue] tunnel to fr
+16096 18526 1088 [blue] tunnel to fr
+16764 18559 1088 [blue] tunnel to fr
+16912 18559 1088 [blue] tunnel to fr
+17279 18440 1088 [blue] tunnel to fr
+17279 18313 1088 [blue] tunnel to fr
+17279 18304 1088 [blue] tunnel to fr
+17279 18304 1088 [blue] tunnel to fr
+16940 18304 1088 [blue] tunnel to fr
+16861 18304 1088 [blue] tunnel to fr
+16449 18304 1088 [blue] tunnel to fr
+16321 18304 1088 [blue] tunnel to fr
+16108 18304 1088 [blue] tunnel to fr
+15957 13805 1104 [blue] respawn near fr
+16195 11776 1344 [blue] respawn near fr
+16714 11776 1344 [blue] respawn near fr
+17195 11776 1344 [blue] respawn near fr
+17663 11776 1344 [blue] respawn near fr
+17949 11904 1431 [blue] respawn near fr
+17975 11904 1440 [blue] respawn near fr
+18337 11904 1551 [blue] respawn near fr
+18901 11904 1724 [blue] respawn near fr
+19327 11904 1856 [blue] respawn near fr
+19327 11926 1856 [blue] respawn near fr
+19327 12220 1856 [blue] respawn near fr
+19327 12806 1856 [blue] respawn near fr
+19327 13452 1856 [blue] respawn near fr
+19327 14123 1856 [blue] respawn near fr
+19327 14890 1856 [blue] respawn near fr
+19327 15571 1856 [blue] respawn near fr
+19327 15743 1856 [blue] respawn near fr
+19321 15743 1854 [blue] respawn near fr
+19043 15743 1812 [blue] respawn near fr
+18720 15743 1695 [blue] respawn near fr
+18232 15743 1532 [blue] respawn near fr
+17804 15743 1441 [blue] respawn near fr
+17279 15832 1344 [blue] respawn near fr
+16731 15871 1344 [blue] respawn near fr
+16052 15871 1344 [blue] respawn near fr
+16000 14976 1306 [blue] respawn near fr
+16000 15035 1315 [blue] respawn near fr
+16000 15570 1344 [blue] respawn near fr
+16000 15592 1344 [blue] respawn near fr
+16000 15826 1344 [blue] respawn near fr
+16001 15871 1344 [blue] respawn near fr
+14633 16264 1088 [blue] above yard
+14464 16265 1088 [blue] above yard
+14246 16072 1088 [blue] above yard
+14183 16255 1088 [blue] above yard
+13988 16255 1088 [blue] above yard
+13734 16255 1088 [blue] above yard
+13696 16255 1088 [blue] above yard
+13696 16090 1088 [blue] above yard
+13696 15774 1088 [blue] above yard
+13696 15680 1088 [blue] above yard
+13802 15300 1116 [blue] above yard
+13438 15039 1088 [blue] above yard
+13400 14998 1088 [blue] above yard
+13382 14906 1088 [blue] above yard
+13383 14520 1088 [blue] above yard
+13778 14170 1088 [blue] above yard
+13786 14144 1088 [blue] above yard
+13857 12625 1088 [blue] above yard
+13895 12358 1088 [blue] above yard
+13877 10880 1088 [blue] above yard
+14212 10880 1088 [blue] above yard
+14794 10880 1088 [blue] above yard
+15837 13440 1104 [blue] respawn near fr
+16000 14576 1132 [blue] respawn near fr
+16000 14378 1105 [blue] respawn near fr
+14916 16261 1088 [blue] above yard
+15121 16255 1088 [blue] above yard
+15391 16255 1088 [blue] above yard
+15487 16255 1088 [blue] above yard
+15487 16253 1088 [blue] above yard
+15487 15648 1088 [blue] above yard
+15487 15187 1088 [blue] above yard
+15487 14715 1088 [blue] above yard
+15225 14330 1088 [blue] above yard
+15510 14207 1088 [blue] above yard
+15568 13440 1104 [blue] above yard
+15487 13411 1088 [blue] above yard
+15487 12992 1088 [blue] above yard
+15487 12845 1088 [blue] above yard
+15487 12653 1088 [blue] above yard
+15487 12279 1088 [blue] above yard
+15487 12085 1088 [blue] above yard
+15487 11732 1088 [blue] above yard
+15487 11592 1088 [blue] above yard
+15487 11521 1088 [blue] above yard
+15487 11402 1088 [blue] above yard
+15487 10939 1088 [blue] above yard
+15314 10880 1088 [blue] above yard
+9273 9855 1088 [blue] room to balcony
+15058 9171 1088 [blue] room to balcony
+15457 9569 1088 [blue] room to balcony
+15487 9929 1088 [blue] room to balcony
+15487 10111 1088 [blue] room to balcony
+15487 10111 1088 [blue] room to balcony
+15487 10111 1088 [blue] room to balcony
+15162 10111 1088 [blue] room to balcony
+15083 10113 1088 [blue] room to balcony
+14661 10131 1088 [blue] room to balcony
+14464 10119 1088 [blue] room to balcony
+14729 8841 1088 [blue] room to balcony
+14443 8576 1088 [blue] room to balcony
+13786 8576 1088 [blue] room to balcony
+13117 8576 1088 [blue] room to balcony
+12454 8576 1088 [blue] room to balcony
+11787 8576 1088 [blue] room to balcony
+11195 8576 1088 [blue] room to balcony
+10534 8576 1088 [blue] room to balcony
+9875 8576 1088 [blue] room to balcony
+9276 8576 1088 [blue] room to balcony
+8445 8984 -671 [blue] balcony left
+8446 9427 -671 [blue] balcony left
+8398 9855 -671 [blue] balcony left
+5503 8319 -703 [blue] balcony left
+5489 8319 -703 [blue] balcony left
+8447 8576 -671 [blue] balcony left
+8447 8576 -671 [blue] balcony left
+8068 8576 -703 [blue] balcony left
+8019 8576 -703 [blue] balcony left
+7871 8576 -703 [blue] balcony left
+7841 8576 -703 [blue] balcony left
+7551 7996 -703 [blue] balcony left
+7551 7601 -703 [blue] balcony left
+7551 7559 -703 [blue] balcony left
+7551 7554 -703 [blue] balcony left
+7551 7552 -703 [blue] balcony left
+6897 7552 -703 [blue] balcony left
+6444 7552 -703 [blue] balcony left
+5937 7552 -703 [blue] balcony left
+5710 7582 -703 [blue] balcony left
+5392 7593 -703 [blue] balcony left
+5375 7439 -703 [blue] balcony left
+5375 7155 -703 [blue] balcony left
+5375 7087 -703 [blue] balcony left
+5375 6847 -703 [blue] balcony left
+5375 6528 -703 [blue] balcony left
+4672 6528 -689 [blue] balcony left
+4204 6528 -639 [blue] balcony left
+3620 6528 -639 [blue] balcony left
+3026 6528 -639 [blue] balcony left
+2437 6528 -639 [blue] balcony left
+1718 6528 -639 [blue] balcony left
+1114 6528 -703 [blue] balcony left
+82 7007 -703 [blue] balcony left
+-196 7142 -703 [blue] balcony right
+-2036 8319 -703 [blue] balcony right
+-2679 8319 -703 [blue] balcony right
+-3280 8319 -703 [blue] balcony right
+-3673 8319 -703 [blue] balcony right
+-4224 8486 -703 [blue] balcony right
+-4224 8953 -703 [blue] balcony right
+-5375 6528 -703 [blue] balcony right
+-3989 6528 -639 [blue] balcony right
+-5375 6771 -703 [blue] balcony right
+-5375 7377 -703 [blue] balcony right
+-5375 7928 -703 [blue] balcony right
+-5375 8403 -703 [blue] balcony right
+-5375 8802 -703 [blue] balcony right
+-4637 8977 -703 [blue] balcony right
+-5191 13787 -511 [blue] balcony right
+-5375 13796 -511 [blue] balcony right
+-5375 13775 -511 [blue] balcony right
+-5375 13452 -511 [blue] balcony right
+-5375 12956 -511 [blue] balcony right
+-5375 12396 -531 [blue] balcony right
+-5375 11837 -611 [blue] balcony right
+-5375 11274 -688 [blue] balcony right
+-5375 10701 -703 [blue] balcony right
+-5375 10125 -703 [blue] balcony right
+-5375 9711 -703 [blue] balcony right
+-5375 9017 -703 [blue] balcony right
+-5375 8975 -703 [blue] balcony right
+-5190 9007 -703 [blue] balcony right
+-4224 8678 -703 [blue] balcony right
+-4224 8742 -703 [blue] balcony right
+-4224 8953 -703 [blue] balcony right
+-4224 9084 -703 [blue] balcony right
+-4468 13801 -511 [blue] balcony right
+-4224 13823 -511 [blue] balcony right
+-4224 13823 -511 [blue] balcony right
+-4231 13290 -511 [blue] balcony right
+-4224 12661 -513 [blue] balcony right
+-4224 12108 -588 [blue] balcony right
+-4224 9705 -703 [blue] balcony right
+-4224 9506 -703 [blue] balcony right
+-3239 6528 -639 [blue] balcony right
+-2586 6528 -639 [blue] balcony right
+-1944 6528 -639 [blue] balcony right
+-1568 6622 -639 [blue] balcony right
+-1322 6528 -641 [blue] balcony right
+-694 6528 -703 [blue] balcony right
+-240 6528 -703 [blue] balcony right
+-223 6775 -703 [blue] balcony right
+-1564 8319 -703 [blue] balcony right
+-1030 8319 -703 [blue] balcony right
+-535 8319 -703 [blue] balcony right
+-316 8319 -703 [blue] balcony left
+-202 8319 -703 [blue] balcony right
+-121 8319 -703 [blue] balcony right
+141 8319 -703 [blue] balcony left
+215 8319 -703 [blue] balcony left
+748 8319 -703 [blue] balcony left
+98 9216 -1562 [blue] left ramp
+-462 9216 -1317 [blue] left ramp
+-1020 9216 -1073 [blue] left ramp
+-1467 9216 -877 [blue] left ramp
+-2028 9216 -632 [blue] left ramp
+-2695 9216 -511 [blue] left ramp
+-3253 9222 -511 [blue] left ramp
+-4224 9205 -703 [blue] balcony right
+-3817 9312 -511 [blue] left ramp
+-3839 9720 -511 [blue] left ramp
+-4224 10105 -703 [blue] balcony right
+-4224 10245 -703 [blue] balcony right
+-3839 10306 -511 [blue] left ramp
+-4224 10701 -703 [blue] balcony right
+-4224 10747 -703 [blue] balcony right
+-3839 10883 -511 [blue] left ramp
+-4224 11386 -687 [blue] balcony right
+-4224 11415 -683 [blue] balcony right
+-3839 11457 -511 [blue] left ramp
+-4224 12020 -600 [blue] balcony right
+-3839 11951 -511 [blue] left ramp
+-3839 12388 -511 [blue] left ramp
+720 10513 -1834 [blue] left ramp
+-264 10571 -1334 [blue] left ramp
+-713 10596 -1122 [blue] left ramp
+-1149 10622 -920 [blue] left ramp
+-1582 10619 -783 [blue] left ramp
+-1995 10554 -564 [blue] left ramp
+-2381 10413 -511 [blue] left ramp
+-2435 10947 -511 [blue] left ramp
+-2426 11505 -511 [blue] left ramp
+-2418 12059 -511 [blue] left ramp
+-3834 12799 -511 [blue] ramp room
+-3596 12501 -511 [blue] left ramp
+-3442 12777 -511 [blue] ramp room
+-3047 12563 -511 [blue] left ramp
+-2999 12753 -511 [blue] ramp room
+-2415 12561 -511 [blue] left ramp
+-2441 12736 -511 [blue] ramp room
+-1887 12735 -511 [blue] ramp room
+-1329 12743 -511 [blue] ramp room
+-775 12751 -511 [blue] ramp room
+-217 12753 -511 [blue] ramp room
+337 12745 -511 [blue] ramp room
+891 12729 -511 [blue] ramp room
+1337 12714 -511 [blue] ramp room
+1948 12691 -511 [blue] ramp room
+2503 12672 -511 [blue] ramp room
+3057 12665 -511 [blue] ramp room
+3545 12691 -511 [blue] ramp room
+3783 12724 -511 [blue] ramp room
+3877 13154 -511 [blue] ramp room
+3935 13611 -511 [blue] ramp room
+3613 13810 -511 [blue] ramp room
+3674 14242 -511 [blue] ramp room
+3755 14794 -511 [blue] ramp room
+3823 15232 -529 [blue] ramp room
+3938 15948 -728 [blue] ramp room
+4044 16510 -842 [blue] ramp room
+4095 17308 -1023 [blue] ramp room
+4092 17868 -1023 [blue] ramp room
+4025 18303 -1023 [blue] ramp room
+3881 18303 -1023 [blue] ramp room
+3394 18303 -1023 [blue] ramp room
+3008 18303 -1023 [blue] ramp room
+2673 18175 -1023 [blue] ramp room
+655 18118 -1023 [blue] ramp room
+147 18303 -1023 [blue] ramp room
+-383 18303 -1023 [blue] ramp room
+-1166 18303 -1260 [blue] ramp room
+-1525 17767 -1855 [blue] ramp room
+-1919 17791 -1855 [blue] ramp room
+-1919 17756 -1855 [blue] ramp room
+-1917 17379 -1855 [blue] ramp room
+-1870 16754 -1855 [blue] ramp room
+-1958 16161 -1855 [blue] ramp room
+-2815 16358 -1855 [blue] ramp room
+-2451 15921 -1855 [blue] ramp room
+-3042 15739 -1855 [blue] ramp room
+-3672 14853 -1855 [blue] ramp room
+-3459 13952 -1855 [blue] ramp room
+-3327 13440 -1855 [blue] ramp room
+-3218 13440 -1855 [blue] ramp room
+-3068 13806 -1855 [blue] ramp room
+-2428 14205 -1855 [blue] ramp room
+-2261 14154 -1855 [blue] ramp room
+-2988 13514 -1855 [blue] ramp room
+-2172 13073 -1855 [blue] ramp room
+-2413 12671 -1855 [blue] ramp room
+-2754 12671 -1855 [blue] ramp room
+-3327 12671 -1855 [blue] ramp room
+-2761 9258 -1855 [blue] ramp room
+-2246 9216 -1855 [blue] ramp room
+-1683 9216 -1855 [blue] ramp room
+-1012 9226 -1855 [blue] ramp room
+654 9216 -1806 [blue] left ramp
+765 9216 -1831 [blue] ramp room
+1278 9216 -1855 [blue] ramp room
+1874 9216 -1855 [blue] ramp room
+2339 9216 -1855 [blue] ramp room
+2913 9216 -1855 [blue] ramp room
+3455 9216 -1855 [blue] ramp room
+3455 9216 -1855 [blue] ramp room
+3455 9216 -1855 [blue] ramp room
+3455 9216 -1855 [blue] ramp room
+3455 9216 -1855 [blue] ramp room
+3639 9217 -1855 [blue] ramp room
+4032 9225 -1855 [blue] ramp room
+4475 9236 -1855 [blue] ramp room
+5033 9251 -1855 [blue] ramp room
+5587 9279 -1855 [blue] ramp room
+3898 11443 -1855 [blue] ramp room
+4095 17564 -1855 [blue] ramp room
+4095 18303 -1855 [blue] ramp room
+4095 18303 -1855 [blue] ramp room
+2673 18175 -1023 [blue] ramp room
+3008 18190 -1023 [blue] ramp room
+3132 18303 -1855 [blue] ramp room
+2508 18303 -1855 [blue] ramp room
+517 9431 -1746 [blue] left ramp
+585 9839 -1775 [blue] left ramp
+193 10548 -1483 [blue] left ramp
+-952 9238 -1855 [blue] ramp room
+-974 9439 -1855 [blue] ramp room
+-953 9577 -1855 [blue] ramp room
+-1011 10106 -1855 [blue] ramp room
+-1196 10749 -1855 [blue] ramp room
+-3257 9714 -1855 [blue] ramp room
+-3689 10110 -1855 [blue] ramp room
+-3856 10426 -1855 [blue] ramp room
+-3815 11214 -1855 [blue] ramp room
+-3834 11769 -1855 [blue] ramp room
+-3839 12323 -1855 [blue] ramp room
+-3839 12668 -1855 [blue] ramp room
+-4480 12766 -2943 [blue] water entrance
+-4370 11832 -2943 [blue] water entrance
+-3956 11561 -2943 [blue] water entrance
+-3641 11321 -2943 [blue] water entrance
+-3336 11016 -2943 [blue] water entrance
+-3055 10735 -2943 [blue] water entrance
+-2775 10455 -2943 [blue] water entrance
+-2552 10232 -2943 [blue] water entrance
+-2215 9895 -2943 [blue] water entrance
+-1936 9616 -2943 [blue] water entrance
+-1655 9335 -2943 [blue] water entrance
+-1509 9189 -2943 [blue] water entrance
+-1258 8938 -2943 [blue] water entrance
+-978 8658 -2943 [blue] water entrance
+-644 8324 -2943 [blue] water entrance
+-363 8043 -2943 [blue] water entrance
+-86 7766 -2943 [blue] water entrance
+186 7481 -2943 [blue] water entrance
+383 7163 -2943 [blue] water entrance
+383 6694 -2943 [blue] water entrance
+383 6281 -2943 [blue] water entrance
+383 5870 -2943 [blue] water entrance
+-383 1715 -2923 [blue] water entrance
+-383 2091 -2943 [blue] water entrance
+-383 2609 -2943 [blue] water entrance
+-383 2945 -2943 [blue] water entrance
+-383 3445 -2943 [blue] water entrance
+-383 3780 -2943 [blue] water entrance
+-383 4280 -2943 [blue] water entrance
+-383 4781 -2943 [blue] water entrance
+-383 5196 -2943 [blue] water entrance
+-383 5613 -2943 [blue] water entrance
+-383 6029 -2943 [blue] water entrance
+-383 6471 -2943 [blue] water entrance
+-580 6888 -2943 [blue] water entrance
+-1050 7201 -2943 [blue] water entrance
+-1359 7504 -2943 [blue] water entrance
+-1675 7825 -2943 [blue] water entrance
+-2038 8183 -2943 [blue] water entrance
+-2409 8554 -2943 [blue] water entrance
+-2772 8916 -2943 [blue] water entrance
+-3135 9279 -2943 [blue] water entrance
+-3510 9654 -2943 [blue] water entrance
+-3956 10100 -2943 [blue] water entrance
+-4325 10470 -2943 [blue] water entrance
+-4695 10839 -2943 [blue] water entrance
+-5082 11230 -2943 [blue] water entrance
+-5247 11562 -2943 [blue] water entrance
+-4480 12241 -2943 [blue] water entrance
+-5247 12371 -2943 [blue] water entrance
+-5247 12773 -2943 [blue] water entrance
+-5247 13172 -2943 [blue] water entrance
+-4224 14453 -2943 [blue] water entrance
+-4261 14463 -2943 [blue] water entrance
+-4528 14463 -2943 [blue] water entrance
+-4900 14463 -2943 [blue] water entrance
+-5426 14463 -2943 [blue] water entrance
+-5903 14463 -2943 [blue] water entrance
+-6371 14463 -2943 [blue] water entrance
+-6768 14447 -2943 [blue] water entrance
+-6368 13824 -2943 [blue] water entrance
+-6846 13824 -2943 [blue] water entrance
+-6911 13824 -2943 [blue] water entrance
+-6911 14155 -2943 [blue] water entrance
+-6911 14463 -2943 [blue] water entrance
+-6911 14660 -2431 [blue] water entrance
+-6911 14996 -2431 [blue] water entrance
+-6911 15557 -2431 [blue] water entrance
+-6904 15871 -2431 [blue] water entrance
+-6665 15871 -2431 [blue] water entrance
+-6097 15871 -2547 [blue] water entrance
+-6016 15868 -2559 [blue] water entrance
+-6016 15871 -2559 [blue] water entrance
+-5760 15695 -2367 [blue] water entrance
+-5921 15871 -2258 [blue] water entrance
+-5600 15871 -1855 [blue] water entrance
+-5570 15871 -1855 [blue] water entrance
+-5003 15871 -1855 [blue] water entrance
+-4432 15871 -1855 [blue] water entrance
+-4224 15854 -1855 [blue] water entrance
+-3788 13952 -1855 [blue] ramp room
+-3821 13952 -1855 [blue] ramp room
+-3839 13952 -1855 [blue] ramp room
+-5835 13824 -2943 [blue] water entrance
+-5332 14161 -2943 [blue] water entrance
+-5390 13824 -2943 [blue] water entrance
+-5247 13646 -2943 [blue] water entrance
+-4670 13820 -2935 [blue] water entrance
+-4357 13887 -2943 [blue] water entrance
+-4224 14116 -2943 [blue] water entrance
+-4224 14254 -1873 [blue] water entrance
+-3839 14325 -1855 [blue] ramp room
+-4224 14796 -1855 [blue] water entrance
+-4224 15120 -1855 [blue] water entrance
+-4224 15616 -1855 [blue] water entrance
+-4224 15854 -1855 [blue] water entrance
+-1407 18135 -1855 [blue] ramp room
+-1407 18303 -1855 [blue] ramp room
+-1334 18303 -1783 [blue] ramp room
+-1209 18303 -1855 [blue] ramp room
+-749 18303 -1855 [blue] ramp room
+-40 18303 -1855 [blue] ramp room
+563 18303 -1855 [blue] ramp room
+1168 18303 -1855 [blue] ramp room
+1899 18303 -1855 [blue] ramp room
+3008 18303 -1023 [blue] ramp room
+5247 22307 -767 [blue] respawn near ramp room
+4780 23014 -767 [blue] respawn near ramp room
+3996 23790 -1023 [blue] respawn near ramp room
+4306 24355 -895 [blue] respawn near ramp room
+3846 25211 -597 [blue] respawn near ramp room
+4180 24875 -728 [blue] respawn near ramp room
+3803 24830 -768 [blue] respawn near ramp room
+3311 25471 -767 [blue] respawn near ramp room
+3133 25022 -767 [blue] respawn near ramp room
+2319 24447 -767 [blue] respawn near ramp room
+1920 24224 -767 [blue] respawn near ramp room
+2076 23807 -767 [blue] respawn near ramp room
+1920 23552 -767 [blue] respawn near ramp room
+1920 23025 -767 [blue] respawn near ramp room
+2067 22957 -767 [blue] respawn near ramp room
+1934 22784 -767 [blue] respawn near ramp room
+1922 22399 -767 [blue] respawn near ramp room
+1950 22399 -767 [blue] respawn near ramp room
+4039 23268 -930 [blue] respawn near ramp room
+4422 23068 -780 [blue] respawn near ramp room
+4557 22508 -793 [blue] respawn near ramp room
+4735 22027 -767 [blue] respawn near ramp room
+4310 22064 -895 [blue] respawn near ramp room
+4146 22033 -851 [blue] respawn near ramp room
+3756 22095 -1023 [blue] respawn near ramp room
+3198 22117 -882 [blue] respawn near ramp room
+3129 22054 -1023 [blue] respawn near ramp room
+2642 22137 -769 [blue] respawn near ramp room
+2565 22047 -770 [blue] respawn near ramp room
+2462 22144 -767 [blue] respawn near ramp room
+2144 22144 -767 [blue] respawn near ramp room
+2035 22144 -767 [blue] respawn near ramp room
+1966 22144 -767 [blue] respawn near ramp room
+1920 22144 -767 [blue] respawn near ramp room
+1254 19888 -1023 [blue] path to ramps
+1088 19543 -1023 [blue] path to ramps
+1088 19003 -1023 [blue] path to ramps
+1088 18792 -1023 [blue] path to ramps
+1181 18448 -1023 [blue] path to ramps
+1217 18087 -1023 [blue] ramp room
+1320 18200 -1023 [blue] path to ramps
+1774 18118 -1023 [blue] ramp room
+1790 18247 -1023 [blue] path to ramps
+2327 18153 -1023 [blue] ramp room
+2231 18291 -1023 [blue] path to ramps
+2495 18724 -1023 [blue] path to ramps
+2495 19283 -1023 [blue] path to ramps
+2495 19726 -1023 [blue] path to ramps
+2780 19968 -1023 [blue] path to ramps
+2943 19968 -1023 [blue] path to ramps
+2943 20035 -1023 [blue] path to ramps
+3296 20395 -1023 [blue] path to ramps
+3357 20226 -1023 [blue] path to ramps
+3603 20285 -1023 [blue] path to ramps
+4019 20224 -1023 [blue] path to ramps
+4423 20021 -1023 [blue] path to ramps
+4537 19655 -1023 [blue] path to ramps
+4781 19411 -1023 [blue] path to ramps
+5201 18990 -1023 [blue] path to ramps
+5609 18816 -1023 [blue] path to ramps
+6071 18816 -1023 [blue] path to ramps
+6677 18816 -1023 [blue] path to ramps
+7152 19147 -991 [blue] path to ramps
+7140 19644 -991 [blue] path to ramps
+6181 20095 -1023 [blue] path to ramps
+3684 22044 -1023 [blue] respawn near ramp room
+640 21503 -1023 [blue] path to ramps
+640 19968 -1023 [blue] path to ramps
+640 20080 -1023 [blue] path to ramps
+640 20255 -1023 [blue] path to ramps
+640 21503 -1023 [blue] path to ramps
+640 21502 -1023 [blue] path to ramps
+640 21375 -1023 [blue] path to ramps
+640 21328 -1023 [blue] path to ramps
+640 20938 -1023 [blue] path to ramps
+640 20828 -1023 [blue] path to ramps
+640 20601 -1023 [blue] path to ramps
+660 20322 -1023 [blue] path to ramps
+773 19968 -1023 [blue] path to ramps
+1031 21503 -1023 [blue] path to ramps
+1219 21503 -1023 [blue] path to ramps
+1626 21503 -1023 [blue] path to ramps
+1812 21503 -1023 [blue] path to ramps
+2223 21503 -1023 [blue] path to ramps
+2766 21503 -1023 [blue] path to ramps
+3200 21540 -1007 [blue] path to ramps
+3249 21526 -1023 [blue] path to ramps
+3693 21507 -1023 [blue] path to ramps
+4363 21503 -1023 [blue] path to ramps
+4920 21503 -1023 [blue] path to ramps
+5424 21503 -1023 [blue] path to ramps
+5987 21503 -1023 [blue] path to ramps
+6390 21503 -1023 [blue] path to ramps
+6399 21503 -1023 [blue] path to ramps
+6399 21195 -1023 [blue] path to ramps
+6399 20681 -1023 [blue] path to ramps
+6314 20283 -1023 [blue] path to ramps
+6676 20095 -1023 [blue] path to ramps
+7138 20095 -991 [blue] path to ramps
+7707 19301 1088 [blue] ramps > above yard
+7683 18816 1088 [blue] ramps > above yard
+7696 18816 1088 [blue] ramps > above yard
+11725 18816 1088 [blue] ramps > above yard
+12388 18816 1088 [blue] ramps > above yard
+13051 18816 1088 [blue] ramps > above yard
+13606 18649 1088 [blue] ramps > above yard
+13764 18491 1088 [blue] ramps > above yard
+13952 18188 1088 [blue] ramps > above yard
+13952 17659 1088 [blue] ramps > above yard
+13952 17091 1088 [blue] ramps > above yard
+15072 17015 1088 [blue] ramps > above yard
+15231 17012 1088 [blue] ramps > above yard
+15743 17024 1088 [blue] ramps > above yard
+15743 17294 1088 [blue] ramps > above yard
+15743 17854 1088 [blue] ramps > above yard
+16096 18304 1088 [blue] tunnel to fr
+15743 18412 1088 [blue] ramps > above yard
+15727 18967 1088 [blue] ramps > above yard
+15341 19473 1088 [blue] ramps > above yard
+14947 19868 1088 [blue] ramps > above yard
+14470 20095 1088 [blue] ramps > above yard
+13882 20095 1088 [blue] ramps > above yard
+13301 20095 1088 [blue] ramps > above yard
+12726 20095 1088 [blue] ramps > above yard
+12265 20095 1088 [blue] ramps > above yard
+11694 20095 1088 [blue] ramps > above yard
+7686 20095 1088 [blue] ramps > above yard
+7690 20091 1088 [blue] ramps > above yard
+8261 20095 1088 [blue] ramps > above yard
+11040 19996 1088 [blue] ramps > above yard
+10665 20095 1088 [blue] ramps > above yard
+9976 20095 1088 [blue] ramps > above yard
+9502 20095 1088 [blue] ramps > above yard
+8831 20095 1088 [blue] ramps > above yard
+8261 19921 1088 [blue] ramps > above yard
+7742 19855 1088 [blue] ramps > above yard
+14517 17024 1088 [blue] ramps > above yard
+14016 17024 1088 [blue] ramps > above yard
+11060 18816 1088 [blue] ramps > above yard
+10524 18816 1088 [blue] ramps > above yard
+9860 18816 1088 [blue] ramps > above yard
+9202 18816 1088 [blue] ramps > above yard
+8575 18816 1088 [blue] ramps > above yard
+8026 18816 1088 [blue] ramps > above yard
+7167 18816 -991 [blue] path to ramps
+654 10524 -1806 [blue] left ramp
+4095 17134 -1855 [blue] ramp room
+4095 16554 -1855 [blue] ramp room
+4095 15928 -1855 [blue] ramp room
+4095 15354 -1855 [blue] ramp room
+4095 14675 -1855 [blue] ramp room
+4095 14109 -1855 [blue] ramp room
+4095 13527 -1855 [blue] ramp room
+4095 12935 -1855 [blue] ramp room
+4095 12314 -1855 [blue] ramp room
+4095 11786 -1855 [blue] ramp room
+4123 11250 -1855 [blue] ramp room
+4783 10920 -1855 [blue] ramp room
+5285 10585 -1855 [blue] ramp room
+5635 10103 -1855 [blue] ramp room
+7551 8091 -703 [blue] balcony left
+7551 8626 -703 [blue] balcony left
+7551 8688 -703 [blue] balcony left
+7862 8662 -703 [blue] balcony left
+8353 9855 -693 [blue] balcony left
+10946 10948 -639 [blue] yard
+11501 10966 -639 [blue] yard
+12058 10975 -639 [blue] yard
+12670 10986 -639 [blue] yard
+13183 11539 -605 [blue] yard
+13183 12157 -605 [blue] yard
+13183 12899 -605 [blue] yard
+13183 13386 -605 [blue] yard
+13183 13988 -605 [blue] yard
+13183 14472 -639 [blue] yard
+8170 16742 -626 [blue] yard
+7616 16767 -629 [blue] yard
+6949 16760 -511 [blue] yard
+6400 16606 -511 [blue] yard
+6355 16190 -511 [blue] yard
+6019 15663 -511 [blue] yard
+6016 15232 -511 [blue] yard
+6267 15261 -511 [blue] yard
+6269 15232 -511 [blue] yard
+6274 15148 -511 [blue] yard
+6293 14059 -511 [blue] yard
+6290 13723 -511 [blue] yard
+6285 13169 -511 [blue] yard
+6285 12611 -511 [blue] yard
+6285 12057 -511 [blue] yard
+6289 11499 -511 [blue] yard
+6461 11240 -511 [blue] yard
+8728 10927 -639 [blue] yard
+8796 10880 -639 [blue] yard
+9243 10880 -639 [blue] yard
+9835 10893 -639 [blue] yard
+10127 10479 -639 [blue] right way to fr
+10393 10920 -639 [blue] yard
+10681 10465 -639 [blue] right way to fr
+11239 10453 -639 [blue] right way to fr
+11793 10441 -639 [blue] right way to fr
+12159 10427 -639 [blue] right way to fr
+12150 10110 -639 [blue] right way to fr
+12432 10111 -643 [blue] right way to fr
+13183 11105 -639 [blue] yard
+13998 10111 -985 [blue] right way to fr
+14727 10286 -1087 [blue] right way to fr
+14464 10810 -1087 [blue] right way to fr
+14464 11250 -1087 [blue] right way to fr
+14779 11579 -1087 [blue] right way to fr
+17343 9002 -1087 [blue] right way to fr
+17340 8440 -1087 [blue] right way to fr
+17213 7775 -1087 [blue] right way to fr
+16870 7350 -1087 [blue] right way to fr
+16389 7043 -1087 [blue] right way to fr
+15853 6862 -1087 [blue] right way to fr
+15196 7139 -1087 [blue] right way to fr
+14781 7554 -1087 [blue] right way to fr
+14337 7883 -1060 [blue] right way to fr
+13765 7808 -934 [blue] right way to fr
+13162 7808 -803 [blue] right way to fr
+12475 7808 -652 [blue] right way to fr
+11755 7808 -639 [blue] right way to fr
+11133 7812 -639 [blue] right way to fr
+10576 7870 -639 [blue] right way to fr
+10000 8189 -639 [blue] right way to fr
+9627 8605 -639 [blue] right way to fr
+9467 10499 -639 [blue] right way to fr
+17343 9580 -1087 [blue] right way to fr
+17282 10052 -1087 [blue] right way to fr
+17299 10111 -1087 [blue] right way to fr
+16913 11090 -1087 [blue] right way to fr
+17113 11570 -1087 [blue] right way to fr
+17129 11604 -1087 [blue] right way to fr
+16967 11641 -1087 [blue] right way to fr
+16414 11721 -1087 [blue] right way to fr
+15748 11775 -1087 [blue] right way to fr
+15155 11834 -1087 [blue] right way to fr
+12175 16767 -639 [blue] yard
+12843 16767 -639 [blue] yard
+13166 16767 -639 [blue] yard
+13183 16767 -639 [blue] yard
+13183 16269 -639 [blue] yard
+13183 15671 -639 [blue] yard
+13183 15070 -639 [blue] yard
+14204 15546 -959 [blue] left way to fr
+14141 16112 -959 [blue] left way to fr
+14354 16663 -996 [blue] left way to fr
+14630 16770 -1087 [blue] left way to fr
+14464 17089 -1087 [blue] left way to fr
+14464 17475 -1087 [blue] left way to fr
+14145 17536 -1017 [blue] left way to fr
+13551 17536 -888 [blue] left way to fr
+12955 17536 -757 [blue] left way to fr
+12345 17536 -639 [blue] left way to fr
+12022 17321 -639 [blue] left way to fr
+11617 16772 -639 [blue] yard
+11490 17250 -639 [blue] left way to fr
+11063 16768 -629 [blue] yard
+10936 17186 -639 [blue] left way to fr
+10505 16757 -628 [blue] yard
+10494 17149 -639 [blue] left way to fr
+10062 16747 -627 [blue] yard
+10050 17128 -639 [blue] left way to fr
+9344 18014 -639 [blue] left way to fr
+9346 18574 -639 [blue] left way to fr
+9561 19032 -639 [blue] left way to fr
+9971 19443 -639 [blue] left way to fr
+10449 19839 -639 [blue] left way to fr
+11009 19839 -639 [blue] left way to fr
+11489 19839 -639 [blue] left way to fr
+12076 19839 -639 [blue] left way to fr
+12651 19839 -649 [blue] left way to fr
+13220 19839 -790 [blue] left way to fr
+13786 19839 -889 [blue] left way to fr
+14471 19839 -1042 [blue] left way to fr
+14943 20042 -1087 [blue] left way to fr
+15220 20532 -1087 [blue] left way to fr
+15758 20863 -1087 [blue] left way to fr
+16310 20767 -1087 [blue] left way to fr
+16804 20270 -1087 [blue] left way to fr
+17000 19733 -1087 [blue] left way to fr
+16965 19164 -1087 [blue] left way to fr
+17343 19559 -1087 [blue] left way to fr
+17307 19404 -1087 [blue] left way to fr
+17343 19273 -1087 [blue] left way to fr
+17343 18891 -1087 [blue] left way to fr
+17342 18317 -1087 [blue] left way to fr
+17205 17758 -1087 [blue] left way to fr
+17009 17220 -1087 [blue] left way to fr
+17023 16512 -1087 [blue] left way to fr
+17023 16373 -1087 [blue] left way to fr
+17023 16303 -1087 [blue] left way to fr
+14332 15364 -1087 [blue] left way to fr
+14393 15302 -1087 [blue] left way to fr
+14805 15403 -1087 [blue] left way to fr
+15321 15606 -1087 [blue] left way to fr
+15836 15811 -1087 [blue] left way to fr
+16353 16022 -1087 [blue] left way to fr
+16762 16193 -1087 [blue] left way to fr
+17453 15743 -1025 [blue] flag room
+17481 15403 -1015 [blue] flag room
+17120 15312 -1087 [blue] left way to fr
+17526 14848 -999 [blue] flag room
+17071 14740 -1087 [blue] left way to fr
+17065 14222 -1087 [blue] left way to fr
+17654 13357 -953 [blue] flag room
+17618 13739 -966 [blue] flag room
+17021 13510 -1087 [blue] left way to fr
+16900 13076 -1087 [blue] left way to fr
+16561 12625 -1087 [blue] left way to fr
+15982 12488 -1087 [blue] left way to fr
+15415 12492 -1087 [blue] left way to fr
+14801 12790 -1087 [blue] left way to fr
+14638 14375 -1087 [blue] left way to fr
+14546 13771 -1087 [blue] left way to fr
+14464 13162 -1087 [blue] left way to fr
+9344 17475 -639 [blue] left way to fr
+9344 17181 -639 [blue] left way to fr
+9397 16731 -626 [blue] yard
+8839 16727 -625 [blue] yard
+8924 11562 -639 [blue] right way to fr
+9314 11032 -639 [blue] right way to fr
+9281 10880 -639 [blue] yard
+9344 10503 -639 [blue] right way to fr
+9344 10401 -639 [blue] right way to fr
+9344 9812 -639 [blue] right way to fr
+9344 9107 -639 [blue] right way to fr
+8262 11011 -639 [blue] yard
+8240 10880 -639 [blue] yard
+7630 10880 -513 [blue] yard
+7067 10880 -511 [blue] yard
+6535 10880 -511 [blue] yard
+6400 10880 -511 [blue] yard
+8012 9855 -703 [blue] balcony left
+7404 9855 -703 [blue] balcony left
+6779 9855 -703 [blue] balcony left
+6656 9855 -703 [blue] balcony left
+6656 9767 -703 [blue] balcony left
+5887 9601 -1855 [blue] ramp room
+6011 9353 -1855 [blue] ramp room
+6011 8477 -1855 [blue] entrance
+5616 8497 -1855 [blue] entrance
+5173 8518 -1855 [blue] entrance
+3508 8371 -1855 [blue] entrance
+3176 8246 -1855 [blue] entrance
+2507 8284 -1855 [blue] entrance
+1951 8319 -1855 [blue] entrance
+1498 8319 -1855 [blue] entrance
+826 8319 -1855 [blue] entrance
+262 8319 -1855 [blue] entrance
+-243 8319 -1855 [blue] entrance
+-803 8319 -1855 [blue] entrance
+-1363 8319 -1855 [blue] entrance
+-1930 8319 -1855 [blue] entrance
+-2487 8319 -1855 [blue] entrance
+-3051 8319 -1855 [blue] entrance
+-3609 8340 -1855 [blue] entrance
+-4160 8404 -1855 [blue] entrance
+-4712 8484 -1855 [blue] entrance
+-5275 8542 -1855 [blue] entrance
+-5749 8232 -1855 [blue] entrance
+-5674 8022 -1855 [blue] entrance
+-5587 7846 -1855 [blue] entrance
+-5283 7239 -1855 [blue] entrance
+-4897 6817 -1855 [blue] entrance
+-4286 6495 -1855 [blue] entrance
+-3787 6272 -1855 [blue] entrance
+-3186 6272 -1855 [blue] entrance
+-2596 6272 -1855 [blue] entrance
+-2024 6272 -1855 [blue] entrance
+-1458 6272 -1855 [blue] entrance
+-905 6247 -1839 [blue] entrance
+-353 6202 -1839 [blue] entrance
+202 6156 -1839 [blue] entrance
+759 6152 -1839 [blue] entrance
+5346 7011 -1855 [blue] entrance
+5645 7472 -1855 [blue] entrance
+5787 7799 -1855 [blue] entrance
+5755 7819 -1855 [blue] entrance
+5328 8042 -1855 [blue] entrance
+4732 8057 -1855 [blue] entrance
+4494 8310 -1855 [blue] entrance
+4042 8242 -1855 [blue] entrance
+4173 8140 -1855 [blue] entrance
+4904 6677 -1855 [blue] entrance
+4404 6426 -1855 [blue] entrance
+3879 6272 -1855 [blue] entrance
+3324 6272 -1855 [blue] entrance
+2763 6272 -1855 [blue] entrance
+2256 6272 -1855 [blue] entrance
+1888 6272 -1855 [blue] entrance
+1316 6178 -1839 [blue] entrance
+383 3061 -2943 [blue] water entrance
+383 3458 -2943 [blue] water entrance
+383 3858 -2943 [blue] water entrance
+383 4257 -2943 [blue] water entrance
+1480 4182 -2122 bridge
+1271 2280 -2239 bridge
+1175 1718 -2239 bridge
+-1366 -3834 -2169 bridge
+-1378 -3591 -2239 bridge
+-1379 -3066 -2239 bridge
+-1377 -2511 -2239 bridge
+-1373 -1954 -2239 bridge
+-1368 -1399 -2239 bridge
+-1362 -731 -2239 bridge
+-1357 -176 -2239 bridge
+-1348 488 -2239 bridge
+1477 3837 -2153 bridge
+1411 3829 -2210 bridge
+1464 2901 -2239 bridge
+1410 490 -2175 bridge
+1920 1345 -2399 [blue] grass
+2009 1345 -2398 [blue] grass
+2426 1356 -2393 [blue] grass
+2984 1372 -2385 [blue] grass
+3649 1392 -2375 [blue] grass
+4095 1405 -2375 [blue] grass
+4650 1421 -2367 [blue] grass
+4991 1583 -2367 [blue] grass
+4991 1970 -2367 [blue] grass
+4991 2553 -2367 [blue] grass
+4991 3059 -2300 [blue] grass
+4991 4366 -2239 [blue] grass
+4991 4939 -2250 [blue] grass
+4989 5183 -2349 [blue] grass
+4975 5141 -2341 [blue] grass
+4537 5176 -2367 [blue] grass
+4224 5187 -2367 [blue] grass
+3780 5065 -2367 [blue] grass
+2934 5254 -2367 [blue] grass
+2580 5759 -2367 [blue] grass
+2176 5507 -2367 [blue] grass
+2203 4942 -2367 [blue] grass
+2460 4307 -2364 [blue] grass
+2024 4091 -2351 [blue] grass
+1976 3539 -2355 [blue] grass
+2126 2529 -2367 [blue] grass
+1941 3094 -2359 [blue] grass
+1473 3455 -2239 bridge
+1328 1153 -2239 bridge
+488 3233 -2239 bridge
+20 3543 -2239 bridge
+-490 3806 -2216 bridge
+-1062 3771 -2224 bridge
+-1505 2229 -2239 bridge
+-1568 2675 -2239 bridge
+-1496 3349 -2239 bridge
+-2295 5011 -2367 [blue] grass
+-2176 5566 -2367 [blue] grass
+-2190 5759 -2367 [blue] grass
+-2600 5759 -2367 [blue] grass
+-3158 5759 -2367 [blue] grass
+-3455 5744 -2367 [blue] grass
+-3520 4723 -2318 [blue] grass
+-3455 5287 -2367 [blue] grass
+-3718 5183 -2327 [blue] grass
+-3906 5183 -2312 [blue] grass
+-4351 5193 -2335 [blue] grass
+-4418 5060 -2331 [blue] grass
+-4991 5147 -2365 [blue] grass
+-4991 5120 -2363 [blue] grass
+-4991 4680 -2341 [blue] grass
+-4991 4103 -2312 [blue] grass
+-4991 3643 -2289 [blue] grass
+-4991 3067 -2278 [blue] grass
+-4991 2484 -2367 [blue] grass
+-4991 1909 -2367 [blue] grass
+-4991 1493 -2367 [blue] grass
+-1868 2145 -2255 [blue] grass
+-1775 2588 -2295 [blue] grass
+-1880 4735 -2347 [blue] grass
+-1976 4735 -2367 [blue] grass
+-1863 4457 -2339 [blue] grass
+-2001 4203 -2367 [blue] grass
+-1852 4013 -2334 [blue] grass
+-1956 3640 -2367 [blue] grass
+-1882 3399 -2348 [blue] grass
+-1798 3058 -2298 [blue] grass
+-2021 2769 -2367 [blue] grass
+-1971 2217 -2367 [blue] grass
+-1926 1855 -2367 [blue] grass
+-2708 1366 -2376 [blue] grass
+-3273 1178 -2389 [blue] grass
+-3827 1275 -2390 [blue] grass
+-4338 1379 -2373 [blue] grass
+-4950 1489 -2367 [blue] grass
+-4564 687 -2970 water
+-4166 430 -2804 water
+-3736 305 -2741 water
+-3211 396 -2741 water
+-2735 397 -2648 water
+-2213 1659 -2367 [blue] grass
+-1920 1792 -2367 [blue] grass
+-1339 1549 -2239 bridge
+-1342 989 -2239 bridge
+-1540 793 -2950 water
+-1119 957 -2988 water
+-707 935 -3007 water
+-274 1206 -2943 [blue] water entrance
+-296 830 -3007 water
+133 893 -3007 water
+551 903 -3007 water
+1407 959 -3007 water
+2068 849 -2898 water
+2496 880 -2849 water
+2919 910 -2817 water
+3331 931 -2789 water
+3736 942 -2766 water
+4149 880 -2712 water
+4578 754 -2737 water
+4946 613 -2799 water
+4991 312 -2948 water
+4991 -54 -3126 water
+4614 -688 -2979 water
+4265 -420 -2834 water
+3780 -227 -2736 water
+3258 -315 -2723 water
+2648 -298 -2696 water
+1655 782 -2988 water
+996 869 -3007 water
+1434 -67 -2175 bridge
+1389 -634 -2177 bridge
+971 -513 -3103 water
+551 -607 -3055 water
+-629 -767 -3007 water
+-1017 -700 -3009 water
+-1491 -694 -3012 water
+-1989 -771 -2918 water
+-2437 -853 -2808 water
+-2913 -905 -2738 water
+-3262 -921 -2718 water
+-3665 -902 -2743 water
+-4072 -812 -2742 water
+-4474 -707 -2749 water
+-4948 -559 -2788 water
+-4991 -217 -2981 water
+-4991 148 -3193 water
+-4991 541 -3121 water
+-4888 796 -2970 water
+-4991 818 -2939 water
+-4991 964 -2745 water

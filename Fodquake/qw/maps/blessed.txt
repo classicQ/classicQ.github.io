@@ -1,0 +1,80 @@
+March, 24, 1999
+==================================================
+Title                   : "Bless To Kill"
+                        
+Filename                : bless.bsp
+
+Author                  : headshot
+Email Address           : headshot@terrafusion.com
+URL:			: http://headshot.terrafusion.com
+                        
+
+Additional Credits to   : -Dan 'danimal' Proietti
+			   for invaluable input during beta testing
+
+			  -Kristian 'SleepwalkR' Duske
+			   for demanding more diversity when I was
+			   prepared to let it rest
+
+			  -odd, idoru, frogmaster and all the other guys
+			   running custom map servers
+
+			  -the terrafusion crew for hosting the DM depot
+			   and the qboard
+
+			  -id Software for releasing the Q3:Arena footage
+			   that inspired this map
+
+			  -Ben Morris, Tim Wright, Mads Bondo Dydensborg
+			   and Cable Hicks for the gear
+
+
+Other Maps by author	: -Quake1:
+			  fsdm1, fsdm2, fsdm3, ukooldm6, qcon1, dapak2, dapak4
+			  dapak5, dapak7, dapak8, dapak9, dapak10, dapak11
+			  spine, spinev2, contaminate, dead, agenda
+
+			  -Quake2:
+			  D-Lite, Wasted, Kick the P.A., Powertrip, Grind
+			  Vascular Ray, The Gun for Q2
+
+
+===================================================
+* Play Information *
+
+Game                    : Quake Registered
+Map Name                : bless
+Single Player           : no
+Co-op                   : no
+Deathmatch 		: Yes, designed for 1on1
+			  and 2-4 ffa games
+			  5 DM starts
+
+==================================================
+* Construction *
+
+Base                    : new map from scratch
+New Graphics		: a few new custom textures
+			  (actually only combos of original id rune textures)
+Editor used             : WorldCraft 1.6a
+Other Programs		: Adquedit 1.25, MipDip 1.55, Arghlite 2.0
+
+==================================================
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. You are not allowed to commercially exploit this level,
+i.e. put it on a CD or any other electronic format that is sold
+for money without explicit permission of the author.
+
+You MAY distribute this BSP over the internet, provided you include
+this file, with no modifications and do NOT attempt to exploit
+it commercially.
+
+This map is to be distributed freely. If you paid money for it,
+please drop me a line at headshot@terrafusion.com
+
+* Where to get this BSP *
+
+http://headshot.terrafusion.com

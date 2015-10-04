@@ -1,0 +1,7 @@
+clan leader: 		Robs
+full clan name: 	The Unholy Alliance
+clan email address: 	rob@gti.net
+clan web site: 		http://www.softwaresource.com/ua/
+
+name of skin: 		ua_skin.pcx
+

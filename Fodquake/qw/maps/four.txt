@@ -1,0 +1,107 @@
+===========================================================
+The Four Horsemen
+===========================================================
+
+Date				: Thursday, April 13th, 2006
+Title				: The Four Horsemen
+Version                         : 1.1
+Filename			: four.bsp
+Author				: Forrest (aka Drako)
+Email Address			: forrest@videotron.ca
+Webpage				: www.clandz.com
+Description			: Q1 DM (duel and 2on2)
+
+===========================================================
+
+* Additional Credits *
+
+Thanks to id for Quake, Ben Morris for Worldcraft, and to Inertia for the inspiration and positive criticism.
+	
+===========================================================
+
+* Gameplay Information *
+
+Single Player			: No
+Cooperative			: No
+Deathmatch			: Yes
+Clan Arena			: No
+CTF                             : No
+Difficulty Settings             : No
+New Sounds			: No
+New Textures                    : Yes - Evil Lair’s, Fury, KMDTex, Knave, Speedy, Leak
+
+===========================================================
+
+* Game Construction *
+
+"We've got the system - to fuck the system".
+
+Those are the first lines in this themed album '666' by an old band Aphrodite's Child (with Vangelis) from circa 1972. The album is their take on the Christian revelation - of how the lamb - the saviour - will come and open seals given to him by God. The lamb is the first horseman of the four. He is law, God's law.
+
+We have the system to fuck the system implies, to me, especially in accordance to the reason why I map - is that we, as humans, are violent by nature. We see it anytime we turn on the TV or even when we walk into the house and see our family members fight with each other. And how do we deal with our violence, our anger? Look and you will see the ruins of burning cities that lay in the path of men warring with each other throughout the ages, and you will see the broken relationships between those who once loved and cared for each other.
+
+Quake has proven to be an outlet. Quake is an alternative to war. Rather than fight on God's land - our mother - our planet earth; rather than burn her lands and pollute her waters with machines of war, we should all play Quake and get our violence and anger out on computerized avatars. After a match, the only thing you'll have is a bruised ego maybe, yet nobody got truly hurt.
+
+How does society deal with the violent? Some they incarcerate into mental institutions and some they vote into power. Some they prescribe the most mind numbing pills and some they pin medals as they become war heroes. We have shown that we have definitely not understood how to deal with our anger and violence. They say to meditate yet that too only pacifies our anger rather than outlets it.
+
+Quake is an outlet - or video games such as Q. It allows us to be competitive and it also teaches us discipline. It allows to us to shoot imaginary guns at moving pixels. It's free and nobody loses an eye or a member of a family.
+
+We therefore have the system, don't we?
+
+We've moved into a new millennia and yet I have yet to see the wonder that should have came with this historical period. I see God (not a Christian God... just God... the force that breathes life into this universe) and the planet both as miracles, and yet nobody seems to be acknowledging it.
+
+Rather than spend money on war machines, build more 'war-like' video games and have countries fight it out over the net, not on land. Quake is like as opening up a seal into the future.
+
+And yet... it's just a quake map.
+
+The maps that inspired me were definitely Aerowalk (same concept - just one big atrium with halls around it) and Inertia's Slipstream (a spiral). Just something small and something for those who dig prediction maps over just good aim. And there's enough teles to slip away from the opponent yet not that many to make it too confusing.
+
+(Lyrics from Loud Loud Loud, a song on 666)
+
+The day the walls of the cities will crumble away 
+uncovering our naked souls,
+we'll all start singing,
+shouting, screaming
+loud, loud, loud, loud
+
+The day the circus horses will stop turning around,
+running fast through the green valleys,
+we'll sing and cry and shout
+loud, loud, loud, loud
+
+The day the cars will lay in heaps
+their wheels turning in vain,
+we'll run along the empty highways
+shouting, screaming, singing
+loud, loud, loud, loud
+
+The day young boys will stop becoming soldiers,
+and soldiers will stop playing war games,
+we'll sing and cry and shout
+loud, loud, loud, loud
+
+The day will come up
+that we'll all wake up
+hearing and shouting of joy
+and shouting together with the freaks
+loud, loud, loud, loud
+
+The day the world will turn upside down
+we'll run together round and round
+screaming, shouting, siging
+loud, loud, loud, loud
+loud, loud, loud, loud
+loud, loud, loud, loud 
+
+===========================================================
+
+Editor(s) used: WorldCraft
+Known Bugs/Leaks: no
+Build Time: 4 days
+Machine Used for Compile: 3.4 Pentium IV
+
+===========================================================
+
+* Copyright and Permission Information *
+
+This level may be distributed only over the Internet and/or BBS systems. If you would like to use it, please email me forrest@videotron.ca. I can even send you either the .map or .rmf if you like to modify it.

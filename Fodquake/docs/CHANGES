@@ -1,0 +1,107 @@
+Version 0.3
+===========
+- Fixed a problem in the handling of repeated keys on X11.
+- Starting in window mode on X11 with mouse grab enabled and with automatic
+  focusing of new windows disabled no longer results in an onfocused window
+  you can't select.
+- Fixed rcon to work again.
+- Fixed a problem where movement would not work when joining a game after
+  having tracked a player through Qizmo.
+- Fixed a crash in the software renderer when displaying any of the 'low
+  memory', 'low speed' or 'network lag' icons.
+- Removed the obsolete m_side and m_forward cvars.
+- Added support for client side lag via the net_lag and net_lag_ezcheat cvars.
+- Removed the uglier than ugly r_shadows in GL.
+- Changed the default volume from 0.7 to 0.5.
+- gl_ztrick now defaults to 0.
+- Brought the Win32 port up to date.
+- Added DirectInput 8 support.
+- Removed the cl_yawspeed and cl_pitchspeed cvars.
+- Removed the force_centerview command.
+- Linux USB mouse poll rate settings are checked and a warning is given if
+  found to be lower than 500Hz.
+- Made PNG the default screenshot format.
+- v_damagecshift and v_kicktime now default to 0.
+- Server browser entries can now be colour coded depending on their fullness.
+- The maximum number of network frames per second can now be set via the
+  net_maxfps cvar.
+- The server browser now supports connecting directly to Eztv streams through
+  a QTV proxy.
+- New table layout code with optimal layout and entry sorting. Tab completion
+  of commands and variables and other things presenting the output in a grid
+  will use the new table layout code.
+- The server browser now highlights the column used for sorting.
+- Optimised dynamic lightmap rendering.
+- Removed the last remnants of the obscurity module nonsense. As a result the
+  'auth_validate', 'auth_viewcrc' and 'auth_warninvalid' cvars and the
+  'validate_clients' command have been removed.
+- Completely removed the Quake hunk memory system. The command line arguments
+  '-minmemory', '-heapsize' and '­mem' are now obsolete and have been removed.
+- Added context sensitive tab completion. Many commands (such as cfg_load,
+  playdemo, alias, etc) now have special tab completion functionality.
+- Rewrote the console handling code. It now uses less memory, can handle
+  markups (such as colours) and context are relayout on console size change.
+- Removed the gl_affinemodels cvar.
+- Added cl_weaponfire and cl_weaponswitch cvars, used in combination with the
+  also added +weapon command.
+- Removed the sys_extrasleep cvar which has been obsolete since Fodquake 0.1.
+
+Version 0.2
+===========
+- Rewrote the QW networking code.
+- New ruleset code including EQL support.
+
+Version 0.1 (since Fuhquake 0.31)
+=================================
+- Rewrote build system. It no longer sucks.
+- Support for big endian systems.
+- Support for 64 bit systems.
+- Support for MorphOS.
+- Support for FreeBSD.
+- Support for NetBSD.
+- Support for Nintendo Wii.
+- Support for IPv6.
+- Many fixes to the X11 support, including fullscreen support.
+- GLX and X11 now share the same mouse code, which has had many improvements.
+- Clipboard support for X11.
+- Support for building Win32 target with MinGW.
+- Non-platform specific code (lots of software rendering logic, mouse
+  acceleration handling, etc...) has been moved out from the platform
+  specific files where the code was previously duplicated before.
+- FTE-compatible support for compression of network data.
+- Command line arguments are no longer needed. Every option can be set by
+  regular Quake cvars. Command line options are converted into their
+  respective cvars for legacy reasons.
+- Sound system parameters can be changed while Quake is running and sound can
+  be completely turned on/off as well without a restart.
+- Fixed several security issues.
+- General code clean up. Now uses fewer globals, especially doesnn't use
+  globals for argument passing.
+- Console ctrl+pageup/pagedown scrolling fixed to scroll the correct amount of
+  lines in all cases. That means always having one line from the previous page
+  visible.
+- Fixed an issue with small s_mixahead values and long QW uptimes.
+- No longer consumes 100% CPU time when much less is actually required.
+- Fixed GLX support for smart drivers and graphics hardware which isn't fast
+  enough.
+- Fixed various issues with displays that don't have a 4:3 ratio.
+- Added support for FTE chunked downloads. Downloads can be much faster now on
+  compatible servers.
+- Now works correctly as a spectator on servers which support
+  Z_EXT_PM_TYPE/Z_EXT_PM_TYPE_NEW.
+- Added scr_scoreboard_titleseperator, set to 1 draws the original QW
+  scoreboard title seperator.
+- No longer lets broken mods (hint: they start with the letters 'kt') change
+  the rate cvar. If the server asks for the cvar to be changed, only the
+  userinfo will be changed, and the value will be restored when disconneting
+  from the server.
+- '%%' can now be used to output a literal '%' in chat strings.
+- Removed the 'lookstrafe', 'lookspring', 'freelook', 'v_centermove',
+  'v_centerspeed', 'cl_anglespeedkey' and 'cl_movespeedkey' cvars and the
+  '+mlook', '-mlook', '+klook', '-klook', '+speed', '-speed', '+strafe',
+  '-strafe' and 'centerview' commands.
+- Added a server browser (made by Jogi)
+- Added file checksumming used by f_modified.
+- Added a video mode selection menu.
+- ALSA support ripped off from FTE.
+

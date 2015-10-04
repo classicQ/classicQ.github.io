@@ -1,0 +1,6 @@
+Clan Leader:         John Carmack
+Full Clan name:      Clan |id|
+Clan Email Address:  help@idsoftware.com
+Clan Web Site:       http://www.idsoftware.com
+
+Name of Skin:        base.pcx

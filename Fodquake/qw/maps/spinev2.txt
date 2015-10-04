@@ -1,0 +1,62 @@
+April 28, 1998
+==================================================
+Title                   : spinev2
+                        : official Qonference '98 tournament map
+			: Revision 2
+
+Filename                : spinev2.bsp
+
+Author                  : dennis kaltwasser [headshot]
+Email Address           : headshot@planetquake.com
+
+                        
+Additional Credits to   : id software
+			  
+			  Ben Morris as always for Worldcraft
+
+			  The people who played spine during the Qonference '98
+			  and gave me valubale feedback and suggstions for improvement
+			  			  
+Additional Info		: This map is a modified version of "spine", the official
+			  Qonference '98 1-on-1 tourney map. I added a couple
+			  connections through two additional elevators, supplied
+			  a new area and shifted a few items and DM starts around.
+			  As a result the map is now better balanced, offers more
+			  angles of attack and less opportunity to gain total control,
+			  even in DMM1. Especially the 4 player FFA mode benefits a lot
+ 			  from that little extra ammo and health. Enjoy!
+
+                      
+===================================================
+* Play Information *
+
+Game                    : Quake Registered
+Map Name                : spinev2
+Single Player           : no
+Co-op                   : no
+Deathmatch 		: Yes, designed for 1-on-1,
+			  suitable for up to 4 players,
+			  6 DM starts
+
+==================================================
+* Construction *
+
+Base                    : spine.bsp
+Editor used             : WorldCraft 1.5b
+Other Programs		: Adquedit 1.25, MipDip 1.55, Arghlite 2.0
+
+==================================================
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. And it must not be sold, without permission from the author.
+
+You MAY distribute this BSP, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this BSP *
+
+http://www.planetquake.com/dapak, ftp.cdrom and its mirrors

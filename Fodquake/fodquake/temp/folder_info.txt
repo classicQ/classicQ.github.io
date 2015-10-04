@@ -1,0 +1,4 @@
+<mission> is there any way to force fodquake to save config locally, not to user/documents?
+<bigfoot> Create a fodquake/temp directory in your Quake directory
+<bigfoot> Then it will assume that you have an old-style Quake installation and continue to use that
+<mission> awesome! thank you!

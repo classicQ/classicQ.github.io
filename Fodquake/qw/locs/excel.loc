@@ -1,0 +1,123 @@
+-9687 22766 -1983 BRamps Respawn
+-5432 22810 -1983 BRamps Respawn
+-5676 20032 -1983 BLow Lift
+-6791 17954 -1983 BLow Lift
+-8190 18309 -1983 BLow Lift
+-8905 18886 832 Bhigh Lift
+-7712 19540 832 Bhigh Lift
+-6943 23067 832 Bflagroom(lift side)
+-6314 24780 832 Bflagroom(lift side)
+-3209 25521 832 Bflagroom(lift side)
+-2373 24737 832 Bflagroom
+442 24169 832 Bflagroom
+1170 22435 832 Bflagroom
+-260 21344 832 Bflagroom
+3384 20918 832 Bflagroom(resup side)
+6114 21705 832 Bflagroom(resup side)
+6133 22958 832 Bflagroom(resup side)
+6326 25184 832 Bflagroom(resup side)
+10579 22525 832 BFlag Resup
+6458 26255 827 BRamps-FR(Respawn side)
+5667 29100 192 BRamps-FR(Respawn side)
+3288 29189 -222 BRamps-FR(Respawn side)
+1078 29263 -831 BRamps-(flag side)
+275 27766 -831 BRamps-(flag side)
+2621 26683 -831 BRamps-(flag side)
+-1761 26940 -831 BRamps-(flag side)
+-2577 29167 -523 BRamps-(lift side)
+-5406 28782 192 BRamps-(lift side)
+-6254 27284 542 BRamps-(lift side)
+-3041 24565 -1983 BRamps(floor)
+676 24457 -1983 BRamps(floor)
+2671 25983 -968 BRamps(floor-right)
+3719 24182 -831 BRamps(floor-right)
+3445 22221 -831 BRamps(floor-right)
+-1909 25983 -1349 BRamps(floor-left)
+-3641 23540 -831 BRamps(floor-left)
+-3702 21792 -831 BRamps(floor-left)
+-1155 19702 -1983 BRamps(left ladder)
+1634 19650 -1983 BRamps(right ladder)
+2259 18400 -831 BRamps(front ledge)
+605 18335 -831 BRamps(front ledge)
+-2489 18221 -831 BRamps(front ledge)
+-2409 15488 -831 BEntrance
+136 15502 -831 BEntrance
+2772 16292 -831 BEntrance
+1658 13903 -799 BEntrance
+2038 12548 -831 BOutside Bridge
+3834 11343 -831 BOutside Bridge
+2854 7915 -461 BOutside Bridge
+-2131 12182 -831 BOutside Bridge
+-2966 10209 -746 BOutside Bridge
+-2952 7572 -418 BOutside Bridge
+-3098 4610 -319 BOutside
+-4614 1139 137 BOutside
+3365 2754 -220 BOutside
+4789 1078 151 BOutside
+5078 -367 192 ROutside
+4135 -3204 -271 ROutside
+1081 -4283 -319 ROutside
+-2698 -3292 -319 ROutside
+-5180 -1426 74 ROutside
+-3145 -6563 -319 ROutside
+-3145 -8463 -529 ROutside(bridge)
+-3228 -12065 -831 ROutside(bridge)
+193 -12449 -831 ROutside(bridge)
+2300 -12167 -831 ROutside(bridge)
+2033 -7135 -3647 ROutside(bridge)
+-8957 -18332 -3007 RWater stairs
+-7892 -16138 -3007 RWater stairs
+-4064 -15729 -3903 RWater stairs
+-6248 -19693 -2367 RWater stairs
+-5837 -21710 -1983 RRamps Respawn
+-7615 -22343 -1983 RRamps Respawn
+-5516 -24947 -1983 RRamps Respawn
+-1870 -24854 -1983 RRamps floor
+-1419 -21575 -1983 RRamps floor
+1001 -21618 -1983 RRamps floor
+1025 -24033 -1983 RRamps floor
+1059 -25983 -1773 RRamps floor(right)
+3276 -25318 -710 RRamps floor(right)
+3628 -22402 -831 RRamps floor(right)
+-3633 -22550 -831 RRamps floor(left)
+-3849 -25069 -831 RRamps floor(left)
+-1287 -27277 -831 RRamps (flagside)
+1222 -27293 -831 RRamps (flagside)
+3221 -27011 -831 RRamps (flagside)
+4326 -30079 -5 RRamps-fr(lift side)
+6470 -27122 587 RRamps-fr(lift side)
+5368 -25504 832 RRamps-fr(lift side)
+6320 -23734 832 RRamps-fr(lift side)
+6542 -20260 832 RTop lift
+9343 -19760 832 RTop lift
+4564 -24870 832 RFlagroom(lift side)
+2674 -24915 832 RFlagroom(lift side)
+2617 -24869 832 RFlagroom
+1500 -23376 832 RFlagroom
+-738 -21765 832 RFlagroom
+-1751 -25021 832 RFlagroom
+-3865 -20785 832 RFlagroom(resup side)
+-3134 -29096 -299 RFlagroom(resup side)
+-7393 -22365 832 RFlagroom(resup side)
+-6963 -23705 832 RRamps-Fr(resup side)
+-5248 -28388 274 RRamps-Fr(resup side)
+-2583 -29025 -478 RRamps-Fr(resup side)
+-919 -27852 -831 RRamps-Fr(resup side)
+6893 -22555 -1983 RRamps Respawn
+7615 -22521 -1983 RRamps Respawn
+5086 -20575 -1983 RBottom Lift
+7802 -17732 -1983 RBottom Lift
+8933 -19327 -1919 RBottom Lift
+2343 -15488 -831 REntrance
+69 -14899 -831 REntrance
+-2431 -15813 -831 REntrance
+4106 -16756 -831 REntrance
+1287 -18048 -831 RRamps(front ledge)
+2803 -18167 -831 RRamps(front ledge)
+-107 -18372 -831 RRamps(front ledge)
+-2697 -18053 -831 RRamps(front ledge)
+3803 12638 -3135 BWater stairs
+4440 15418 -3274 BWater stairs
+8995 17145 -2917 BWater stairs
+7294 18958 -2879 BWater stairs
+5371 19899 -2111 BWater stairs

@@ -1,0 +1,38 @@
+================================================================
+Title                   : GlGearPak
+Filename                : Gear0 through Gear9
+Author                  : Marc Roussel
+Email Address           : gear@videotron.ca
+Web page                : http://pages.infinit.net/gear
+Description             : Page related to Quake and/or Quake2
+Additional Credits to   : Ben Morris and IdSoftware.........
+================================================================
+
+* Play Information *
+
+Game                    : Quake 1.08 (of course)
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-5 Player   : No
+Deathmatch 6+ Player    : Yes 8 Spectators each level
+Difficulty Settings     : No
+New Sounds              : Nope
+New Graphics            : Yes Some
+New QuakeC              : Nope
+New MDL's               : Nope Oufff
+* Construction *
+
+Base                    : Different style
+Editor(s) used          : WorldCraft version 1.5b Registered
+Known Bugs              : None
+Build time              : 1 month weeks
+Compile                 : QBSP, LIGHT -EXTRA, RVIS -LEVEL 4
+
+Adress
+----------
+Marc Roussel
+7900 Bourdaloue
+Laval, Qc
+H7H 1W2
+Tel.: 514-628-5412
+

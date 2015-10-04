@@ -1,0 +1,98 @@
+UKPAK - 1st release, February 1999
+==================================
+
+The UKPAK is a set of teamplay (4on4) maps for Quake 1, made by a group of
+UK mappers.
+
+
+Installation
+------------
+Just copy the contents of the ukpak/maps/ dir to your quake/id1/maps/
+dir. That's it. If you use a proxy, copy the .loc files in ukpak/locs/
+to your proxy's dir. ukpak/guides/ contains graphic guides to all the
+maps from an overhead view, have a look at these to help you learn the
+maps faster. the ukpak/readmes/ dir contains the readmes the individual
+authors have made that may give additional information.
+
+The maps
+--------
+This first release contains 8 maps:
+
+UKPAK1 by Porky
+UKPAK2 by Zor
+UKPAK3 by DaMaul
+UKPAK4 by Aardappel
+UKPAK5 by Peej
+UKPAK6 by Slayer
+UKPAK7 by Pingu
+UKPAK8 by Biggus
+
+please refer to the individual readme's for more information on these maps,
+authors homepages, and contact information.
+
+Legalese
+--------
+These maps may be freely copied, and played on any server, in any league
+etc., the only thing we ask for is that if you distribute the UKPAK files
+you distribute them as a whole and in their original form (the ukpak.zip
+file). Modifying the included files needs our explicit permission. If
+you use these maps on a particular server or in some league we'd love to
+hear about it. As always, if in doubt please contact us.
+
+UKPAK goals and history
+-----------------------
+The UKPAK idea started in october/november '98 when me & Porky were thinking
+about ways to do something structural about the teamplay maps situation.
+The set of maps being played in leagues and friendlies is very small and
+mostly the same old id maps. Besides Slayers maps there are very few custom
+maps suitable for TP (most are simply too small or badly designed). Another
+thing stopping people from using other custom maps is the fact that usually
+not everyone has them, and people usually can't be arsed downloading new
+maps. Our solution was a pak, this way people get a whole set of maps with
+1 download, and hopefully its popularity would make sure that everyone has
+them. We also knew that the UKCL people were interested in new maps.
+
+The primary goal for the maps was 4on4 teamplay, and of course designs that
+promote good teamplay. As you'll find the the maps support a great variety
+of teamplay, from the low armour/weapons e1m2 style tactical maps to the fast
+paced armour/RL Slayer style maps and a lot in between, it's all there.
+Architecture wise we decide we wanted a common theme, but still allow the maps
+to have their own atmosphere. We chose a base texture set that I called "old
+industrial" that also borrows from the Q2 waste theme.
+
+Throughout the development period of the maps (november '98 to februari '99) the 
+UKPAK team cooperated continuously. From december onwards we had a FTP site 
+where mappers regularly uploaded the latest versions of their maps, so that they 
+could get feedback from others. This was a great as we could help eachother 
+early on, and make sure all maps were up to scratch, and to learn from the 
+other maps or "steal" ideas. As we knew that a pak of custom maps could only 
+succeed if they were all top quality, we decided to vote on which maps would be 
+good enough to be included, and the current 8 are the result of that.
+
+Instead of just releasing the maps, we went through painstaking testing 
+sessions, with deadlines for new maps in between. first just with all mappers 
+involved to iron out most basic problems, then a public beta test with a special 
+server Barrysworld set up for us to use. We had many players have 4on4 games on 
+it and this gave us the last bit of feedback needed for final tweaking.
+
+-----
+
+Besides the mappers who have done such an excellent job, and have put up with me 
+whipping them into working faster without even getting paid for it, I'd like to 
+thank Barrysworld (www.barrysworld.com) for their support (webhosting and 
+servers), Quake Nation (www.barrysworld.com/nation) for continuous coverage on 
+the project, the UKCL admins (especially Aerotus) for being so couragous to want 
+to use our maps in the league, and of course all those people from the UK Quake 
+community who've helped testing and have given us feedback.
+
+-----
+
+Check our website regularly for new maps and paks that we may release.
+
+http://www.barrysworld.com/ukpak/
+ukpak@barrysworld.com
+
+The UKPAK main organizer,
+Aardappel aka Wouter van Oortmerssen (wvo96r@ecs.soton.ac.uk)
+
+

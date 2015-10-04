@@ -1,0 +1,45 @@
+*  Map name  *
+
+----------------------
+Unholy Chapel - By Spanky
+----------------------
+
+This is my first atempt at making a Rocket Arena level.  I tried
+to make it look good with some solids and lightings.  I added some 
+tourches and some lava (can't fall in it) to enhance the viewing of
+the level.  
+
+I made the teleport destinations in the arena part and named them
+"join", if that is at any importance.  
+
+Hopefully you will actually publish this map and make it sucessful!
+That would make me feel good :)  
+
+*  Info  *
+------------------------
+Deathmatch Starts: 4
+Teleport Destinations : 2
+
+*  Known Bugs  *
+------------------------
+None at the moment
+
+*  Contact  *
+------------------------
+If you want to contact me for any reason, my email is spanky@znet.com
+
+*  Future  *
+------------------------
+If this level is successful and demand is high, I will make more levels,
+for arena and deathmatch, possibly Teamfortress.
+
+
+
+
+*  Copyright  *
+------------------------
+This level was made possible by Joshua Moris (Spanky). ©
+Textures were used from the Arena.wad and can be for use to the public.
+You can take my designs from the level...just don't take the credit. :)
+
+All rights reserved. ®

@@ -1,0 +1,67 @@
+==============================================================================
+Title                     : id MultiArena
+Filename                  : id3.bsp
+Version                   : 10/16/97
+
+Author                    : Greg "Q-Man" Olson
+Email Address             : qman@mad.scientist.com
+
+Description               : MultiArena Map
+
+                            This is my contribution to the MultiArena mod
+                            (www.planetquake.com/servers/arena)
+
+                            It consists of 3 "classic" rooms from the original
+                            id levels: E1M5's RL room, DM3's RL room, and DM6's
+                            RA room + plus the first room from the 'start' map.
+
+Additional Creidts        : id Software. This level is NOT made by id Software, so
+                            please do not mail them about it.
+
+                            Original map authors:
+
+                            START - Introduction - John Romero
+                            E1M5 - Gloom Keep - Tim Willits
+                            DM3 - The Abandoned Base - John Romero
+                            DM6 - The Dark Zone - American McGee
+
+                            I am only responsible for recreating these areas
+                            and putting everything together.
+
+==============================================================================
+
+* Play Information *
+
+Single Player             : No
+Cooperative               : No
+Deathmatch                : Designed for Rocket Arena
+Difficulty Settings       : No
+New Sounds                : No
+New Graphics              : No
+New Music                 : No
+
+* Construction *
+
+Base                      : New level from scratch
+Editor(s) used            : Worldcraft 1.5a
+Known Bugs                : None known
+Build Time                : Spread over the course of 2 weeks
+
+Texture Wad used          : TEXTURES.wad
+Compile Machine           : Cyrix 133+/16mb :P
+QBSP Time                 : ?
+Light (-extra) Time       : ?
+VIS (-level 4) Time       : ?
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic format that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.

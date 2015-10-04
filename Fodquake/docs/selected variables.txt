@@ -1,0 +1,62 @@
+cl_maxfps
+
+	This variable sets the maximum limit for frames-per-second. 
+
+net_maxfps
+
+	Sets an upper limit on how many network frames (packets) Fodquake is allowed to send per second. 0 means as many as is allowed by the server. Defaults to 0.
+
+pushlatency
+
+	This variable is outdated and exists for compatibility with old configs.
+
+rate
+
+	Sets the maximum amount of bytes per second that the server should send to the client.
+
+cl_c2spps
+
+	Packet filtering (a la Qizmo's .c2spps command). Use this to reduce network traffic if you're playing on a 28800 (or worse) connection and can't set cl_maxfps 72 because it causes lag. Also consider use of FPS independent physics in conjunction with cl_physfps.
+
+cl_c2simpulsebackup
+
+	Used with cl_c2spps, it controls how many backup copies of packets with non-zero impulses are to be sent to the server.The recommended value is 3, but you can try 2 or even 1 to reduce traffic if you don't have any packet loss.
+
+
+  %a : Armour.
+  %A : Armour type.
+  %b : Best Weapon and Ammo.
+  %c : How many cells (ammo) you have.
+  %C : Color.
+  %d : Where you last died.
+  %e : Number of enemies in your vicinity. (shows up as "x" for you, but as a number for your teammates).
+  %E : Same as %e but remembers the situation 5 seconds after death. (shows up as "x" for you, but as a number for your teammates).
+  %h : Current Health.
+  %i : Name and location of item you last picked up.
+  %j : Name and location of item you last pointed to (%x at %y).
+  %k : Name and location of item you last picked up or pointed to.
+  %l : Nearest location from .loc file (or 'someplace' if none found).
+  %L : Same as %l but remembers the situation 5 secs after death, then reports your current location.
+  %m : %k if less than 5 secs ago, nearest item otherwise
+  %n : Will only send the message to teammates in your vicinity.
+  %N : Hides the message from you.
+  %o : Number of teammates in vicinity.
+  %O : Same as %o but remembers the situation 5 seconds after death.
+  %p : Powerups you have (quad, pent, ring, flag)
+  %q : Powerups of last seen enemy.
+  %r : Last reported location (%l).
+  %s : Enemy led status.
+  %S : Skin.
+  %t : %x at %y
+  %u : what you need (see need menu)
+  %w : Weapon in Hand and Ammo you have.
+  %x : Name of object/teammate you are looking at.
+  %X : Name of object you took. (remembers for 15 seconds)
+  %y : Location of object you are looking at.
+  %Y : Location of item you took. (remembers for 15 seconds)
+  %z : nearest waypoint, based on the direction you are looking to
+  %Z : nearest waypoint, based on the direction you are moving to
+
+
+
+

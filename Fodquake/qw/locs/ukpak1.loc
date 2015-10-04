@@ -1,0 +1,187 @@
+263 -4923 704 SNG (near Q)
+161 -3783 704 SNG (near Q)
+59 -2643 704 SNG (near Q)
+-1391 -2672 704 SNG (near Q)
+-2330 -2664 704 SNG (near Q)
+-3183 -2657 1088 QUAD
+-4025 -2650 1216 QUAD
+-5275 -2639 1216 QUAD
+-6002 -2632 1216 QUAD
+-5058 -1070 1216 QUAD
+-4870 233 1038 QUAD
+-6885 -550 960 QUAD (hiding)
+-6726 511 960 QUAD (hiding)
+-6975 -767 960 QUAD (hiding)
+6271 -259 1856 Passage to YA
+6158 -3199 1344 Passage to YA
+7305 1123 1984 Passage to YA
+5560 3691 1984 Passage to YA
+3744 4777 1984 Passage to YA
+2857 4725 1984 YA
+717 4886 1088 YA
+595 3901 1984 YA
+48 2819 1984 YA
+-646 7320 576 YA
+1619 4121 832 YA (tele)
+1619 4121 832 YA (tele)
+1116 7017 576 YA (ladders)
+982 5120 -575 YA (ladders)
+996 6267 -575 YA (ladders)
+-180 5650 -1855 YA (ladders)
+-24 5645 -1215 YA (ladders)
+-582 3168 -1855 ladder corridor
+-617 909 -1855 ladder corridor
+-593 -285 -1855 ssg near ladders
+-554 -2275 -1983 courtyard
+-529 -3601 -1983 courtyard
+-318 -4915 -1983 courtyard
+-3381 -2801 -1599 courtyard (stairs)
+-4107 -2810 -1215 courtyard (stairs)
+-5716 -2832 -703 courtyard (stairs)
+2697 -1477 -1471 courtyard (stairs)
+2842 -403 -959 courtyard (stairs)
+2383 365 -703 courtyard (GL)
+1474 827 -703 courtyard (GL)
+355 917 -703 courtyard (GL)
+-387 877 -703 courtyard (GL)
+-534 1047 -703 courtyard (GL)
+-1816 1248 -703 courtyard (GL)
+-2401 -246 -703 courtyard (window)
+-3505 -225 -591 courtyard (window)
+-4451 -206 -703 courtyard (room)
+-5265 -191 -703 courtyard (room)
+-4137 -827 -703 courtyard (room)
+-5279 -805 -703 courtyard (room)
+-5246 1023 -703 courtyard (room)
+-8148 -1881 64 QUAD (stairs)
+-11684 -7329 1984 LG
+-12110 -5398 1984 LG
+-13628 -6063 2240 LG (corridor)
+-13968 -6050 2240 LG (corridor)
+-15393 -5157 2240 YA (tele)
+-15394 -4423 2240 YA (tele)
+-15395 -3429 2240 YA (tele)
+-15396 -1974 2240 YA (tele)
+-11808 -10071 1600 LG (stairs)
+-11399 -11343 1472 LG (stairs)
+-11382 -12958 704 LG (stairs)
+-11642 -14349 320 LG (stairs)
+-10625 -14074 192 LG (stairs)
+-9424 -11287 -191 below LG
+-9108 -12838 -191 below LG
+-7369 -11500 64 centre
+-5918 -11456 -191 centre
+-4758 -11422 -191 centre
+-3525 -11385 -191 centre
+-3327 -12885 -191 centre
+-4627 -13508 -191 centre
+-5918 -13640 -191 centre
+-164 -14207 448 100h (stairs)
+-1908 -14143 64 100h (stairs)
+50 -12120 960 100h (stairs)
+364 -10683 1088 100h (below)
+1371 -10232 1088 100h (below)
+1177 -8422 1088 100h (below)
+638 -9594 1088 100h (below)
+1598 -11592 1088 100h (below)
+1065 -8704 2624 100h (on it)
+1093 -9490 2624 100h (on it)
+1049 -8275 2624 100h (on it)
+-6835 -16802 64 RL (low bridge)
+-6938 -17993 64 RL (low bridge)
+-6510 -19388 64 RL (low bridge)
+-6561 -21251 64 RL (low bridge)
+-6612 -22792 64 RL (low bridge)
+-6650 -23948 64 RL (low bridge)
+-8153 -23850 64 RL (low bridge)
+-10835 -24165 64 RL (low bridge)
+-11519 -23044 448 RL (stairs)
+-11519 -22375 832 RL (stairs)
+-11094 -21267 1088 RL (on it)
+-10823 -19705 1088 RL (on it)
+-8629 -21546 64 RL (island)
+-8887 -19682 -1614 RL (slime)
+-7659 -19625 -1727 RL (slime)
+-5909 -19544 -1727 RL (slime)
+-6537 -21144 -1727 RL (slime)
+-6753 -22387 -1727 RL (slime)
+-9853 -22469 -1478 RL (slime)
+-8747 -19897 -1727 RL (slime)
+-12168 -25855 832 RL (big stairs)
+-11122 -25690 320 RL (big stairs)
+-13058 -24109 1600 RL (big stairs)
+-12934 -22480 2368 RL (big stairs)
+-11072 -20802 2368 RL (top bridge)
+-10933 -23048 2368 RL (top bridge)
+-9992 -19858 2368 RL (top bridge)
+-9992 -19858 2368 RL (top bridge)
+-8285 -19455 1893 RL (top bridge)
+-7242 -19541 1856 RL (top bridge)
+-5824 -19846 2368 RL (top bridge)
+-4987 -19800 2368 RL (top bridge)
+-6415 -23212 2368 RL (top ledge)
+-5872 -23780 2368 RL (top ledge)
+-5512 -21688 2368 RL (top ledge)
+-3822 -23953 1929 dark tunnel
+-2729 -24063 1600 dark tunnel
+-1588 -24063 1600 dark tunnel
+-829 -24386 1600 SSG (near tunnel)
+133 -24538 1728 SSG (near tunnel)
+1136 -24431 2112 SSG (near tunnel)
+1407 -23034 2368 SSG (near tunnel)
+-302 -23223 2368 SSG (near tunnel)
+-1581 -22860 2368 SSG (near tunnel)
+-360 -21206 2368 corridor to SSG
+-1262 -20197 2368 corridor to SSG
+-2820 -19425 2368 corridor to SSG
+-4440 -19456 2368 corridor to SSG
+-1347 -25391 1600 tele to GA
+-15104 -16960 2368 GA
+-16849 -16960 2368 GA
+-17753 -16960 2368 GA
+-16305 -17955 2368 GA
+-15398 -18854 2368 GA
+-15398 -21173 2368 GA
+-14461 -21241 2368 GA (corridor)
+-13840 -21282 2368 GA (corridor)
+-16034 -21136 2368 GA (corridor)
+-15743 -14193 2368 GA (corridor)
+-15826 -11355 1472 GA (stairs)
+-15781 -12908 2240 GA (stairs)
+-15811 -11894 1728 GA (stairs)
+-15867 -9972 1216 GA (stairs)
+-15909 -8544 1728 GA (stairs)
+-15937 -7587 2112 GA (stairs)
+-15960 -6810 2240 GA (stairs)
+-1739 7663 960 YA (stairs)
+-2510 7518 1088 YA (stairs)
+-2361 6717 1472 YA (stairs)
+-2221 5971 1856 YA (stairs)
+-2472 5156 1984 YA (ledge)
+730 5463 1088 YA (stairs)
+1528 5438 1472 YA (stairs)
+2353 5412 1984 YA (stairs)
+-8375 -3656 704 QUAD (stairs)
+-7454 -3967 832 QUAD (stairs)
+-6641 -3845 1216 QUAD (stairs)
+319 -3967 2752 hiding near hole
+280 -3426 2752 hiding near hole
+319 -3967 2752 hiding near hole
+-11162 -21742 1088 RL
+-10205 -21459 1088 RL
+-10392 -21968 1088 RL
+-10211 -19636 1088 RL
+-6612 -14608 64 RL (corridor to)
+-6481 -15290 64 RL (corridor to)
+-6313 -16166 64 RL (corridor to)
+-7167 -15715 64 RL (corridor to)
+-7167 -15090 64 RL (corridor to)
+-7167 -14311 64 RL (corridor to)
+-4783 -8921 64 QUAD (BIG stairs)
+-4774 -8323 320 QUAD (BIG stairs)
+-4762 -7573 704 QUAD (BIG stairs)
+-4754 -7052 960 QUAD (BIG stairs)
+-4746 -6501 1216 QUAD (BIG stairs)
+-4733 -5712 1216 QUAD (BIG stairs)
+-4724 -5143 1216 QUAD (BIG stairs)
+-4713 -4376 1216 QUAD (BIG stairs)

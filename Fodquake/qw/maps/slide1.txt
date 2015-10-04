@@ -1,0 +1,87 @@
+
+Title    : Slide Level Pak 1
+Filename : Slidelv1.zip
+Version  : 1.00
+Date     : 10-11-97
+Author   : See the level list. :)
+Email    : singe@ix.netcom.com
+
+
+ Type of Mod
+ ------------
+ Quake C  : no
+ Sound    : nope
+ MDL      : certainly not
+ Level    : well.. yeah.
+
+
+ Format of Mod
+ --------------
+ pak1.pak file.
+
+
+ Description:
+ -------------
+    Here's the long awaited first official Slide level pak. It includes nine
+ all-new Slide levels as well as a new Slide start map. All you do to get it
+ to run, is copy the pak1.pak file into your Slide directory that already
+ has the pak0.pak file in it. Then run off and play your levels. :)
+
+
+ Da Levels:
+ -----------
+ - SLSTART.BSP - "Slide Test Centre"
+ - SLIDE1.BSP - "Volcanic Detour"
+  - Author: Nick "SiNGE" Bousman (singe@ix.netcom.com)
+
+ - SLIDE2.BSP - "Black Diamond"
+ - SLIDE3.BSP - "Scenic Germany"
+  - Author: Glenn "Griphis" Saaiman (griphis@ix.netcom.com)
+
+ - SLIDE4.BSP - "Enter the Badlands"
+ - SLIDE5.BSP - "TechSlider"
+  - Author: Lucas "Lunaticman" Ellison (lunaticman@hotmail.com)
+
+ - SLIDE6.BSP - "Jehrico 1"
+ - SLIDE7.BSP - "Temple of Gaia"
+  - Author: Steve "Dipstick" Towle (stevet@ftp.cdrom.com)
+
+ - SLIDE8.BSP - "The Abandoned Race"
+  - Author: Scott "Statler" Tatum (tatum@mc.edu)
+
+ - SLIDE9.BSP - "UberSlide"
+  - Author: Matt "Legba" Yaste (legba@best.com)
+
+
+ Planned Stuff:
+ ---------------
+  - Another level pak eventually. ;)
+
+
+ Misc:
+ ------
+ The start level isn't all that great, but that's cause our real start level
+ fell through at the last moment, and I (SiNGE) had to whip up a start level
+ real quick from scratch in one day. Believe me, it shows. :)
+
+ Check out Singe's page 'o patches at:
+
+ http://singe.telefragged.com
+
+ Singe is also the author of Rune Hunt, Artifact Quake, and QTank.
+
+ Check out Griphis' page 'o Quake stuff, once he's ready to tell you where
+ it is!
+
+
+ Copyright and Distribution Permissions
+ ---------------------------------------
+ Authors may NOT use these modifications as a basis for other
+ publically available work unless they ask the author (me), and
+ get permission first.
+
+
+ Availability:
+ --------------
+ http://singe.telefragged.com/slide/slide.html
+ other places

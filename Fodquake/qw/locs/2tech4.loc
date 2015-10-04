@@ -1,0 +1,506 @@
+-23200 13493 -6207 b lower respawn room
+-20920 13819 -6335 b basement
+-18237 9847 -6591 b basement
+-18457 8103 -6369 b drop-shaft
+-15787 12211 -6591 b basement
+-15759 14612 -6591 b flag room
+-18090 11492 -5439 b basement stairs
+-17017 12674 -4031 b basement stairs
+-16926 14246 -3775 b spiral ramps
+-14976 14453 -3775 b basement ramp
+-16274 14440 -4401 b basement ramp
+-17355 14343 -4950 b basement ramp
+-19418 14459 -5947 b basement ramp
+-19567 14230 -3775 b spiral ramps
+-19629 12738 -3653 b striped corridor
+-19554 10552 -3374 b striped corridor
+-19619 7804 -3023 b striped corridor
+-18248 6807 -3007 b way above drop-shaft
+-14701 6856 -2879 b way above drop-shaft
+-14176 10640 -2623 b way at rear lift
+-16437 10612 -1855 b way at rear lift
+-18735 9584 -831 b rear lift
+-18995 15832 -3775 b spiral ramps
+-17360 16198 -3775 b spiral ramps
+-15872 16341 -3230 b spiral ramps, bottom
+-14272 16302 -2751 b spiral ramps, bottom
+-14343 14208 -2751 b spiral ramps, bottom
+-17238 14550 -1727 b spiral ramps, middle
+-15790 16380 -1138 b spiral ramps, middle
+-17035 14208 320 b spiral ramps, top
+-15789 16501 910 b spiral ramps, top
+-14519 15161 1344 b top of spiral ramps lift
+-20300 17054 -3828 b battery room
+-19639 11694 -6591 b basement
+-17928 12628 -6207 b basement stairs
+-18559 10112 -5055 b basement stairs
+-16795 11612 -6591 b basement
+-16953 12441 -6591 b basement
+-15691 15615 -3775 b spiral ramps lift
+-14490 14466 -703 b spiral ramps, middle
+-16615 14320 -3775 b spiral ramps
+-18727 9548 832 b top of rear lift
+-18209 11289 832 b top of rear lift
+-16937 11462 832 b flag cap area
+-16986 10121 832 b flag cap area
+-14980 9774 832 b flag cap area
+-14722 13464 832 b flag cap area
+-16748 13205 832 b flag cap area
+-18141 13103 832 b upper respawn room
+-20341 11411 832 b upper respawn room
+-19843 13144 832 b upper respawn room
+-17100 13671 832 b flag cap area
+-7155 16205 1344 b upper ammo/resupply room
+-7835 15142 1344 b upper ammo/resupply room
+-8713 15114 1344 b upper ammo/resupply room
+-8596 16219 1344 b upper ammo/resupply room
+-9515 16039 1344 b rr ledges, ammo room side
+-10858 15991 1344 b rr ledges, ammo room side
+-13345 16020 1344 b rr ledges, ammo room side
+-13562 14607 1344 b rr ledges, centre
+-13562 14607 1344 b rr ledges, top of ramp
+-13518 11901 1344 b rr ledges, flag cap area
+-13352 10911 1344 b rr ledges, flag cap area
+-12610 10268 1344 b rr ledges, loft side
+-11333 10354 1344 b rr ledges, loft side
+-9993 10345 1344 b rr ledges, loft side
+-8381 10206 1344 b ledge from rr to loft
+-7429 9968 1344 b ledge from rr to loft
+-6186 10082 1088 b loft, rr end
+-4352 4249 1088 b loft, searchlight end
+-13490 15105 1344 b rr ledges, top of ramp
+-14668 14684 1344 b top of spiral ramps lift
+-12606 14781 954 b rr ramp
+-12748 11503 -372 b rr ramp
+-12901 13149 293 b rr ramp
+-12595 15382 1197 b rr ramp
+-12415 16028 1344 b rr ledges, ammo room side
+-13580 12968 1344 b rr ledges, centre
+-13663 12806 1344 b rr ledges, flag cap area
+-8456 15252 192 b water exit room
+-7359 15131 192 b water exit room
+-7371 16639 192 b water exit room
+-7369 16320 -2367 b water tunnel
+-13050 15903 -831 b rr, amongst computers
+-9412 16781 -831 b rr, computer alcove
+-9752 15192 -831 b rr
+-11891 14701 -831 b rr
+-13346 14496 -831 b rr
+-11585 13606 -831 b rr
+-11117 12105 -831 b rr
+-10111 11483 -831 b rr, amongst packing cases
+-9894 10232 -831 b rr, amongst packing cases
+-11654 10334 -831 b rr
+-13672 11317 -831 b rr
+-12894 12270 -831 b rr
+-10929 16061 -831 b rr, amongst computers
+-11799 11499 -831 b rr
+-12730 12660 95 b rr ramp
+-10632 13306 -575 b rr steps
+-9851 13353 -63 b rr steps
+-9799 14181 -63 b rr steps
+-10389 14202 -447 b rr steps
+-10456 15019 -831 b rr
+-10632 12662 -831 b rr
+-9599 11952 -831 b rr, amongst packing cases
+-12187 16975 192 b megacharge room
+-12885 17095 192 b megacharge room
+-13551 17138 192 b megacharge room
+-13539 17940 192 b megacharge room
+-12682 17972 192 b megacharge room
+-14408 16243 1344 b top of spiral ramps lift
+-9863 10895 192 b rr, small platform
+-9779 10110 192 b rr, small platform
+-9717 9160 114 b way to small platform
+-9669 7966 -63 b way to small platform
+-7421 6979 -63 b way to small platform
+-7188 5290 64 b way to small platform
+-7271 3570 64 b way to small platform
+-6214 3169 64 b front entrance lobby
+-6308 4774 64 b front entrance lobby
+-6337 6435 64 b front entrance lobby
+-6345 7943 64 b front entrance lobby
+-6399 9870 64 b front entrance lobby
+-5324 10090 64 b front entrance lobby
+-5222 8690 64 b front entrance lobby
+-5216 6909 64 b front entrance lobby
+-5210 3639 64 b front entrance lobby
+-5263 4988 64 b front entrance lobby
+-8395 13962 192 b way to rr steps
+-8518 12381 192 b way to rr steps
+-8361 10651 192 b way to rr steps
+-8547 8914 192 blue bas - way to rr steps
+-7636 8780 192 b way to rr steps
+-7433 10385 192 b way to rr steps
+-7263 12233 192 b way to rr steps
+-7431 13988 192 b way to rr steps
+-6115 5468 64 b front entrance lobby
+-7394 6346 -63 b way to small platform
+-7379 9914 192 b way to rr steps
+-3776 10124 -319 b outside front entrance
+-3955 8385 -319 b outside front entrance
+-3966 7213 -319 b outside front entrance
+-3878 6400 -319 b outside front entrance
+-4125 5827 64 b outside front entrance
+-4199 9300 64 b outside front entrance
+-3921 4826 -319 b outside, under loft
+-3835 3391 -319 b outside, under loft
+-4009 4136 -319 b outside, under loft
+-2468 4365 -319 b outside, in front of loft
+-1550 4672 -319 b outside, in front of loft
+-370 5009 -319 b outside, in front of loft
+-542 3491 -319 b outside, shadows by loft
+-1799 3502 -319 b outside, shadows by loft
+-837 10367 -319 b outside front entrance
+-903 8609 -319 b outside front entrance
+-1392 7656 -319 b outside front entrance
+277 6546 -63 outside on bridge
+1513 6498 -63 outside on bridge
+2793 6551 -63 outside on bridge
+4393 6545 -63 outside on bridge
+5834 6540 -63 outside on bridge
+7796 6546 -63 outside on bridge
+-244 9217 -2349 b water tunnel
+-2008 9425 -2367 b water tunnel
+-3062 9371 -2367 b water tunnel
+-4802 9290 -2367 blue base -water tunnel
+-6516 9362 -2367 b water tunnel
+-7568 10693 -2367 b water tunnel
+-7606 13028 -2367 b water tunnel
+-7433 14439 -2367 b water tunnel
+-7704 15976 -2367 b water tunnel
+814 9549 -2367 water
+478 7834 -2367 water
+2628 7947 -2118 water
+4202 8026 -2161 water
+5858 8027 -2165 water
+6631 7972 -2003 water
+7686 6510 -2367 water
+5678 6542 -2151 water
+4534 6540 -1984 water
+3116 6518 -1981 water
+1442 6493 -2367 water
+489 6512 -2097 water
+291 9333 -2242 water
+903 5108 -2004 water
+869 4120 -2274 water
+373 2816 -2142 water
+-7276 16380 -1041 b water tunnel
+-7276 16380 -977 b water tunnel
+646 6503 -1801 water
+1604 6523 -1591 water
+2973 6551 -1848 water
+4437 6581 -1730 water
+5914 6577 -1599 water
+7500 6646 -1788 water
+8493 3132 -319 r outside front entrance
+8518 4527 -319 r outside front entrance
+9459 6386 -319 r outside front entrance
+7858 7783 -319 r outside, in front of loft
+10351 7986 -319 r oustide, in front of loft
+11890 8147 -319 r outside, under loft
+11917 9385 -319 r outside, under loft
+11943 10304 -319 r outside, under loft
+10161 8926 -319 r outside, shadows by loft
+10049 9864 -319 r outside, shadows by loft
+9373 10082 -319 r outside, shadows by loft
+11991 6511 -319 r outside front entrance
+12046 5652 -319 r outside front entrance
+12179 4781 -319 r outside front entrance
+11899 3022 -319 r outside front entrance
+11794 3892 64 r outside front entrance
+11823 7346 64 r outside front entrance
+2542 6611 -1733 water
+234 6463 -1810 water
+7783 6373 -1630 water
+7081 10223 -1600 water
+8366 9906 -319 r outside, shadows by loft
+7450 4613 -1626 water
+7300 3088 -1710 water
+8389 3926 -2311 r water tunnel
+10783 3884 -2367 r water tuunel
+12949 3703 -2285 r water tunnel
+14677 3579 -2367 r water tunnel
+15128 1791 -2202 r water tunnel
+15096 -757 -2367 r water tunnel
+15474 -2500 -2367 r water tunnel
+14870 -3040 -739 r water tunnel
+14592 -3455 192 r water exit room
+14612 -1664 192 r water exit room
+16639 -1664 192 r water exit room
+16639 -3455 192 r water exit room
+13012 10152 64 r front entrance lobby
+13021 8966 64 r front entrance lobby
+13029 7788 64 r front entrance lobby
+13021 6740 64 r front entrance lobby
+13010 5719 64 r front entrance lobby
+13011 4623 64 r front entrance lobby
+13115 3200 64 r front entrance lobby
+14128 3154 64 r front entrance lobby
+14113 3871 64 r front entrance lobby
+14209 5048 64 r front entrance lobby
+14056 8001 64 r front entrance lobby
+14126 10098 64 r front entrance lobby
+14091 9164 64 r front entrance lobby
+15063 9735 64 r way to small platform
+15066 9103 64 r way to small platform
+15030 7761 64 r way to small platform
+15212 5973 -63 r way to small platform
+17454 3923 139 r way to small platform
+17550 5415 -63 r way to small platform
+14956 4856 192 r way to rr steps
+14971 4147 192 r way to rr steps
+16331 4718 192 r way to rr steps
+16250 3455 192 r way to rr steps
+16345 2031 192 r way to rr steps
+16365 359 192 r way to rr steps
+16370 -939 192 r way to rr steps
+16399 1556 192 r way to rr steps
+15076 3200 192 r way to rr steps
+15034 1952 192 r way to rr steps
+14998 893 192 r way to rr steps
+15108 -923 192 r way to rr steps
+16448 -1091 192 r way to rr steps
+14959 -1125 192 r way to rr steps
+7789 6840 -1447 water
+-248 7150 -1522 water
+-82 6201 -1502 water
+190 10206 -1598 water
+225 8446 -1501 water
+17677 2164 192 r rr, small platform
+17357 3113 192 r rr, small platform
+17330 2305 192 r rr, small platform
+17286 -175 -63 r rr steps
+17311 -971 -63 r rr steps
+17279 700 -831 r rr, amongst packing cases
+17471 1844 -831 r rr, amongst packing cases
+17326 3065 -831 r rr, amongst packing cases
+19065 3073 -831 r rr
+19042 1947 -831 r rr
+19023 551 -831 r rr
+19096 -1064 -831 r rr
+19012 -1745 -831 r rr
+17433 -1889 -831 r rr
+17426 -2227 -831 r rr
+18711 -2402 -831 r rr
+20953 -1811 -831 r rr
+20964 -2828 -831 r rr, amongst computers
+19958 -2787 -831 r rr, amongst computers
+17114 -3813 -831 r rr, computer alcove
+17849 -3111 -831 r rr, amongst computers
+19368 -2862 -831 r rr, amongst computers
+18359 -941 -575 r rr steps
+18336 -149 -575 r rr steps
+16249 2479 192 r way to rr steps
+18391 703 -831 r rr
+16584 -1721 1344 r upper ammo/resupply room
+16417 -3102 1344 r upper ammo/resupply room
+16359 -1906 1344 r upper ammo/resupply room
+14918 -3075 1344 r upper ammo/resupply room
+15471 -2164 1344 r upper ammo/resupply room
+19256 -3740 192 r megacharge room
+20223 -3846 192 r megacharge room
+21481 -3833 192 r megacharge room
+21491 -4939 192 r megacharge room
+20248 -5020 192 r megacharge room
+20426 1981 -491 r rr ramp
+20359 595 69 r rr ramp
+20438 -767 619 r rr ramp
+20424 -2141 1174 r rr ramp
+20474 -209 -831 r rr
+21293 1878 -831 r rr
+20240 896 -831 r rr
+17306 -3104 1344 r rr ledges, ammo room side
+18437 -3092 1344 r rr ledges, ammo room side
+19417 -3050 1344 r rr ledges, ammo room side
+20444 -3088 1344 r rr ledges, top of ramp
+21202 -2323 1344 r rr ledges, top of ramp
+21207 -865 1344 r rr ledges, centre
+21206 87 1344 r rr ledges, centre
+21309 733 1344 r rr ledges, flag cap area
+21329 1851 1344 r rr ledges, flag cap area
+21333 2617 1344 r rr ledges, flag cap area
+20277 3099 1344 r rr ledges, loft side
+19427 3097 1344 r rr ledges, loft side
+18446 3082 1344 r rr ledges, loft side
+17486 3093 1344 r rr ledges, loft side
+22273 3442 832 r flag cap area
+22874 2420 978 r flag cap area
+22876 924 978 r flag cap area
+22857 1839 987 r flag cap area
+22280 -124 832 r flag cap area
+23455 -236 832 r flag cap area
+24503 -219 832 r flag cap area
+24627 565 832 r flag cap area
+24582 1687 832 r flag cap area
+24548 3077 832 r flag cap area
+25797 5 832 r upper respawn room
+27055 -3 832 r upper respawn room
+28074 21 832 r upper respawn room
+28194 1886 832 r upper respawn room
+27468 1912 832 r upper respawn room
+27421 879 832 r upper respawn room
+26383 3596 832 r top of rear lift
+26378 2518 832 r top of rear lift
+25654 1803 832 r top of rear lift
+22137 -1445 1344 r top of spiral ramps lift
+22149 -2281 1344 r top of spiral ramps lift
+22328 -3091 1344 r spiral ramps, top
+21227 -1590 1344 r rr ledges, top of ramp
+20268 -1504 917 r rr ramp
+24839 -1609 320 r spiral ramps, top
+23653 -1333 -35 r spiral ramps, top
+23466 -3099 911 r spiral ramps, top
+22997 -1270 -385 r spiral ramps, middle
+22153 -2986 -703 r spiral ramps, middle
+23515 -3157 -1162 r spiral ramps, middle
+22147 -1529 -703 r spiral ramps, middle
+24654 -1274 -1727 r spiral ramps, middle
+23949 -1270 -1925 r spiral ramps, middle
+22895 -1293 -2487 r spiral ramps, bottom
+22134 -1328 -2751 r spiral ramps, bottom
+22146 -2305 -2751 r spiral ramps, bottom
+22197 -3040 -2751 r spiral ramps, bottom
+23160 -3045 -3021 r spiral ramps, bottom
+23880 -3042 -3404 r spiral ramps, bottom
+21129 -992 -831 r rr
+21225 -1533 -831 r rr
+16211 3142 1344 r ledge from rr to loft
+15549 3149 1344 r ledge from rr to loft
+15166 3153 1344 r ledge from rr to loft
+13702 3223 1088 r loft, rr end
+12916 3111 1088 r loft, rr end
+12877 4032 1088 r loft, rr end
+14036 4163 1088 r loft, rr end
+14102 5065 1088 r loft, rr end
+13027 5144 1088 r loft, rr end
+13200 7412 1088 r loft, searchlight end
+13940 7438 1088 r loft, searchlight end
+14070 8687 1088 r loft, searchlight end
+14183 10130 1088 r loft, searchlight end
+12909 10249 1088 r loft, searchlight end
+11951 9127 1088 r loft, searchlight end
+24032 -2252 -3775 r spiral ramps lift
+23183 -2221 -3775 r spiral ramps lift
+25038 -2166 -3775 r spiral ramps
+24995 -3099 -3775 r spiral ramps
+24673 -1165 -3775 r spiral ramps
+23391 -842 -3775 r spiral ramps
+23532 -1308 -3775 r spiral ramps
+27240 -1011 -3775 r spiral ramps
+26081 -1105 -3775 r spiral ramps
+26768 -2518 -3775 r spiral ramps
+27183 -1529 -3775 r spiral ramps
+26341 -3043 -3775 r spiral ramps
+23591 -1124 -4183 r basement ramp
+24283 -1042 -4588 r basement ramp
+25497 -1034 -5174 r basement ramp
+26642 -1021 -5726 r basement ramp
+27338 -1059 -6062 r basement ramp
+24809 319 -4031 r basement stairs
+24820 1612 -4543 r basement stairs
+24756 2826 -5055 r basement stairs
+25949 2818 -5055 r basement stairs
+25937 1856 -5439 r basement stairs
+25909 729 -6207 r basement stairs
+30421 -1197 -6207 r lower respawn room
+31561 -1120 -6207 r lower respawn room
+31441 240 -6207 r lower respawn room
+30531 282 -6207 r lower respawn room
+30246 -435 -6207 r lower respawn room
+28915 -375 -6335 r basement
+28250 -1118 -6335 r basement
+28790 -1187 -6335 r basement
+28799 879 -6335 r basement
+28746 3298 -6591 r basement
+27129 566 -6591 r basement
+26928 2078 -6591 r basement
+25732 2651 -6591 r basement
+24690 701 -6591 r basement
+24859 1563 -6591 r basement
+23379 548 -6591 r basement
+22877 1293 -6591 r basement
+23148 2886 -6591 r basement
+23542 3405 -6591 r basement
+25977 3407 -6591 r basement
+23349 -195 -6591 r flag room
+23400 -1301 -6591 r flag room
+23461 -2813 -6706 r flag room
+24272 -4071 -6975 r flag room
+24175 -4704 -6975 r flag room
+22564 -4718 -6975 r flag room
+22555 -3978 -6975 r flag room
+25287 6043 -6335 r drop-shaft
+26295 5930 -6335 r drop-shaft
+26021 4531 -6479 r drop-shaft
+27862 -3722 -3779 r battery room
+27272 35 -3705 r striped corridor
+27254 1694 -3494 r striped corridor
+27292 3591 -3251 r striped corridor
+27301 5348 -3027 r striped corridor
+26408 6559 -3007 r corridor above drop-shaft
+24042 6433 -3007 r corridor above drop-shaft
+22372 6401 -2879 r corridor above drop-shaft
+20744 6351 -2751 r corridor above drop-shaft
+20030 3287 -2623 r way at rear lift
+21606 2546 -2623 r way at rear lift
+23771 2633 -1855 r way at rear lift
+25642 2583 -1343 r way at rear lift
+26484 2468 -1215 r way at rear lift
+26395 4267 -767 r rear lift
+26376 3320 -959 r rear lift
+26486 1730 832 r top of rear lift
+21178 -2993 1344 r rr ledges, top of ramp
+15737 -3200 704 r water exit room
+16100 -2087 -2367 r water tunnel
+16257 -2018 -1115 r water tunnel
+16375 -3235 -1086 r water tunnel
+16375 -3235 -1813 r water tunnel
+16338 -2434 -1211 r water tunnel
+16075 5947 -63 r way to small platform
+18335 -1925 -831 r rr
+15103 -3143 -2367 r water tunnel
+16639 -3391 -717 r water tunnel
+14656 -1728 -827 r water tunnel
+4322 8339 -2367 water
+7103 8532 -1432 water
+4279 5816 -1380 water
+3859 6458 -1277 water
+1967 9198 -1672 water
+5061 8989 -1680 water
+5816 4364 -1623 water
+2145 4219 -1898 water
+358 3686 -1460 water
+-8959 14912 -2367 b water tunnel
+-8959 14912 -768 b water tunnel
+-8959 15957 -876 b water tunnel
+-8959 16575 -768 b water tunnel
+-6976 14912 -933 b water tunnel
+-6155 5188 64 b front entrance lobby
+-6241 5379 64 b front entrance lobby
+-6209 3641 64 b front entrance lobby
+-8581 9753 192 b way to rr steps
+-9666 15068 -831 b rr
+-9547 14929 -831 b rr
+-9488 15583 -831 b rr
+-13100 15995 1344 b rr, top of ramp
+-13486 15558 1344 b rr, top of ramp
+-13516 16237 1344 b rr, top of ramp
+-5255 9200 1088 b loft, rr end
+-5220 6997 1088 b loft, rr end
+-6130 8292 1088 b loft, rr end
+-6217 7148 1088 b loft, rr end
+-5416 4342 1088 b loft, searchlight end
+-6304 3255 1088 b loft, searchlight end
+-6255 4701 1088 b loft, searchlight end
+-5198 5376 1088 b loft, searchlight end
+-6253 6023 1088 b loft, searchlight end
+-14563 16268 -703 b spiral ramps, middle
+-15575 14463 -3981 b basement ramp
+-12160 10080 -2623 b way at rear lift
+-15858 15289 -3775 b spiral ramps lift
+-15627 15326 -3775 b spiral ramps lift
+-15808 14575 -3775 b spiral ramps
+-17972 13255 832 b upper respawn room
+-8669 16384 192 b water exit room
+-7807 16128 704 b water exit room

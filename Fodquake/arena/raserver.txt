@@ -1,0 +1,131 @@
+Title    : Final Arena Server Code
+Filename : fasrv12.zip
+Version  : 1.20
+Date     : 12-8-97
+Author   : David 'crt' Wright
+Email    : wrightd@stanford.edu
+Webpage  : http://www.planetquake.com/servers/arena
+
+Intro
+-----
+Rocket Arena is an interesting new twist to traditional deathmatch. 
+It is a strictly one-on-one game with "winner stays, loser goes" type rotation. 
+It is designed both to improve deathmatch skills and be a kick butt patch to boot.  
+
+Installation Instructions
+-------------------------
+
+READ THESE THOROUGHLY BEFORE INSTALLING
+
+Rocket Arena is both a QuakeWorld and Normal Quake patch.
+You MUST also install the client pak according to its directions before
+running the server.
+
+To install:
+Extract the progs.dat and qwprogs.dat into your \quake\arena directory.
+You do NOT have to install the source code, that is optional.
+
+To run a QuakeWorld 2.10 server, use:
+qwsv.exe +gamedir arena +setmaster 204.182.161.2 +exec rotate.cfg +maxclients 6 +timelimit 20 +fraglimit 15
+
+To run a Normal Quake server:
+Start quake or winquake or winded with 
+winquake -game arena -dedicated 6 +map arenax +timelimit 20 +fraglimit 15
+
+however you can run either a listen or dedicated server.
+The normal Quake version automatically rotates through all the current maps.
+To customize the rotation, you must recompile the source. Look at "rotate.qc" for
+more info.
+
+The QuakeWorld version has customized rotation.
+
+Exec 'rotate.cfg' to run all the Final Arena maps
+
+OR
+
+Exec 'newmaps.cfg' to run through the new Final Arena and the TF Arena maps
+
+OR
+
+Exec 'classic.cfg' to run some of the most popular earlier Arena maps
+
+OR
+
+customize the rotate.cfg file to your preference. Note that the last map must
+loop to the first.
+
+The rotate configs do NOT have time or fraglimits set, so you will need to set
+them yourself.
+
+Also, you may want to designate your server as 'HPB' or 'LPB'
+While not everyone will follow these designations, it will help significantly.
+A 4 or 5:1 ratio of HPB:LPB servers should be about right, so check and see what
+type other people are running.
+
+We feel that 6-7 players is the max for a good RA server, but feel free to experiment.
+
+How to Play
+-----------
+
+See the client pak documentation
+
+
+Impulse Quick Reference
+-----------------------
+
+IMPULSE 68 - shows simple statistics for the current level. Skill = wins / (wins + loses) * 100
+IMPULSE 69 - shows your "position" in line
+IMPULSE 70 - step out of line for up to 5 minutes
+IMPULSE 71 - set status bar text for 320x200
+IMPULSE 72 - set status bar text for 320x240 or higher
+
+These only work on the client side of course.
+
+The Maps
+--------
+See client pak documentation
+
+The Quake-C Code
+----------------
+Include in this distribution is the QC code for Normal Quake and QuakeWorld.
+The following rules govern the use of the QC:
+1. You may not sell, license, lease, or otherwise commercialy exploit the source.
+2. You may not create derivative works from this source with the following exceptions:
+     a. You may modify the code to display your own MOTD, or other server info
+     b. You may modify the code to use a custom map rotation.
+3. You MAY however use individual routines and functions in your own mod, so long
+   as credit is given.
+
+My reasoning for not allowing derivative works is simply that I do not wish to deal
+with seven or eight mildly different versions of RA which will simply confuse players
+and send a lot of mail in my direction. If you have a cool feature that you would like
+to add, contact me, and I will either add it or let you do it and give you credit.
+I am releasing this source so that you can learn from it and make minor changes 
+to your public server. I did not release it earlier because it was not in a condition
+I would want to support.
+
+With that said, if you are trying to learn from the source, the QW source is much
+better organized and commented. Check the arena.qc file.
+I use a circularly linked list to store the line, which should be documented in
+just about any C/S book.
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+This patch is freely distributable provided that 
+this readme is distributed as well and is unchanged.
+
+All code is copyright PlanetQuake 1997.
+Commercial code licensing is available by contacting wrightd@stanford.edu
+
+DISCLAIMER:  If this patch ever formats your hard drive, TerMy takes full legal
+responsibility. Uh.. just kidding.. this patch is 100% safe, tested, and FDA approved,
+so you should have no trouble with it. But if you do.. its not our fault.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+WWW   : http://www.planetquake.com/servers/arena
+

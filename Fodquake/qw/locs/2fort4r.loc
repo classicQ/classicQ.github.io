@@ -1,0 +1,419 @@
+-5024 -17378 -31 bl balcony respawn
+-7224 -16759 -31 bl balcony respawn
+-7185 -17471 -31 bl balcony respawn
+-5024 -15360 -31 bl balcony respawn
+-10701 -9439 192 bl balcony
+-10780 -8855 192 bl balcony
+-23263 -30168 -3423 bl basement respawn
+-21846 -32511 -3423 bl basement respawn
+-23360 -22839 -3423 bl lower lift
+-24552 -21875 -3359 bl lower lift
+-25823 -22814 -3423 bl lower lift
+-24906 -24050 -3423 bl lower lift
+-24256 -24053 -3423 bl lower lift
+-24256 -24333 -3423 bl basement (near lift)
+-24927 -24298 -3423 bl basement (near lift)
+-24256 -26225 -3423 bl basement (near lift)
+-24927 -26415 -3423 bl basement (near lift)
+-24927 -28159 -3423 bl basement (near lift)
+-20672 -28159 -3423 bl basement (near lift)
+-20672 -26495 -3423 bl basement (near lift)
+-22893 -28230 -3423 bl basement (near lift)
+-17312 -19327 -3423 bl basement (near spiral)
+-17359 -17852 -3423 bl basement (near spiral)
+-17387 -16964 -3423 bl basement (near spiral)
+-17401 -16576 -3423 bl basement (near spiral)
+-19103 -16631 -3423 bl basement (near spiral)
+-19103 -19667 -3423 bl basement (near spiral)
+-19858 -19712 -3423 bl basement
+-18086 -19976 -3423 bl basement
+-18080 -23756 -3423 bl basement
+-19871 -23704 -3423 bl basement
+-18559 -25983 -3423 bl way to flag
+-16768 -25983 -3423 bl way to flag
+-18493 -24111 -3423 bl way to flag
+-16768 -24192 -3423 bl way to flag
+-17978 -24260 -3423 bl way to flag
+-15571 -25080 -3423 bl way to flag
+-12532 -25016 -3423 bl way to flag
+-8992 -24736 -3423 bl way to flag
+-8953 -25471 -3423 bl way to flag
+-8703 -23710 -3423 bl flagroom
+-6912 -23680 -3423 bl flagroom
+-6912 -26495 -3423 bl flagroom
+-8703 -26495 -3423 bl flagroom
+-8688 -25557 -3423 bl flagroom
+-8740 -24736 -3423 bl flagroom
+-17105 -17727 -3423 bl lower spiral
+-17088 -17152 -3423 bl lower spiral
+-13681 -17832 -2544 bl lower spiral
+-14239 -17825 -2547 bl lower spiral
+-13666 -18071 -2436 bl middle spiral
+-14239 -18064 -2439 bl middle spiral
+-13664 -20255 -1823 bl middle spiral
+-14330 -19680 -1788 bl middle spiral
+-17425 -20254 -593 bl middle spiral
+-17422 -19680 -594 bl middle spiral
+-17721 -20249 -575 bl top spiral
+-17706 -19680 -575 bl top spiral
+-18303 -20237 -575 bl top spiral
+-18303 -16357 192 bl top spiral
+-17728 -16389 192 bl top spiral
+-18291 -16124 192 bl toproom spiral
+-17710 -16147 192 bl toproom spiral
+-16128 -16159 192 bl toproom spiral
+-16128 -14368 192 bl toproom spiral
+-18283 -14368 192 bl toproom spiral
+-17521 -14374 192 bl toproom spiral
+-16992 -14355 192 bl toproom spiral
+-17004 -13989 192 bl 2nd floor
+-17503 -14008 192 bl 2nd floor
+-16064 -13951 192 bl 2nd floor
+-16064 -13384 192 bl 2nd floor
+-15993 -13088 192 bl 2nd floor
+-16064 -11656 192 bl 2nd floor
+-18208 -11663 192 bl 2nd floor
+-18789 -11682 192 bl 2nd floor
+-21471 -11668 192 bl 2nd floor
+-21392 -14114 192 bl 2nd floor
+-20544 -14086 192 bl 2nd floor
+-20544 -14328 192 bl ramproom
+-21617 -14379 192 bl ramproom
+-18418 -13951 192 bl 2nd floor
+-23253 -12153 192 bl 2nd floor
+-23597 -12166 192 bl refill
+-23552 -10816 192 bl refill
+-25343 -10894 192 bl refill
+-25343 -12607 192 bl refill
+-23552 -12607 192 bl refill
+-20544 -19199 192 bl ramproom
+-24842 -19192 192 bl ramproom
+-24991 -14368 -1215 bl ramproom
+-24991 -19199 -1215 bl ramproom
+-20544 -19199 -1215 bl ramproom
+-20564 -14233 -1215 bl ramproom
+-21471 -14269 -1215 bl ramproom
+-20544 -16685 -1215 bl ramproom
+-20544 -17509 -1215 bl ramproom
+-25439 -19584 224 bl top lift
+-23648 -19584 224 bl top lift
+-23648 -23103 352 bl top lift
+-25439 -23103 352 bl top lift
+-24852 -19551 224 bl top lift
+-23820 -19199 -575 bl ramproom
+-23450 -17089 192 bl ramproom
+-21459 -11648 -1215 bl right way to ramps
+-21467 -13830 -1215 bl right way to ramps
+-20579 -13878 -1215 bl right way to ramps
+-16192 -13951 -1215 bl right way to ramps
+-16192 -13232 -1215 bl right way to ramps
+-16192 -12508 -1215 bl right way to ramps
+-16192 -11648 -1215 bl right way to ramps
+-18619 -11716 -1215 bl right way to ramps
+-18564 -13856 -1215 bl right way to ramps
+-15807 -13471 -1215 bl below grate
+-15807 -10112 -1215 bl below grate
+-14016 -10112 -1215 bl below grate
+-14016 -11663 -1215 bl below grate
+-13989 -13471 -1215 bl below grate
+-13756 -13467 -1215 bl top of water stairs
+-13787 -11712 -1215 bl top of water stairs
+-11346 -11712 -1215 bl top of water stairs
+-11315 -13503 -1215 bl top of water stairs
+-12294 -13492 -1215 bl top of water stairs
+-12883 -13475 -1215 bl top of water stairs
+-12352 -13974 -1215 bl left way to ramps
+-12959 -13957 -1215 bl left way to ramps
+-12352 -17503 -1215 bl left way to ramps
+-14634 -17503 -1215 bl left way to ramps
+-17672 -17272 -1215 bl left way to ramps
+-20267 -16736 -1215 bl left way to ramps
+-20310 -17503 -1215 bl left way to ramps
+-15634 -13471 64 bl grate
+-14048 -13471 64 bl grate
+-14048 -9984 64 bl grate
+-15647 -9984 64 bl grate
+-15647 -11843 64 bl grate
+-15807 -11557 -1215 bl below grate
+-17983 -9727 -1215 bl entrance
+-15603 -9727 -1215 bl entrance
+-14071 -9663 -1215 bl entrance
+-11648 -9727 -1215 bl entrance
+-11649 -8032 -1215 bl entrance
+-12064 -7828 -1215 bl entrance
+-13023 -7751 -1215 bl entrance
+-16352 -7825 -1215 bl entrance
+-17311 -7754 -1215 bl entrance
+-10831 -7551 -1727 bl outside
+-10784 -3983 -1727 bl outside
+-13885 -4288 -1727 bl outside
+-15460 -4288 -1727 bl outside
+-18719 -4191 -1727 bl outside
+-18719 -7551 -1727 bl outside
+-17568 -7551 -1727 bl outside
+-16095 -7551 -1727 bl outside
+-13280 -7551 -1727 bl outside
+-11989 -7551 -1215 bl outside
+-13023 -7562 -1215 bl outside
+-16373 -7603 -1215 bl outside
+-17311 -7657 -1215 bl outside
+-14176 -3945 -1727 bridge
+-15231 -4005 -1727 bridge
+-15231 3320 -1727 bridge
+-14176 3315 -1727 bridge
+-11256 -13503 -6655 bl water entrance
+-10784 -13503 -1343 bl water stairs
+-9568 -11712 -2431 bl water stairs
+-9568 -13503 -3071 bl water stairs
+-11231 -13503 -3711 bl water stairs
+-11231 -11712 -4351 bl water stairs
+-9568 -11712 -4991 bl water stairs
+-9568 -13503 -5631 bl water stairs
+-11256 -13503 -6655 bl water entrance
+-12140 -13503 -6655 bl water entrance
+-12165 -11776 -6655 bl water entrance
+-9568 -11712 -6655 bl water entrance
+-9568 -13503 -6655 bl water entrance
+-10423 -13503 -6655 bl water entrance
+-18719 -11432 192 bl right way from balcony
+-18368 -11452 192 bl right way from balcony
+-18648 -9822 192 bl right way from balcony
+-18368 -9838 192 bl right way from balcony
+-18719 -8032 192 bl balcony
+-18719 -9350 192 bl balcony
+-18247 -9599 192 bl balcony
+-15727 -9599 192 bl balcony
+-13951 -9599 192 bl balcony
+-10784 -9599 192 bl balcony
+-10784 -8032 192 bl balcony
+-13375 -8096 192 bl balcony
+-16064 -8032 192 bl balcony
+-10562 -8704 192 bl left way from balcony
+-10571 -9439 192 bl left way from balcony
+-7712 -8738 -31 bl left way from balcony
+-8511 -16095 -31 bl left way from balcony
+-7543 -15360 -31 bl left way from balcony
+-7603 -16095 -31 bl left way from balcony
+-7303 -15421 -31 bl balcony respawn
+-7303 -15421 -31 bl balcony respawn
+-7258 -16240 -31 bl balcony respawn
+-23999 -32511 -3423 bl basement respawn
+-23993 -30720 -3423 bl basement respawn
+-21824 -30720 -3423 bl basement respawn
+-22464 -30440 -3423 bl basement respawn
+-22477 -29970 -3423 bl basement (near respawn)
+-23263 -29995 -3423 bl basement (near respawn)
+-15712 3472 -1727 œreœ outside
+-13695 3557 -1727 œreœ outside
+-10784 3600 -1727 œreœ outside
+-10784 6779 -1727 œreœ outside
+-11935 6783 -1727 œreœ outside
+-13408 6783 -1727 œreœ outside
+-16223 6783 -1727 œreœ outside
+-17696 6760 -1727 œreœ outside
+-18719 6783 -1727 œreœ outside
+-17855 7264 -1215 œreœ entrance
+-17491 7264 -1215 œreœ entrance
+-16480 7257 -1215 œreœ entrance
+-13324 7265 -1215 œreœ entrance
+-12192 7259 -1215 œreœ entrance
+-11520 7264 -1215 œreœ entrance
+-11520 8959 -1215 œreœ entrance
+-13755 8959 -1215 œreœ entrance
+-15231 8963 -1215 œreœ entrance
+-17855 8959 -1215 œreœ entrance
+-16465 6783 -1215 œreœ outside
+-17439 6786 -1215 œreœ outside
+-13190 6739 -1222 œreœ outside
+-12087 6726 -1224 œreœ outside
+-24479 16735 -31 œreœ sniper respawn
+-24479 14624 -31 œreœ sniper respawn
+-22221 14624 -31 œreœ sniper respawn
+-22222 15440 -31 œreœ sniper respawn
+-22225 16735 -31 œreœ sniper respawn
+-21791 14592 -31 œreœ left way from balcony
+-21792 15359 -31 œreœ left way from balcony
+-20992 15359 -31 œreœ left way from balcony
+-21762 7968 -31 œreœ left way from balcony
+-21156 7974 -31 œreœ left way from balcony
+-19046 8703 96 œreœ left way from balcony
+-19099 7968 96 œreœ left way from balcony
+-18578 8674 192 œreœ balcony
+-18719 7265 192 œreœ balcony
+-16068 7264 192 œreœ balcony
+-13407 7264 192 œreœ balcony
+-13885 8831 192 œreœ balcony
+-15548 8831 192 œreœ balcony
+-10784 7264 192 œreœ balcony
+-10784 8881 192 œreœ balcony
+-11135 8847 192 œreœ balcony
+-10802 9109 192 œreœ right way from balcony
+-11135 9071 192 œreœ right way from balcony
+-10909 10670 192 œreœ right way from balcony
+-11135 10646 192 œreœ right way from balcony
+-10793 10917 192 œreœ 2nd floor
+-11262 10896 192 œreœ 2nd floor
+-13439 10880 192 œreœ 2nd floor
+-13439 13183 192 œreœ 2nd floor
+-12622 13183 192 œreœ 2nd floor
+-12000 13197 192 œreœ 2nd floor
+-11383 13166 192 œreœ 2nd floor
+-9057 13183 192 œreœ 2nd floor
+-8032 13233 192 œreœ 2nd floor
+-8032 11404 192 œreœ 2nd floor
+-8032 10880 192 œreœ 2nd floor
+-6580 11455 192 œreœ 2nd floor
+-6651 11072 192 œreœ 2nd floor
+-6143 11583 192 œreœ refill
+-4352 11583 192 œreœ refill
+-4352 9792 192 œreœ refill
+-6143 9792 192 œreœ refill
+-6143 10860 192 œreœ refill
+-8959 13505 192 œreœ ramproom
+-8032 13504 192 œreœ ramproom
+-4512 13600 -1215 œreœ ramproom
+-4512 18431 -575 œreœ ramproom
+-8959 18431 192 œreœ ramproom
+-4512 18396 192 œreœ ramproom
+-4799 18461 224 œreœ ramproom
+-5978 16133 192 œreœ ramproom
+-5855 18816 224 œreœ top lift
+-4065 18816 224 œreœ top lift
+-5744 22335 352 œreœ top lift
+-4064 22335 352 œreœ top lift
+-11200 13600 192 œreœ toproom spiral
+-13375 13600 192 œreœ toproom spiral
+-13375 15391 192 œreœ toproom spiral
+-11200 15227 192 œreœ toproom spiral
+-11775 15396 192 œreœ toproom spiral
+-11224 15729 173 œreœ top spiral
+-11775 15665 188 œreœ top spiral
+-11200 19487 -575 œreœ top spiral
+-11721 19487 -575 œreœ top spiral
+-11775 18877 -567 œreœ top spiral
+-11894 18924 -575 œreœ middle spiral
+-11880 19487 -575 œreœ middle spiral
+-15839 19487 -1823 œreœ middle spiral
+-15187 18912 -1794 œreœ middle spiral
+-15839 17158 -2501 œreœ middle spiral
+-15839 16390 -2591 œreœ lower spiral
+-15828 17004 -2571 œreœ lower spiral
+-15239 16930 -2591 œreœ lower spiral
+-12546 16384 -3423 œreœ lower spiral
+-12362 16959 -3423 œreœ lower spiral
+-12112 16167 -3423 œreœ basement (near spiral)
+-12223 16959 -3423 œreœ basement (near spiral)
+-12191 15808 -3423 œreœ basement (near spiral)
+-10400 15808 -3423 œreœ basement (near spiral)
+-10400 18612 -3423 œreœ basement (near spiral)
+-12185 18559 -3423 œreœ basement (near spiral)
+-13762 12703 192 œreœ grate
+-15455 12703 64 œreœ grate
+-13856 12216 64 œreœ grate
+-13856 10818 64 œreœ grate
+-13856 9216 64 œreœ grate
+-15455 9216 64 œreœ grate
+-9632 18945 -3423 œreœ basement
+-11423 18916 -3423 œreœ basement
+-11423 23072 -3423 œreœ basement
+-10944 23097 -3423 œreœ basement
+-10201 23039 -3423 œreœ basement
+-9632 23057 -3423 œreœ basement
+-10111 25215 -3423 œreœ basement
+-8320 23424 -3423 œreœ basement
+-8831 27391 -3423 œreœ basement (near lift)
+-8831 25776 -3423 œreœ basement (near lift)
+-7910 25600 -3423 œreœ basement (near lift)
+-4576 27391 -3423 œreœ basement (near lift)
+-6282 27391 -3423 œreœ basement (near lift)
+-7388 27380 -3423 œreœ basement (near lift)
+-6208 29135 -3423 œreœ basement (near respawn)
+-7199 29112 -3423 œreœ basement (near respawn)
+-5312 29952 -3423 œreœ basement respawn
+-5312 31743 -3423 œreœ basement respawn
+-8095 31743 -3423 œreœ basement respawn
+-8095 29952 -3423 œreœ basement respawn
+-6208 29789 -3423 œreœ basement respawn
+-7199 29822 -3423 œreœ basement respawn
+-5248 23410 -3423 œreœ basement (near lift)
+-4576 23502 -3423 œreœ basement (near lift)
+-5333 23186 -3423 œreœ lower lift
+-4576 23274 -3423 œreœ lower lift
+-3680 22201 -3423 œreœ lower lift
+-4985 21114 -3423 œreœ lower lift
+-6055 21780 -3423 œreœ lower lift
+-10944 23498 -3423 œreœ way to flag
+-12735 23424 -3423 œreœ way to flag
+-12735 25158 -3423 œreœ way to flag
+-10944 25215 -3423 œreœ way to flag
+-13120 23801 -3423 œreœ way to flag
+-13120 24511 -3423 œreœ way to flag
+-15512 24420 -3423 œreœ way to flag
+-20465 23796 -3423 œreœ way to flag
+-20437 24511 -3423 œreœ way to flag
+-20806 24511 -3423 œreœ flagroom
+-20897 23792 -3423 œreœ flagroom
+-20800 22720 -3423 œreœ flagroom
+-22591 22721 -3423 œreœ flagroom
+-22591 25535 -3423 œreœ flagroom
+-20800 25530 -3423 œreœ flagroom
+-12673 13634 192 œreœ toproom spiral
+-12000 13551 192 œreœ toproom spiral
+-13696 9344 -1215 œreœ below grate
+-15487 9344 -1215 œreœ below grate
+-15458 10917 -1215 œreœ below grate
+-15423 12703 -1215 œreœ below grate
+-13696 12667 -1215 œreœ below grate
+-13735 10582 -1215 œreœ below grate
+-13311 10881 -1215 œreœ right way to ramps
+-13311 13183 -1215 œreœ right way to ramps
+-8032 10880 -1215 œreœ right way to ramps
+-8032 13276 -1215 œreœ right way to ramps
+-9200 13153 -1215 œreœ right way to ramps
+-9205 15980 -1215 œreœ left way to ramps
+-8959 13471 -1215 œreœ ramproom
+-8032 13514 -1215 œreœ ramproom
+-8959 15884 -1215 œreœ ramproom
+-8996 16735 -1215 œreœ ramproom
+-11782 16195 -1215 œreœ left way to ramps
+-17151 16735 -1215 œreœ left way to ramps
+-14606 16280 -1215 œreœ left way to ramps
+-17151 12985 -1215 œreœ left way to ramps
+-16544 13041 -1215 œreœ left way to ramps
+-9331 16707 -1215 œreœ left way to ramps
+-18719 12735 -1343 œreœ water stairs
+-15771 12735 -1215 œreœ top of water stairs
+-15833 10944 -1215 œreœ top of water stairs
+-18091 12715 -1215 œreœ top of water stairs
+-18158 10944 -1215 œreœ top of water stairs
+-19935 10944 -2431 œreœ water stairs
+-19674 12735 -3071 œreœ water stairs
+-18272 12735 -3711 œreœ water stairs
+-18272 10944 -4351 œreœ water stairs
+-19935 10944 -4991 œreœ water stairs
+-19860 12735 -5631 œreœ water stairs
+-18247 12735 -6655 œreœ water entrance
+-17278 12726 -6655 œreœ water entrance
+-17416 11008 -6655 œreœ water entrance
+-19935 10944 -6655 œreœ water entrance
+-19876 12735 -6655 œreœ water entrance
+-10784 3295 -4095 water
+-10784 -3871 -4095 water
+-18719 -3871 -4095 water
+-18719 3295 -4095 water
+-15678 3081 -3027 water
+-13810 3295 -3042 water
+-15541 -3871 -3293 water
+-13635 -3871 -3302 water
+-15066 -3301 -5609 bl water tunnel
+-15076 -3910 -8430 bl water tunnel
+-15616 12735 -6976 œreœ water tunnel
+-14732 2429 -5413 œreœ water tunnel
+-14503 2939 -8991 œreœ water tunnel
+-13939 12735 -8991 œreœ water tunnel
+-15616 11454 -6935 œreœ water tunnel
+-16063 -13503 -8991 bl water tunnel
+-13887 -12620 -6989 bl water tunnel
+-13887 -13503 -6968 bl water tunnel
+-17302 12735 -1215 œreœ top of water stairs
+-16289 12735 -1215 œreœ top of water stairs

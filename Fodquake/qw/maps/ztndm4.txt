@@ -1,0 +1,69 @@
+12/12/97 Original release
+04/16/98 Recompiled with GL transparent water support
+================================================================
+Title                   : The Steeler
+Filename                : ztndm4.bsp
+Author                  : Sten Uusvali
+Email Address           : ztn@planetquake.com
+Description             : Base style deathmatch level
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes, 7 respawn spots
+Player load		: 2 - 6
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Yes, see copyright / permissions
+
+* Misc information *
+
+To make water transparent, type at the console:
+
+r_wateralpha 0.4
+
+This makes sense only if you're using GLQuake or GL QuakeWorld.
+
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft 1.5b, ReMipDLX
+Build Time              : ~2 week
+
+
+* Credits *
+
+- id Software for Quake
+- Ben Morris for Worldcraft
+- Dennis "Headshot" Kaltwasser for providing me textures
+- Ilkka "Fingers" Ker„nen for his textures
+- Jeff Yost for helping me finding textures
+- Neal White III for ReMipDLX
+- and all those who helped me testing this map.
+
+
+* Author *
+
+Name  : Sten Uusvali
+E-mail: ztn@planetquake.com
+Alias : ztn
+Home  : http://www.planetquake.com/dapak
+
+
+* Copyright / Permissions *
+
+You may not extract and use the textures contained in this level without my
+written permission. All textures in this level remain in property of their
+respective owners.
+
+You may distribute this level and include it in any deathmatch compilation
+etc., as long as you: 
+
+1. Include this text file untouched and give me credit.
+2. E-mail me and let me know what you're doing with it.
+
+Thank you,
+Sten Uusvali

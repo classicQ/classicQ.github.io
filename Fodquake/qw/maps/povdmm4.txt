@@ -1,0 +1,11 @@
+PovDMM4
+-------
+
+* Author = me, povo-hat@challenge-au.com / http://povo-hat.besmella-quake.com
+* Designed for dmm4 play
+* Yes
+* Extract povdmm4.bsp to c:\quake\id1\maps or whatever
+* the .map is included if u wanna hax0r around with it
+
+-------
+and thats about it

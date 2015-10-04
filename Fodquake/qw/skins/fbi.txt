@@ -1,0 +1,6 @@
+Clan Leader:         Special Agent Herb
+Full Clan name:      The FBI
+Clan Email Address:  miklein@indiana.edu
+Clan Web Site:       http://copper.ucs.indiana.edu/~miklein/fbi.htm
+
+Name of Skin:        fbi.pcx

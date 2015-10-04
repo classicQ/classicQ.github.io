@@ -1,0 +1,42 @@
+================================================================
+Title                   : AeroWalk
+Filename                : aerowalk.bsp
+Date of Release         : Feb 21, 1998
+Author                  : Mattias Konradsson
+Nick                    : Preacher
+Email Address           : preacher@fragzone.se
+Website			: http://www.planetquake.com/leveled/
+Description             : mediumsized level especially made for 
+			  furious 1on1 play =)
+
+================================================================
+
+* Play Information *
+Game                    : Grab-the-Goat
+Single Player           : No
+Cooperative 2-4 Player  : No  
+Deathmatch 2-16 Player  : bingo
+Difficulty Settings     : Nope
+New Textures            : Yes
+Exit			: Nope
+Intermission Camera	: Yes
+
+* Construction *
+ 
+Editor(s) used          : WorldCraft
+Paint Programs          : Paintshop Pro
+Credits			: Kemikal and InQy, Tomppa, Cthulhu, Lakerman,
+			  KrYo, GPQ,  the cool
+			 people on #quake.se and #level_design. 
+
+			An special thanks goes out to Giggler, 
+			who's map giggler5 heavily inspired this map 
+
+			
+			 And to all other  ppl who I forgot
+			 because I feed my brain with coca-cola
+			 instead of vitamins.
+			
+================================================================
+
+

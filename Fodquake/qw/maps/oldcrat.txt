@@ -1,0 +1,38 @@
+===================================================
+Data                    : 23.03.2002
+Title                   : "Old crater"
+Filename                : oldcrat.bsp
+Author                  : ParboiL  
+Email Address           : parboil@mailru.com
+URL                     : http://www.parboil.mailru.com
+===================================================
+* Play Information *
+
+Game                    : Quake / QuakeWorld 
+Map Name                : Old crater
+Single Player           : No
+Cooperative 2-4 Player  : No  
+Deathmatch 2-16 Player  : 2/4
+Difficulty Settings     : No
+New Textures            : No
+
+Recommended to be played using deathmatch mode 4/5.
+Great for aim practice.
+==================================================
+* Construction *
+
+Base                    : New level from scratch 
+Editor used             : QuArK 4.07 added 
+                          new QBSP,VIS,LIGHT
+=================================================
+* Copyright / Permissions *
+
+The idea of a design of this map belongs AmoK (amok@start.com.au)!
+The author only has repeated a design and has added some elements.
+Authors may NOT use this level as a base to build additional
+levels. You are not allowed to commercially exploit this level,
+i.e. put it on a CD or any other electronic format that is sold
+for money without my explicit permission.
+
+You MAY distribute this BSP over the internet, provided you include
+this file, with no modifications and do NOT exploit it commercially.
