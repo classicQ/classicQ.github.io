@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html class="full" lang="en">
+<!-- Make sure the <html> tag is set to the .full CSS class. Change the background image in the full.css file. -->
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Preconfigured QuakeWorld package for online fragging! Old school style.">
+    <meta name="author" content="mission">
+
+    <title>classicQ - User's manual</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="website_files/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="website_files/the-big-picture.css" rel="stylesheet">
+
+    <link rel="shortcut icon" href="Fodquake/icons/quake.ico" sizes="16x16 48x48" type="image/vnd.microsoft.icon" />
+    <link rel="icon" href="Fodquake/icons/quake.png" sizes="16x16" type="image/png" />
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="website_files/html5shiv.js"></script>
+        <script src="website_files/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-bottom" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">classicQ</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="windows.html">Windows</a>
+                    </li>
+                    <li>
+                        <a href="linux.html">Linux</a>
+                    </li>
+                    <li>
+                        <a href="mac.html">Mac</a>
+                    </li>
+                    <li>
+                        <a class="active_menu_item" href="manual.html">User's manual</a>
+                    </li>                    
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container dimmed_brown">
+        <div class="row">
+            <div class="col-md-8 col-sm-12">
+                <h1>User's manual</h1>
+                This manual is also available in <a href="Fodquake/MANUAL.pdf" class="link">PDF version</a>.               
+                <h2>Server browser</h2>
+                <p> 
+                    <b>Arrow Key</b> – moves selection highlight up<br>
+                    <b>DOWN Arrow Key</b> – moves selection highlight down<br>
+                    <b>CTRL</b>, <b>SHIFT</b> – if either of them is held down, the UP and DOWN arrow keys allow to move up and down a page<br>
+                </p>      
+                <p>
+                    <b>TAB</b> – moves between columns (ping, number of players, map, hostname)<br>
+                    <b>ENTER</b> – joins the selected server<br>
+                    <b>CTRL</b> + <b>ENTER</b> – joins the selected server as an observer<br>
+                </p>
+                <p>
+                    <b>LEFT</b> or <b>RIGHT Arrow Keys</b> – change mode filters (all game modes, duel, 2on2, 4on4)<br>
+                    <b>CTRL</b> + <b>R</b> – refreshes the list of servers<br>
+                </p>
+                <p>
+                    <b>CTRL</b> + <b>F</b> – opens a player search box<br>
+                    <b>/</b> – opens a map/server search box<br>
+                </p>
+                <p>
+                    <b>ESC</b> – quits the server browser<br>                                                             
+                </p>
+                <h2>Default keys</h2>
+                <p>
+                    <b>W</b> – moves forward<br>
+                    <b>S</b> – moves back<br>
+                    <b>A</b> – moves left<br>
+                    <b>D</b> – moves right<br>
+                </p>
+                <p>
+                    <b>SPACE</b> – jump<br>
+                </p>
+                <p>
+                    <b>Left Mouse Button</b> – (primary attack) Rocket Launcher<br>
+                    <b>Right Mouse Button</b> – (secondary attack) Thunderbolt<br>
+                    <b>Middle Mouse Button</b> – (tertiary attack) Grenade Launcher<br>
+                </p>
+                <p>
+                    <b>Q</b> – Axe<br>                    
+                    <b>E</b> – Shotgun<br>                    
+                    <b>SHIFT</b> – Nailgun<br>
+                </p>
+                <p>
+                    <b>T</b> – say something<br>
+                    <b>G</b> – say something to your team<br>
+                </p>
+                <p>
+                    <b>F5</b> – opens the server browser<br>
+                    <b>F6</b> – sends a message containing the IP and the hostname of the currently selected server in the server browser<br>
+                    <b>F12</b> – takes a screenshot which will be saved in the <b>\Fodquake\qw</b> folder<br>
+                </p>
+                <h2>Essential commands</h2>
+                <p>
+                To open the console press the <b>~</b> (tilde) key. It's usually located just below the <b>ESC</b> key.<br>
+                </p>
+                <p>
+                    <code>sensitivity</code> – adjusts mouse sensitivity<br>
+                    <code>volume</code> – adjusts the sound volume<br>
+                    <code>observe</code> – reconnects as an observer<br>
+                        <code>observe &lt;server&gt;</code> – connects to a specific host as an observer<br>
+                    <code>join</code> – joins as a player (while in observer mode)<br>
+                    <code>join &lt;server&gt;</code> – connects to a specific host<br>
+                    <code>enemycolor 12 12</code> – makes all enemies appear yellow<br>
+                    <code>teamcolor 4 4</code> – makes all team members appear red<br>
+                    <code>enemyskin base</code> – disables enemy skins<br>
+                    <code>teamskin base</code> – disables team skins<br>
+                    <code>reconnect</code> – reconnects to the server<br>
+                    <code>disconnect</code> – disconnects from the server<br>
+                    <code>quit</code> – exits the game<br>
+                </p>
+                <h2>Teamplay Messages</h2>
+                <p>
+                    You can quickly send automated notifications to your team by using the following keys. 
+                    This may appear a little confusing at first, but once you start playing team games everything will become self–explanatory.
+                </p>
+                <p>
+                    <b>1</b> – Enemy [Powerup]<br>
+                    <b>2</b> – Team [Powerup]<br>
+                    <b>3</b> – Quad Dead/Over<br>
+                    <b>4</b> – Get Quad<br>
+                    <b>5</b> – Get Pent<br>
+                    <b>6</b> – Replace [Location]<br>
+                    <b>CTRL</b> – [Item you look at] at [Item Location]<br>
+                    <b>ALT</b> – [Armor]/[Health] [Best Weapon]:[Ammo] [Location] c:[Cells Ammo] [Powerup]<br>
+                    <b>Z</b> – Safe [Location] [Best Weapon]:[Ammo]<br>
+                    <b>X</b> – Help [Location] [Number of Enemies]<br>
+                    <b>C</b> – Coming [Location]<br>
+                    <b>R</b> – Need [What you need] [Location]<br>
+                    <b>F</b> – Took [Item you took] [Item Location]<br>
+                    <b>V</b> – Lost [Location where you died] [Number of Enemies]<br>
+                    <b>B</b> – Enemy Slipped [Location]<br>
+                    <b>Y</b> – Yes/OK [Location]<br>
+                    <b>H</b> – Trick [Location]<br>
+                    <b>N</b> – No/Cancel [Location]<br>
+                    <b>U</b> – You Take [Location]<br>
+                    <b>J</b> – Waiting [Location]<br>
+                    <b>K</b> – Kill me [Location] [Best Weapon]:[Ammo]<br>
+                </p>
+                <h2>Changing maps</h2>
+                <p>
+                    <code>maps</code> displays the list of all the available maps on the server. To change maps, simply 
+                    type in the&nbsp;map’s name. <code>dm2</code>, <code>dm4</code>, <code>dm6</code>, <code>ztndm3</code> and <code>aerowalk</code> are considered essential 
+                    and you should learn all of them. For teamplay, the&nbsp;standard maps are <code>dm2</code>, <code>dm4</code>, <code>dm6</code>, <code>ztndm3</code>, 
+                    <code>aerowalk</code>, <code>dm3</code> and <code>e1m2</code>.                                        
+                </p>
+                <p>
+                    On the FFA (Free For All) servers, you can also use the <code>next_map</code> command to vote to change the map.
+                </p>
+                <h2>Starting the match</h2>
+                <p>
+                    Only the FFA servers will allow you to play straight away. If you want to become good at Quake, 
+                    try to avoid the FFA servers and focus on duels and teamplay first.
+                </p>
+                <p>
+                    KTX (Kombat Teams eXtreme) are considered “standard” and these type of servers are the most common in QuakeWorld.
+                </p>
+                <p>
+                    After joining a KTX server, set the correct gameplay mode first by typing in <code>1on1</code> (duel), <code>2on2</code> or&nbsp;<code>4on4</code> for teamplay. 
+                    Then each player must type <code>ready</code> to start the match. 
+                    Type <code>break</code> to&nbsp;come back from <code>ready</code> or to vote to stop the match.
+                </p>
+                    In the teamplay modes, you can use the <code>rpickup</code> command to randomly assign players to each team. 
+                    The <code>whonot</code> command shows which players are not ready.                
+                </p>
+                <h2>Saving settings</h2>
+                <p>
+                    Type <code>cfg_save</code> and press <b>ENTER</b>, then again <code>cfg_save</code> and <b>ENTER</b> to confirm.
+                </p>
+                <h2>Reset to default settings</h2>
+                <p>
+                    If you ever find yourself in a situation where you need to restore the default „classicQ” settings, 
+                    simply navigate to&nbsp;the&nbsp;<b>\Fodquake\configs</b> folder and delete the “default.cfg” file. 
+                    Do not remove the “default.cfg” from the \Fodquake\ folder!
+                </p>
+                <h2>Demos</h2>
+                <p>
+                    To view demos, go to the “main menu” (the <b>ESC</b> key) then “multiplayer” and “demos”. 
+                    ClassicQ already contains some nice recordings. Make sure to check them out!
+                </p>
+                <p>
+                    You will often see the “Server starts recording” and “Server recording completed” messages in&nbsp;the console. 
+                    Most QuakeWorld servers automatically record each game. 
+                    To display the list of&nbsp;recorded demos on the server, use the <code>cmd&nbsp;dlist</code> command. 
+                    <code>cmd&nbsp;dl&nbsp;&lt;number&gt;</code> will download the selected demo from the list. <code>cmd&nbsp;dl&nbsp;.</code> (dot instead of a number) will download the&nbsp;latest. 
+                    <code>cmd&nbsp;dl&nbsp;cancel</code> cancels the download.            
+                </p>
+                <h2>Gibs</h2>
+                <p>
+                    Many players choose to play with gibs and corpses disabled for better visibility. 
+                    To enable these filters, simply type in the following: <code>cl_gibFilter 1</code> and <code>cl_deadbodyFilter 1</code>            
+                </p>
+                <h2>ServeMe</h2>
+                <p>
+                    “[ServeMe]” bots are part of a broadcasting service that allows sending messages to the QuakeWorld servers and the&nbsp;QuakeWorld IRC channels. 
+                    When you are on a server where a&nbsp;[ServeMe] bot is observing the game use <code>.qw&nbsp;&lt;message&gt;</code> or <code>.spam&nbsp;&lt;message&gt;</code> to&nbsp;broadcast messages. 
+                    You are limited to few messages per minutes. Please don’t spam and be&nbsp;polite and respectful at all times.
+                </p>
+                <h2>QuakeTV</h2>
+                <p>
+                    To join QuakeTV stream please use the following format:<br>
+                    <code>/qtvplay&nbsp;&lt;stream&nbsp;id&gt;@&lt;hostname&gt;:&lt;QuakeTV&nbsp;port&gt;</code>
+                </p>
+                <p>
+                    For example: <code>/qtvplay&nbsp;4@mission.net.pl:28000</code>
+                </p>
+                <h2>Team Fortress</h2>
+                <p>
+                    Although the Team Fortress mod is compatible with classicQ, and sometimes you will see TF servers in the server browser, in order to play it, you will need to set it up on your own.
+                    TF is very different from traditional QuakeWorld and has a separate community. 
+                    It's just not an area of focus for classicQ.
+                </p>
+                <h2>Updates</h2>
+                <p>
+                    To get the latest updates, either visit the classicQ repository at <a class="link" href="http://github.com/classicQ">http://github.com/classicQ</a> to find the most recent commit 
+                    or simply download the latest Fodquake build from the official site at <a class="link" href="http://www.fodquake.net">http://www.fodquake.net</a>. classicQ uses Fodquake as a QuakeWorld client.         
+                </p>
+                </p>
+                <h2>Source code</h2>
+                <p>
+                    Please note that the copy of the Fodquake source code that is located at&nbsp;<a class="link" href="http://github.com/classicQ">http://github.com/classicQ</a> is for reference only. 
+                    The most recent version is only available at&nbsp;<a class="link" href="http://www.fodquake.net">http://www.fodquake.net</a> and has a dedicated Git repository.
+                </p>
+                <h2>Additional support</h2>
+                <p>
+                    Support is available at the following two places:<br>
+                    <a class="link" href="http://www.quakeworld.nu">http://www.quakeworld.nu</a> – forum<br>
+                    <a class="link" href="irc://irc.quakenet.org">irc://irc.quakenet.org</a> – #qwrookie, #quakeworld and #fodquake channels<br>
+                </p> 
+                <p>
+                    <br>
+                </p>
+            </div>
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="website_files/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="website_files/bootstrap.min.js"></script>
+
+</body>
+
+</html>

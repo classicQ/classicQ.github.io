@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html class="full" lang="en">
+<!-- Make sure the <html> tag is set to the .full CSS class. Change the background image in the full.css file. -->
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Preconfigured QuakeWorld package for online fragging! Old school style.">
+    <meta name="author" content="mission">
+
+    <title>classicQ - Installing on Mac</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="website_files/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="website_files/the-big-picture.css" rel="stylesheet">
+
+    <link rel="shortcut icon" href="Fodquake/icons/quake.ico" sizes="16x16 48x48" type="image/vnd.microsoft.icon" />
+    <link rel="icon" href="Fodquake/icons/quake.png" sizes="16x16" type="image/png" />
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="website_files/html5shiv.js"></script>
+        <script src="website_files/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-bottom" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">classicQ</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="windows.html">Windows</a>
+                    </li>
+                    <li>
+                        <a href="linux.html">Linux</a>
+                    </li>
+                    <li>
+                        <a class="active_menu_item" href="mac.html">Mac</a>
+                    </li>
+                    <li>
+                        <a href="manual.html">User's manual</a>
+                    </li>                    
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container dimmed_brown">
+        <div class="row">
+            <div class="col-md-8 col-sm-12">
+                <h1>Installing on Mac</h1>        
+                <h2>Step 1: Prepare original Quake</h2>
+                <p>
+                    classicQ requires Quake 1 to run. 
+                    More specifically, it needs the game data archives contained in the <b>PAK0.PAK</b> and <b>PAK1.PAK</b> files. These two files are always located inside the <b>Quake/Id1/</b> folder.
+                </p>
+                <p>
+                    You can purchase a legal copy of Quake (Windows only) on Steam:<br>
+                    <a class="link" href="http://store.steampowered.com/app/2310/">http://store.steampowered.com/app/2310/</a>
+                </p>
+                <p>
+                    If you have installed Quake using Steam on Windows operating system, "PAK" files are usually located in the following folder: <b>C:\Program Files (x86)\Steam\steamapps\common\Quake\Id1\</b>
+                </p>
+                <p>
+                    Please make sure you do have <b>PAK0.PAK</b> and <b>PAK1.PAK</b> on your Mac before proceeding with the next steps!
+                </p>                
+                <h2>Optional: Verify PAK files</h2>
+                <p>
+                    If you want to double-check that you have the correct files, you can verify their MD5 hashes against the table below.
+                </p>           
+                <p>
+                    <table class="info_table">
+                        <tr>
+                            <td>File</td><td>Size</td><td>MD5 checksum</td>
+                        </tr>
+                        <tr>
+                            <td>PAK0.PAK</td><td>18 689 235 bytes</td><td>5906E5998FC3D896DDAF5E6A62E03ABB</td>
+                        </tr>
+                        <tr>
+                            <td>PAK1.PAK</td><td>34 257 856 bytes</td><td>D76B3E5678F0B64AC74CE5E340E6A685</td>
+                        </tr>
+                    </table>
+                </p>
+                <p>
+                    You can easily calculate MD5 checksums with Terminal:<br>
+                    <code>md5 PAK0.PAK PAK1.PAK</code><br>                 
+                </p> 
+                <h2>Step 2: Download classicQ</h2>
+                <p>
+                    To download classicQ, simply get the latest release (under "Source code" link) from GitHub:<br>
+                    <a class="link" href="http://github.com/classicQ/classicQ.github.io/releases/latest">http://github.com/classicQ/classicQ.github.io/releases/latest</a><br>
+                    Don't worry, you won't need to compile anything.
+                </p>
+                <h2>Step 3: Generate config file</h2>
+                <p>
+                    Config files are text files with the <b>.cfg</b> extension. 
+                    They contain player settings such as keyboard controls. 
+                    All Quake settings must be configured using the in-game console or by manually editing <b>.cfg</b> files. 
+                    This is quite cumbersome to new users. Luckily, you can setup a basic config file using the configurator below. 
+                </p>
+                <p>
+                    Firstly, rearrange the keyboard settings (refresh the page to restart the process if needed)                    
+                </p>
+                <p>
+                    <div class="keybinds_table">
+                        <div class="div-table-row">
+                            <div id="keybinds_left">
+                                <ul id="unsortable">
+                                    <li>W</li>
+                                    <li>S</li>
+                                    <li>A</li>
+                                    <li>D</li>
+                                    <li>SPACE</li>
+                                    <li>Left Mouse Button</li>
+                                    <li>Right Mouse Button</li>
+                                    <li>Middle Mouse Button</li>
+                                    <li>Q</li>
+                                    <li>E</li>
+                                    <li>SHIFT</li>
+                                </ul>                              
+                            </div>                            
+                            <div id="keybinds_right">
+                                <ul id="sortable">
+                                    <li id="sortable0">moves forward</li>
+                                    <li id="sortable1">moves back</li>
+                                    <li id="sortable2">moves left</li>
+                                    <li id="sortable3">moves right</li>
+                                    <li id="sortable4">jump</li>
+                                    <li id="sortable5">(primary attack) Rocket Launcher</li>
+                                    <li id="sortable6">(secondary attack) Thunderbolt</li>
+                                    <li id="sortable7">(tertiary attack) Grenade Launcher</li>
+                                    <li id="sortable8">Axe</li>
+                                    <li id="sortable9">Shotgun</li>
+                                    <li id="sortable10">Nailgun</li>
+                                </ul>                              
+                            </div>
+                        </div>
+                    </div>            
+                </p>
+                <p>
+                    Do you play with inverted mouse?<br>   
+                    <div class="toggle_container">
+                        <div id="invert_mouse" class="toggle toggle-modern" data-toggle-on="true" data-toggle-height="20" data-toggle-width="60">test</div>
+                    </div>
+                </p>
+                <p>
+   
+                    Next, enter your nickname here:<br>
+                    <input id="nickname" type="text" name="text" maxlength="14" /><br>
+                </p>
+                <p>
+                    Finally, click the button below to create your <b>.cfg</b> file:
+                    <div><a id="cfg_button" href="">Generate config</a></div> 
+                </p>
+                <p>
+                    Please save it as <b>initial_keybinds.cfg</b> and keep it for later use. <br>
+                    You can put it into the same folder with the already prepared <b>PAK0.PAK</b> and <b>PAK1.PAK</b> files.
+                </p>
+                <h2>Step 4: Put everything together</h2>
+                <p>
+                    You're almost finished! Now that you have all the necessary files, it is time to copy everything to the correct folders. 
+                </p>
+                <p>
+                    <ol id="installation_steps">
+                        <li><span>Extract classicQ from <b>.zip</b> file to any temporary location</span></li>                        
+                        <li><span>Open the extracted files in Finder and locate the <b>Fodquake</b> directory (the one with an uppercase "F")</span></li>
+                        <li>
+                            <span>
+                                Move <b>Fodquake</b> directory to <b>~/Library/Application Support/</b> folder<br>
+                                <span class="tip">Tip:</span> press <b>Command+SHIFT+G</b> keys in Finder to open "Go To Folder" pop-up window and paste the location: <b>~/Library/Application Support/</b>
+                            </span>
+                        </li>  
+                        <li>
+                            <span>
+                                Next, open the <b>~/Library/Application Support/Fodquake/id1/</b> directory. 
+                                Move the previously prepared <b>PAK0.PAK</b>, <b>PAK1.PAK</b> files and the <b>initial_keybinds.cfg</b> file here (you can overwrite the existing <b>initial_keybinds.cfg</b> file)  
+                            </span>
+                        </li>
+                        <li>
+                            <span>
+                                Now open the <b>~/Library/Application Support/Fodquake/</b> directory and double-click on <b>fodquake-YYYYMMDD-i686-macosx.dmg</b> file. 
+                                You will see <b>Fodquake-GL</b> application - you can put that anywhere you want, for example on Desktop or in Programs.  
+                            </span>
+                        </li>                        
+                    </ol>                    
+                </p>
+                <p>
+                    Congrats! You have finished installing classicQ!<br>
+                    To start the game, run <b>Fodquake-GL</b> app. 
+                </p>
+                <p>
+                    <br>
+                </p>
+            </div>
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="website_files/jquery.js"></script>
+    <script src="website_files/jquery-ui.min.js"></script>
+    <script src="website_files/toggles.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="website_files/bootstrap.min.js"></script>
+
+    <script>
+        $('.toggle').toggles({text:{on:'NO',off:'YES'}});
+    </script>
+
+    <script>
+        $(function() {
+        $( "#sortable" ).sortable();
+        $( "#sortable" ).disableSelection();
+        });
+    </script>
+    <script src="website_files/filesaver/FileSaver.min.js"></script>
+    <script src="website_files/classicQ.js"></script>
+    <script src="website_files/app.js"></script>
+
+</body>
+
+</html>

@@ -23,7 +23,7 @@ Quake® and QuakeWorld® are registered trademarks of Id Software
 Quake®, the stylized Q in Quake®, and the images depicted in Quake® 
 are the copyrighted property of Id Software
 
-classicQ is NOT a Id Software product.
+classicQ is NOT an Id Software product.
 classicQ is not affiliated with Id Software in any way.
 ```
 
@@ -32,11 +32,11 @@ classicQ is using textures made by QuakeWorld community members.
 If you'd like to be featured, please get in touch.
 
 ##### classicQ project
-mission  
+Mission  
 
 ##### Extra credits
-InternalVoid  
 Brightf0x  
+InternalVoid  
 
 ##### Fodquake programming
 Bigfoot  
@@ -50,7 +50,7 @@ Tuna
 ##### Fodquake artwork
 Korni  
 
-##### Based on
+##### Fodquake is based on
 FuhQuake by A Nourai  
 ZQuake by Anton Gavrilov  
 QuakeWorld by Id Software  
