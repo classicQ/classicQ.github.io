@@ -28,29 +28,29 @@ classicQ is not affiliated with Id Software in any way.
 ```
 
 ### Credits
-classicQ is using textures made by QuakeWorld community members.
+classicQ is using textures made by QuakeWorld community members.  
 If you'd like to be featured, please get in touch.
 
 ##### classicQ project
-mission
+mission  
 
 ##### Extra credits
-InternalVoid
-Brightf0x
+InternalVoid  
+Brightf0x  
 
 ##### Fodquake programming
-Bigfoot
-Dimman
-jacaDcaps
-Jogi
-Raz0
-Spoike
-Tuna
+Bigfoot  
+Dimman  
+jacaDcaps  
+Jogi  
+Raz0  
+Spoike  
+Tuna  
 
 ##### Fodquake artwork
-Korni
+Korni  
 
 ##### Based on
-FuhQuake by A Nourai
-ZQuake by Anton Gavrilov
-QuakeWorld by Id Software
+FuhQuake by A Nourai  
+ZQuake by Anton Gavrilov  
+QuakeWorld by Id Software  
