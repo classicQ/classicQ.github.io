@@ -9,7 +9,6 @@ Preconfigured QuakeWorld package for online fragging! Old school style.
 ### Installation
 Please visit [http://classicQ.github.io] (http://classicQ.github.io) and follow the instructions for your operating system.
 
-```
 ### License
 ```
 classicQ is free software; you can redistribute it and/or modify
