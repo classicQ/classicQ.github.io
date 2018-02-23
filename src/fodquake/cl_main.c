@@ -1095,7 +1095,7 @@ static void CL_BeginServerConnect(void)
 #ifdef NETQW
 	Ruleset_Activate();
 
-	cls.netqw = NetQW_Create(cls.servername, cls.userinfo, rand()&0xffff);
+	cls.netqw = NetQW_Create(cls.servername, cls.userinfo, rand()&0xffff, FTEX_SUPPORTED);
 	if (cls.netqw)
 	{
 		Com_Printf("Connecting to %s...\n", cls.servername);
@@ -1630,6 +1630,14 @@ qboolean CL_GetMessage(void)
 	{
 		unsigned int size;
 		void *p;
+
+		if (!cls.extensionsqueried)
+		{
+			if (NetQW_GetExtensions(cls.netqw, &cls.ftexsupported))
+			{
+				cls.extensionsqueried = 1;
+			}
+		}
 
 		size = NetQW_GetPacketLength(cls.netqw);
 		if (size)

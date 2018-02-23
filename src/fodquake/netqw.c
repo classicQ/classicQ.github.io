@@ -80,6 +80,7 @@ struct NetQW
 #warning Not really used for anything.
 	int error;
 	unsigned short qport;
+	unsigned int ftex;
 	int challenge;
 	unsigned long long resendtime;
 	unsigned char packetloss;
@@ -119,7 +120,10 @@ struct NetQW
 	unsigned long long movetimecounter;
 	int send_tmove;
 	int movement_locked;
-	unsigned char tmove_buffer[6];
+	union {
+		unsigned char buffer[6];
+		float bufferf[3];
+	} tmove;
 	float forwardspeed;
 	float sidespeed;
 	float upspeed;
@@ -603,6 +607,10 @@ static void NetQW_Thread_DoReceive(struct NetQW *netqw)
 									netqw->huffcrc = value;
 								}
 							}
+							else if (extension == QW_PROTOEXT_FTEX)
+							{
+								netqw->ftex &= value;
+							}
 							else
 							{
 								Com_Printf("Unknown protocol extension: %08x\n", extension);
@@ -798,9 +806,16 @@ static void NetQW_Thread_DoSend(struct NetQW *netqw)
 			if (netqw->send_tmove)
 			{
 				buf[i++] = clc_tmove;
-				memcpy(buf + i, netqw->tmove_buffer, 6);
-				i += 6;
-
+				if ((cls.ftexsupported & FTEX_FLOATCOORDS))
+				{
+					memcpy(buf + i, netqw->tmove.bufferf, 12);
+					i += 12;
+				}
+				else
+				{
+					memcpy(buf + i, netqw->tmove.buffer, 6);
+					i += 6;
+				}
 				netqw->send_tmove = 0;
 			}
 
@@ -865,6 +880,11 @@ static void NetQW_Thread_DoSend(struct NetQW *netqw)
 				if (netqw->huffcontext)
 				{
 					i += snprintf((char *)(buf + i), sizeof(buf) - i, "0x%08x 0x%08x\n", QW_PROTOEXT_HUFF, netqw->huffcrc);
+				}
+
+				if (netqw->ftex)
+				{
+					i += snprintf((char *)(buf + i), sizeof(buf) - i, "0x%08x 0x%08x\n", QW_PROTOEXT_FTEX, netqw->ftex);
 				}
 
 				if (i < sizeof(buf))
@@ -1001,7 +1021,7 @@ static void NetQW_Thread(void *arg)
 	}
 }
 
-struct NetQW *NetQW_Create(const char *hoststring, const char *userinfo, unsigned short qport)
+struct NetQW *NetQW_Create(const char *hoststring, const char *userinfo, unsigned short qport, unsigned int ftex)
 {
 	struct NetQW *netqw;
 	int r;
@@ -1011,6 +1031,7 @@ struct NetQW *NetQW_Create(const char *hoststring, const char *userinfo, unsigne
 	{
 		netqw->quit = 0;
 		netqw->qport = qport;
+		netqw->ftex = ftex;
 		netqw->mutex = 0;
 		netqw->thread = 0;
 		netqw->reliable_buffers_sent = 0;
@@ -1313,23 +1334,32 @@ void NetQW_SetDeltaPoint(struct NetQW *netqw, int delta_sequence_number)
 
 void NetQW_SetTeleport(struct NetQW *netqw, float *position)
 {
-	unsigned int temp;
-
 	Sys_Thread_LockMutex(netqw->mutex);
 
 	netqw->send_tmove = 1;
 
-	temp = (int)(position[0] * 8);
-	netqw->tmove_buffer[0] = temp;
-	netqw->tmove_buffer[1] = temp>>8;
+	if ((cls.ftexsupported & FTEX_FLOATCOORDS))
+	{
+		netqw->tmove.bufferf[0] = LittleFloat(position[0]);
+		netqw->tmove.bufferf[1] = LittleFloat(position[1]);
+		netqw->tmove.bufferf[2] = LittleFloat(position[2]);
+	}
+	else
+	{
+		unsigned int temp;
 
-	temp = (int)(position[1] * 8);
-	netqw->tmove_buffer[2] = temp;
-	netqw->tmove_buffer[3] = temp>>8;
+		temp = (int)(position[0] * 8);
+		netqw->tmove.buffer[0] = temp;
+		netqw->tmove.buffer[1] = temp>>8;
 
-	temp = (int)(position[2] * 8);
-	netqw->tmove_buffer[4] = temp;
-	netqw->tmove_buffer[5] = temp>>8;
+		temp = (int)(position[1] * 8);
+		netqw->tmove.buffer[2] = temp;
+		netqw->tmove.buffer[3] = temp>>8;
+
+		temp = (int)(position[2] * 8);
+		netqw->tmove.buffer[4] = temp;
+		netqw->tmove.buffer[5] = temp>>8;
+	}
 
 	Sys_Thread_UnlockMutex(netqw->mutex);
 }
@@ -1360,6 +1390,16 @@ void NetQW_SetLagEzcheat(struct NetQW *netqw, int enabled)
 unsigned long long NetQW_GetTimeSinceLastPacketFromServer(struct NetQW *netqw)
 {
 	return Sys_IntTime() - netqw->lastserverpackettime;
+}
+
+int NetQW_GetExtensions(struct NetQW *netqw, unsigned int *ftex)
+{
+	if (netqw->state < state_sendconnection)
+		return 0;
+
+	*ftex = netqw->ftex;
+
+	return 1;
 }
 
 void NetQW_SetForwardSpeed(struct NetQW *netqw, float value)

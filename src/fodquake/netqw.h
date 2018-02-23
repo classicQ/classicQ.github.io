@@ -1,7 +1,7 @@
 
 #include "quakedef.h" /* for frame_t :/ */
 
-struct NetQW *NetQW_Create(const char *hoststring, const char *userinfo, unsigned short qport);
+struct NetQW *NetQW_Create(const char *hoststring, const char *userinfo, unsigned short qport, unsigned int ftex);
 void NetQW_Delete(struct NetQW *netqw);
 void NetQW_GenerateFrames(struct NetQW *netqw);
 void NetQW_SetFPS(struct NetQW *netqw, unsigned int fps);
@@ -16,6 +16,7 @@ void NetQW_SetTeleport(struct NetQW *netqw, float *position);
 void NetQW_SetLag(struct NetQW *netqw, unsigned int microseconds);
 void NetQW_SetLagEzcheat(struct NetQW *netqw, int enabled);
 unsigned long long NetQW_GetTimeSinceLastPacketFromServer(struct NetQW *netqw);
+int NetQW_GetExtensions(struct NetQW *netqw, unsigned int *ftex);
 
 void NetQW_LockMovement(struct NetQW *netqw);
 void NetQW_UnlockMovement(struct NetQW *netqw);

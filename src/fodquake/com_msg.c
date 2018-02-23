@@ -469,12 +469,26 @@ char *MSG_ReadStringLine (void)
 
 float MSG_ReadCoord (void)
 {
-	return MSG_ReadShort() * (1.0 / 8);
+	if ((cls.ftexsupported & FTEX_FLOATCOORDS))
+	{
+		return MSG_ReadFloat();
+	}
+	else
+	{
+		return MSG_ReadShort() * (1.0 / 8);
+	}
 }
 
 float MSG_ReadAngle (void)
 {
-	return MSG_ReadChar() * (360.0 / 256);
+	if ((cls.ftexsupported & FTEX_FLOATCOORDS))
+	{
+		return MSG_ReadAngle16();
+	}
+	else
+	{
+		return MSG_ReadChar() * (360.0 / 256);
+	}
 }
 
 float MSG_ReadAngle16 (void)

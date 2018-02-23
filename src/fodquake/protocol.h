@@ -307,12 +307,13 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 #define FTEX_TRANS            0x00000008
 #define FTEX_FATNESS          0x00000100
 #define FTEX_MODELDOUBLE      0x00001000
+#define FTEX_FLOATCOORDS      0x00008000
 #define FTEX_COLOURMOD        0x00080000
 #define FTEX_SPAWNBASELINE2   0x00400000
 #define FTEX_CHUNKEDDOWNLOADS 0x20000000
 #define FTEX_CSQC             0x40000000
 
-#define FTEX_SUPPORTED (FTEX_CHUNKEDDOWNLOADS)
+#define FTEX_SUPPORTED (FTEX_FLOATCOORDS /*| FTEX_CHUNKEDDOWNLOADS*/)
 
 /*
 ==========================================================

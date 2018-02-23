@@ -263,6 +263,7 @@ typedef struct {
 	unsigned int hufftablecrc;
 	unsigned int ftexsupported;
 	unsigned int fte2supported;
+	qboolean extensionsqueried;
 } clientPersistent_t;
 
 extern clientPersistent_t	cls;
