@@ -257,6 +257,67 @@ code {
     text-align: center;
 }
 
+.page-end {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 24px;
+}
+
+.btn-small {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 5px 14px;
+    background: linear-gradient(to bottom, var(--btn-from), var(--btn-to));
+    color: var(--text-bright);
+    font-size: 0.9em;
+    border-radius: 4px;
+    border: 1px solid var(--border-dark);
+    text-decoration: none;
+}
+
+.btn-small:hover {
+    background: linear-gradient(to bottom, var(--btn-hover-from), var(--btn-hover-to));
+    color: var(--text-bright);
+    text-decoration: none;
+}
+
+.btn-github {
+    background: linear-gradient(to bottom, #2d2d2d, #0d0d0d);
+}
+
+.btn-github:hover {
+    background: linear-gradient(to bottom, #454545, #1f1f1f);
+}
+
+.btn.btn-github {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.landing-box .gh-corner {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    color: var(--text-bright);
+    border-radius: 4px;
+    border: 1px solid var(--border-dark);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    html {
+        scroll-behavior: smooth;
+    }
+}
+
 .screenshot-stack {
     display: grid;
     gap: 18px;
@@ -308,6 +369,9 @@ body:has(.lightbox[open]) {
     .landing {
         padding-left: 16px;
         padding-right: 16px;
+    }
+    .landing-box .logo {
+        max-width: min(280px, calc(100% - 60px));
     }
     .container {
         margin: 20px auto;
